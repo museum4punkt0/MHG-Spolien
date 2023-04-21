@@ -31,7 +31,7 @@ Beim ersten Öffnen des Projektes werden Fehler auftreten, da externe Tools sowi
 
 - [PagedRect](https://assetstore.unity.com/packages/tools/gui/pagedrect-paging-galleries-and-menus-for-unity-ui-54552) (Installation über den Unity Asset Store / Package Manager) 
 
-- [MHG Asset Pack]() [(Installation über Custom Package)](https://docs.unity3d.com/Manual/AssetPackagesImport.html) 
+- [MHG Asset Pack](https://gitlab.jn.de/jn-public/mhg_spolien-additionaldata) [(Installation über Custom Package)](https://docs.unity3d.com/Manual/AssetPackagesImport.html) 
 
  
 
@@ -76,9 +76,17 @@ APKs können auf jedem Android-Gerät installiert, welches
 ### iOS 
 Für ein Build auf iOS muss über die Build-Settings das Build-Target auf iOS gewechselt werden. Für das Deployment auf iOS-Geräten wird zwingend ein Computer mit MacOS und XCode benötigt. 
 
-[Mehr Informationen](https://docs.unity3d.com/Manual/iphone-BuildProcess.html) 
+[Mehr Informationen](https://docs.unity3d.com/Manual/iphone-BuildProcess.html)
+## Bekannte Probleme
+
+- Splash Screen wechselt die Sprache nicht
+- Größe der gebuildeten App ist über 2GB, installation auf Android Geräten derzeit nur über Patch-and-Run möglich
+
 ## Credits 
- Konzeption und Produktion: jangled nerves GmbH im auftrag des Museum für Hamburgische Geschichte 
+
+![jangled-rgb](https://user-images.githubusercontent.com/101568996/233662078-c7a12e1d-1f50-401b-abd2-4d597ecb7b84.jpg)
+
+ Konzeption und Produktion: jangled nerves GmbH im Auftrag des Museum für Hamburgische Geschichte 
 
  Projektleitung: Lucas.Froeschle@jn.de
 
