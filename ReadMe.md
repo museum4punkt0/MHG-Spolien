@@ -76,7 +76,12 @@ APKs können auf jedem Android-Gerät installiert, welches
 ### iOS 
 Für ein Build auf iOS muss über die Build-Settings das Build-Target auf iOS gewechselt werden. Für das Deployment auf iOS-Geräten wird zwingend ein Computer mit MacOS und XCode benötigt. 
 
-[Mehr Informationen](https://docs.unity3d.com/Manual/iphone-BuildProcess.html) 
+[Mehr Informationen](https://docs.unity3d.com/Manual/iphone-BuildProcess.html)
+## Bekannte Probleme
+
+- Splash Screen wechselt die Sprache nicht
+- Größe der gebuildeten App ist über 2GB, installation auf Android Geräten derzeit nur über Patch-and-Run möglich
+
 ## Credits 
 
 ![jangled-rgb](https://user-images.githubusercontent.com/101568996/233662078-c7a12e1d-1f50-401b-abd2-4d597ecb7b84.jpg)
