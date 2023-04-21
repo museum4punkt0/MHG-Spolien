@@ -1,0 +1,1968 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3223ac59bbbf793438eaf3bc58310dbf, type: 3}
+  m_Name: SpolienData_DE
+  m_EditorClassIdentifier: 
+  spolien:
+  - name: 'Kleines Rathausportal '
+    id: '#001001'
+    thumbInfo: 
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 7c87b1f71b539bc4fbe05eec6c78bc1b, type: 3}
+      thumbTitle: 3D View
+      thumbInfo: 'Kleines Rathausportal '
+      mode: 0
+    - thumb: {fileID: 21300000, guid: de3f570eff58fbe4bb07b8a3fbe1ce84, type: 3}
+      thumbTitle: 'Altes Rathaus '
+      thumbInfo: Stahlstich von Gray u. Laeisz, vor 1842
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 82401931a8a4f454682f87ac6588eb4c, type: 3}
+      thumbTitle: Brand 1842
+      thumbInfo: Lithografie von Peter Suhr
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 51271d2403a7deb48b2990849bd7cdbb, type: 3}
+      thumbTitle: Normaluhr
+      thumbInfo: Portal mit Zeitmesser, um 1918
+      mode: 1
+    details: []
+    titleInfo: "Datierung: 1649 \nMaterial: Sandstein\n\nDer Bogen des kleinen Rathausportals
+      ist nicht einmal drei Meter hoch. Er wirkt im Vergleich zu anderen Portalen
+      rund ums Museum etwas unscheinbar. Als originale Teile erhalten geblieben sind
+      nur die beiden L\xF6wen in den Zwickeln und das Stadtwappen. "
+    detailedInfo: "Urspr\xFCnglich geh\xF6rte das Portal seit dem Jahr 1649 zur Erweiterung
+      des alten Hamburger Rathauses an der Trostbr\xFCcke. Dahinter befanden sich
+      die R\xE4umlichkeiten der Hamburger Bank. Zudem lagen im Gew\xF6lbekeller gleich
+      zur Linken der kleinen Rathauspforte die st\xE4dtischen Geldreserven in Form
+      von Silberbarren verwahrt \u2013 bis sie von den franz\xF6sischen Besatzern
+      im Winter 1813/1814 beschlagnahmt wurden. Die Sprengung des Rathauses w\xE4hrend
+      des Gro\xDFen Brandes von 1842 hatte das Portal \xFCberlebt. Nach einer Zwischenstation
+      im Alten Johanneum am Domplatz wurde es schlussendlich an den heutigen Museumsbau
+      versetzt. \n\nDessen Architekt Fritz Schumacher hatte sich allerdings noch
+      eine Besonderheit \xFCberlegt: Gesch\xFCtzt hinter einem gl\xE4sernen Rahmen
+      wurde in dem jetzt leeren Bogen eine sogenannte Normaluhr installiert. Solch
+      ein sehr genau gehender Zeitmesser war an dieser Stelle schon betrieben worden,
+      bevor es das Museum gab \u2013 als n\xE4mlich am Holstenwall noch die Hamburger
+      Sternwarte ihren Standort hatte. Zur Sternwarte geh\xF6rte eine Zeitzentrale,
+      welche auch im neuen Museum wieder eingerichtet wurde. Auf diese Weise wurde
+      bis 1943 nicht nur die vom Vorplatz aus sichtbare Normaluhr in Gang gehalten,
+      sondern auch die Turmuhr auf dem Museumsdach."
+    location:
+      latitude: 0
+      longitude: 0
+  - name: "Gro\xDFes Rathausportal "
+    id: '#001002'
+    thumbInfo: 
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 4ef428340621857418fd3cc05c5dc942, type: 3}
+      thumbTitle: 3D View
+      thumbInfo: "Gro\xDFes Rathausportal "
+      mode: 0
+    - thumb: {fileID: 21300000, guid: 3f9431d5e3468a540bc02b41f85cfe62, type: 3}
+      thumbTitle: Altes Rathaus
+      thumbInfo: Ansicht im Jahr 1700
+      mode: 1
+    - thumb: {fileID: 21300000, guid: d95ac11b15e9ab547ae0a224373e8e11, type: 3}
+      thumbTitle: Altes Rathaus
+      thumbInfo: Ansicht im Jahr 1841
+      mode: 1
+    - thumb: {fileID: 21300000, guid: fa8e4044c5525c74485801a7c140b5e1, type: 3}
+      thumbTitle: "Gro\xDFer Brand"
+      thumbInfo: "Blick auf Kran, B\xF6rse, Rathaus 1842"
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 5d2fd32149077f045b4397beafd4316c, type: 3}
+      thumbTitle: Ruine
+      thumbInfo: Nach der Sprengung 1842
+      mode: 1
+    details: []
+    titleInfo: "Datierung: 1601\nMaterial: Sandstein\n\n\xDCber dreieinhalb Meter
+      breit und beinahe sieben Meter hoch ist das gro\xDFe Sandsteinportal im Zunftsaal
+      des Museums. Es mag erstaunen, dass es sich hierbei um den weniger bedeutsamen
+      der beiden Haupteing\xE4nge zum alten Rathaus an der Trostbr\xFCcke handelte. "
+    detailedInfo: "Der Eingang geh\xF6rte zu einem rechts an das mittelalterliche
+      Ratsgeb\xE4ude angesetzten Erweiterungsbau von 1601. Urspr\xFCnglich betrat
+      man durch ihn zun\xE4chst eine Diele und dahinter Ratsstube und Registratur.
+      Wichtiger war allerdings der Eingang zum Rathaussaal und der lag nebenan im
+      mittelalterlichen Ratsgeb\xE4ude. Von diesem mehrfach erneuerten Portal sind
+      nur wenige Reste erhalten. \n\nAm Rathausportal im Zunftsaal kann man kannelierte
+      korinthische S\xE4ulen entdecken und in den Bogenzwickeln Frauen als Friedensgenien,
+      die Kr\xE4nze und Palmzweige tragen. Dar\xFCber stehen wappenhaltende L\xF6wen
+      sowie speertragende Soldaten. In der Mitte \xFCber dem medaillonartig eingefassten
+      Stadtwappen bekr\xF6nt eine weitere Frauenfigur als Friedensallegorie die Szenerie.
+      In Summe ein Bildprogramm, welches den Einwohnern und auch Besuchern Hamburgs
+      am Beginn des 17. Jahrhunderts Zustandsbeschreibung, Hoffnung und Mahnung zugleich
+      sein konnte: Eine wohlhabende Stadt, die auf friedlichen Handel setzt, sich
+      gegen Versuche ausw\xE4rtiger Einflussnahme aber auch zur Wehr zu setzen wei\xDF."
+    location:
+      latitude: 0
+      longitude: 0
+  - name: "Kaiserfiguren vom alten Rathaus an der Trostbr\xFCcke "
+    id: '#001003'
+    thumbInfo: 
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: e78dc6829ae913f4d85e8ff622e5e071, type: 3}
+      thumbTitle: 3D View
+      thumbInfo: Friedrich Barbarossa
+      mode: 0
+    - thumb: {fileID: 21300000, guid: ef138034900fb474a89454363fc4c5a1, type: 3}
+      thumbTitle: Altes Rathaus
+      thumbInfo: Kupferstich von Diederich Lemkus, um 1700
+      mode: 1
+    - thumb: {fileID: 21300000, guid: c051951bcdaa4284882a763118d50d77, type: 3}
+      thumbTitle: Kaiserfiguren
+      thumbInfo: Gerettet und eingelagert, 1880er Jahre
+      mode: 1
+    - thumb: {fileID: 21300000, guid: d0f6dc3c278a1b446b7398de78a384ce, type: 3}
+      thumbTitle: Kaiserfiguren
+      thumbInfo: und Rathausportal im Johanneum, 1894
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 06d447f65ac8ee84bac1f39e8a9e1a6f, type: 3}
+      thumbTitle: Friedrich Barbarossa
+      thumbInfo: Im Johanneum, 1894
+      mode: 1
+    details: []
+    titleInfo: "Datierung: 1602-1649\nMaterial: Sandstein\n\nZwischen den Fenstern
+      an der Nordwestseite des Museums stehen 14 steinerne Figuren. Es sind Bildnisse
+      mittelalterlicher deutscher Kaiser, die bis 1842 in ganz \xE4hnlicher Weise
+      auf ihren Sockeln an der Fassade des alten Hamburger Rathauses an der Trostbr\xFCcke
+      verbaut waren. "
+    detailedInfo: "Urspr\xFCnglich waren am alten Rathaus sogar 21 Statuen aufgestellt
+      worden: je sieben auf drei Stockwerken. Fast alle hatten die nicht g\xE4nzlich
+      gegl\xFCckte Sprengung des Rathauses w\xE4hrend des Gro\xDFen Brandes \xFCberlebt.
+      F\xFCr den Museumsneubau konnte man so immerhin noch 20 Standbilder als Spolien
+      wiederverwenden. Von diesen fehlen heute allerdings sechs, die man nach starken
+      Besch\xE4digungen des Geb\xE4udes w\xE4hrend der Luftangriffe des Zweiten Weltkrieges
+      hier nicht wieder aufstellen konnte. \n\nDie Kaiser tragen jeweils eine R\xFCstung
+      und als Zeichen ihrer Macht Krone, Reichsapfel, ein Schwert oder Zepter, von
+      denen allerdings nur die Griffe erhalten sind. An ihrem einstigen Aufstellungsort
+      verk\xF6rperten sie eine besondere Aussage: Die Loyalit\xE4t Hamburgs galt
+      sp\xE4testens seit der Best\xE4tigung des Status als Freie Reichsstadt im Jahr
+      1618 nur noch dem deutschen Kaiser und nicht dem d\xE4nischen K\xF6nig, gegen
+      den sich diese Botschaft richtete. Dass die Kaiserfiguren im Laufe der Zeit
+      in der Stadt zu einer Art Wahrzeichen wurden, lassen ihre am neuen Rathaus
+      von 1897 aufgestellten Nachfolger noch gut erahnen.\n"
+    location:
+      latitude: 0
+      longitude: 0
+  - name: "Portalbogen Wohnhaus Katharinenbr\xFCcke 4"
+    id: '#002001'
+    thumbInfo: 
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 7594342d555823440ada09a2e22a7046, type: 3}
+      thumbTitle: 3D View
+      thumbInfo: "Portalbogen Katharinenbr\xFCcke 4"
+      mode: 0
+    - thumb: {fileID: 21300000, guid: b4871c54017ba8542af1105dc6d2b447, type: 3}
+      thumbTitle: Fassade
+      thumbInfo: "Wohn- und Gesch\xE4ftshaus, um 1900"
+      mode: 1
+    - thumb: {fileID: 21300000, guid: c60be1cd621cdc64fa5b5e4043bcf5fe, type: 3}
+      thumbTitle: "Katharinenbr\xFCcke"
+      thumbInfo: Zeichnung von Joh. Theob. Riefesell, 1888
+      mode: 1
+    - thumb: {fileID: 21300000, guid: a9ea1eb5cfa4ee744a0736a33b10a689, type: 3}
+      thumbTitle: Fensterschmuck
+      thumbInfo: Heute im Museumsinnenhof
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 04ae7d3ac1dca3742af9fc9bcb8ba015, type: 3}
+      thumbTitle: Fassadentafel
+      thumbInfo: An Gottes Segen ist alles gelegen
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 648e19c81a74d4643b7c0494bb26a9fa, type: 3}
+      thumbTitle: Fassadentafel
+      thumbInfo: Gott allein sei die Ehre, Museumsinnenhof
+      mode: 1
+    details: []
+    titleInfo: "Datierung: um 1700\nMaterial: Sandstein\n\nDer Bogen und sein Pendant
+      auf der anderen Seite des Geb\xE4udeteils geh\xF6rten urspr\xFCnglich zu einem
+      Doppelportal eines Wohnhauses, das bis zu seinem Abbruch im Jahr 1907 an der
+      Stra\xDFe Katharinenbr\xFCcke stand. "
+    detailedInfo: "Auf beiden B\xF6gen ist ein pausb\xE4ckiger Junge mit einer turbanartigen
+      Kopfbedeckung zu erkennen. Zur Entstehungszeit des Hauses und seines Bauschmucks
+      gegen Ende des 17. Jahrhunderts wurden h\xE4ufig schwarze Menschen auf diese
+      Weise abgebildet. Vielleicht spielt hier die unmittelbare N\xE4he des Hauses
+      zur Katharinenkirche eine Rolle, denn die heilige Katharina von Alexandrien
+      wurde zuweilen mit dem heiligen Mauritius zusammen verehrt, der zumeist als
+      Turban tragender schwarzer K\xF6nig dargestellt wurde.\n\nOb allerdings schwarze
+      Personen aus Hamburg Vorbild f\xFCr den Figurenschmuck waren, ist nicht bekannt.
+      Zu dieser Zeit lebten aber einige von ihnen in der Stadt Hamburg, deren Kaufleute
+      im kolonialen Handel aktiv waren. Kinder arbeiteten als \u201EHausdiener\u201C
+      und waren hierher verschleppt und versklavt worden. So ist auf einem Gem\xE4lde
+      von Johannes Voorhout in der Sammlung des Museums ein schwarzer Junge als Diener
+      f\xFCr eine musizierende Gesellschaft um den Musiker Johann Adam Reincken dargestellt.
+      Reincken war  Organist von St. Katharinen und lebte in der N\xE4he."
+    location:
+      latitude: 0
+      longitude: 0
+  - name: Portal vom Spinnhaus an der Alster
+    id: '#003001'
+    thumbInfo: 
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 2e2b4764c8570ed4c89389aa284664fb, type: 3}
+      thumbTitle: 3D View
+      thumbInfo: Portal vom Spinnhaus an der Alster
+      mode: 0
+    - thumb: {fileID: 21300000, guid: 492dced6abd2514408ee7e8158099271, type: 3}
+      thumbTitle: Spinnhaus
+      thumbInfo: Mit Werk- u. Armen-Haus, Aquarell 1835
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 0b0f15346b38d4e4f82349d40720c6a4, type: 3}
+      thumbTitle: Ruinen
+      thumbInfo: Spinnhaus nach dem Brand 1842
+      mode: 1
+    details: []
+    titleInfo: "Architekt: Hans Hamelau\nDatierung: 1666-1674\nMaterial: Sandstein\n\nDas
+      Portal vom alten Hamburger Spinnhaus ist heute an der Westfassade des Museums
+      eingebaut. Bis zu seiner Zerst\xF6rung im Gro\xDFen Brand von 1842 befand sich
+      das Spinnhaus auf H\xF6he der heutigen Stra\xDFenecke Alstertor/Ferdinandstra\xDFe,
+      also etwas links vom jetzigen Thalia-Theater. "
+    detailedInfo: "Zusammen mit dem benachbarten Werk- und Zuchthaus geh\xF6rte das
+      1666 bis 1674 errichtete Spinnhaus zu den vormodernen Gef\xE4ngnisbauten der
+      Stadt Hamburg. Der Name  weist darauf hin, dass die Insassen vor allem Wolle
+      spinnen mussten. Inhaftiert waren vorrangig Prostituierte, die auf diese Weise
+      resozialisiert werden sollten. Gebaut wurden das Spinnhaus und die zugeh\xF6rige
+      Kirche mit dem Geld, das der Ratsherr Peter Rentzel 1662 in seinem Testament
+      hinterlassen hatte. \n\nAn ihn erinnert die lateinische Inschrift \xFCber dem
+      Bogen: \u201EEx ultima voluntate et dispositione Dni. Petri Renzelii piae memoriae
+      (Nach der letztwilligen Verf\xFCgung des Herren Peter Rentzel seligen Angedenkens)
+      \u2026 in honorem Dei et flagitiosorum emendationem hoc ergastulum sumptibus
+      ipsius exstructum est (\u2026 ist zur Ehre Gottes und zur Besserung der \xDCbelt\xE4ter
+      dieses Arbeitshaus auf seine Kosten erbaut worden).\u201C Stetiges Beten und
+      Arbeiten sollten nach den Vorstellungen des Stifters zur L\xE4uterung der H\xE4ftlinge
+      beitragen. So setzte sich Rentzel, der zu Lebzeiten bereits gro\xDFz\xFCgig
+      Gelder f\xFCr die Erneuerung Hamburger Kircht\xFCrme gespendet hatte, postum
+      ein weiteres Denkmal gottgef\xE4lligen Lebens.\n"
+    location:
+      latitude: 0
+      longitude: 0
+  - name: Portal Wohnhaus Speersort 14
+    id: '#004001'
+    thumbInfo: 
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: b76b4d21a49d9374db9847e839d9c9db, type: 3}
+      thumbTitle: 3D View
+      thumbInfo: Portal Speersort 14
+      mode: 0
+    - thumb: {fileID: 21300000, guid: 81ecf3459e327fc4a90821849e969b4d, type: 3}
+      thumbTitle: Eingangsportal
+      thumbInfo: Fotografie von Gerog Koppmann, 1907
+      mode: 1
+    - thumb: {fileID: 21300000, guid: a045b6996507b004bb30e6202356d98e, type: 3}
+      thumbTitle: Fassade
+      thumbInfo: "Wohn- und Gesch\xE4fshaus, 1907"
+      mode: 1
+    - thumb: {fileID: 21300000, guid: df8b07e11e6250d4582bbe6f52e543b5, type: 3}
+      thumbTitle: Ausverkauf
+      thumbInfo: Schaufensterwerbung vor dem Abriss 1910
+      mode: 1
+    details: []
+    titleInfo: "Datierung: ab 1618\nMaterial: Sandstein\n\nIn den Jahren 1616-1618
+      kaufte der Jurist Vincent Moller vom Baum am Speersort drei Grundst\xFCcke,
+      um sich ein Wohnhaus mit mehreren Stockwerken und einer breiten Backsteinfassade
+      zu bauen. Das Sandsteinportal am Eingang war f\xFCnfeinhalb Meter hoch. "
+    detailedInfo: "In die Best\xE4nde des Museums gelangte das Portal im Jahr 1910,
+      als das damalige Mietshaus mit der Adresse Speersort 14 einer Stra\xDFenverbreiterung
+      weichen musste. Beim Bau des Museums wurde das Portal als Eingang zur Gartenterrasse
+      aufgestellt. Der Dreiecksgiebel geh\xF6rt nicht urspr\xFCnglich dazu. Auf den
+      beiden S\xE4ulen fallen Putten, Masken und Fruchtgeh\xE4nge auf. Im Bogen findet
+      man regelrechte Fratzen. Die Fratzen und der L\xF6wenkopf in der Mitte des
+      Bogens d\xFCrften wie Torw\xE4chter gewirkt haben. \n\nZu sch\xFCtzen gab es
+      hier Reichtum und Wohlstand, sinnf\xE4llig verbildlicht durch die beiden allegorischen
+      Figuren in den Bogenzwickeln, die F\xFCllh\xF6rner und Weintrauben halten.
+      Im Domizil hinter dem Portal residierten im 17. und 18. Jahrhundert sogar einige
+      bekr\xF6nte H\xE4upter. K\xF6nigin Christina von Schweden und Zar Peter I.
+      d\xFCrften die prominentesten Besucher gewesen sein, mit denen man sich im
+      republikanisch gesinnten Hamburg eher arrangierte, anstatt sich f\xFCr sie
+      zu begeistern. Und doch war es von Vorteil, repr\xE4sentative R\xE4umlichkeiten
+      wie das Haus am Speersort im Stadtzentrum zu wissen, auf die man immer wieder
+      zur\xFCckgreifen konnte."
+    location:
+      latitude: 0
+      longitude: 0
+  - name: "Herrscherb\xFCsten und Palmwedel D\xFCsternstra\xDFe 43-51"
+    id: '#005001'
+    thumbInfo: 
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 844be49dc0ea0c540abb35782a452092, type: 3}
+      thumbTitle: 3D View
+      thumbInfo: "B\xFCste D\xFCsternstra\xDFe"
+      mode: 0
+    - thumb: {fileID: 21300000, guid: c5b8c529536a357458798915d30da351, type: 3}
+      thumbTitle: Wohnhaus
+      thumbInfo: Fotografie von Georg Koppmann, 1906
+      mode: 1
+    - thumb: {fileID: 21300000, guid: d717174511788dd48b0a9302a64cfc82, type: 3}
+      thumbTitle: Fassade
+      thumbInfo: Fotografie von Georg Koppmann, 1906
+      mode: 1
+    - thumb: {fileID: 21300000, guid: b717438aa50b43844b4885f73d7ed493, type: 3}
+      thumbTitle: "D\xFCsternstra\xDFe"
+      thumbInfo: Fotografie von Wilhelm Melhop, 1904
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 68d1cfff5722fbf4fb248fee04688213, type: 3}
+      thumbTitle: Museum im Bau
+      thumbInfo: "Fassade mit Palmwedeln und B\xFCsten 1916"
+      mode: 1
+    details: []
+    titleInfo: "Datierung: um 1670\nMaterial: Sandstein\n\nDie gekreuzten Palmwedel
+      am S\xFCdfl\xFCgel des Museums geh\xF6rten zu einem herrschaftlichen Wohnhaus,
+      das im Hamburger Volksmund den Spitznamen \u201EAltes Schloss\u201C trug. Errichtet
+      worden war es in den 1670er Jahren durch den Juristen Joachim Schr\xF6tteringk. "
+    detailedInfo: "Das Haus lag im s\xFCdlichsten Abschnitt der damaligen Neust\xE4dter
+      Fuhlentwiete, der heute D\xFCsternstra\xDFe hei\xDFt. Ein Palmwedel war in
+      Hamburg in diesen Jahrzehnten in Mode und seine biblischen Bez\xFCge vielen
+      Betrachtern gel\xE4ufig. Friedenshoffnungen, die man den Palmwedeln zusprach,
+      passten offenbar gut in eine durch wiederholte B\xFCrgerunruhen gepr\xE4gte
+      Zeit.\nVier Herrscherb\xFCsten w\xE4hlte Schr\xF6tteringk zus\xE4tzlich als
+      symboltr\xE4chtigen Bauschmuck f\xFCr sein Wohnhaus aus. Sie waren dort ebenso
+      angebracht wie jetzt am Museum: Zwischen den Palmwedel-Paaren. \n\nDie B\xFCsten
+      zeigen von links nach rechts die antiken Herrscher Ninos (mit Vollbart und
+      einem L\xF6wenfell als Umhang), Kyros den Gro\xDFen (mit Turban), Alexander
+      den Gro\xDFen (mit langen Haaren und Helm) sowie Gaius Julius C\xE4sar (mit
+      Lorbeerkranz). Die Abfolge dieser Pers\xF6nlichkeiten konnte das Nacheinander
+      historischer Machtgebilde versinnbildlichen: Auf das Assyrische folgte erst
+      das Persische, dann das Makedonische und schlie\xDFlich das R\xF6mische Weltreich.
+      Ideell war diese Reihung in der Fr\xFChen Neuzeit durch das deutsche Kaisertum
+      sogar noch fortsetzbar. Denkbar ist, dass Schr\xF6teringk sich mittels dieser
+      Bildsprache f\xFCr stabile Verh\xE4ltnisse in seiner Heimatstadt aussprach,
+      die der deutsche Kaiser garantieren sollte. "
+    location:
+      latitude: 0
+      longitude: 0
+  - name: "Portal R\xF6dingsmarkt 60"
+    id: '#006001'
+    thumbInfo: 
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: c632b0f97bc12fc42a951465714639f2, type: 3}
+      thumbTitle: 3D View
+      thumbInfo: "Portal R\xF6dingsmarkt 60"
+      mode: 0
+    - thumb: {fileID: 21300000, guid: 27cec5a9b0c24bc43932e4ec4a9d4d84, type: 3}
+      thumbTitle: Fassade
+      thumbInfo: Vor der Renovierung 1876
+      mode: 1
+    - thumb: {fileID: 21300000, guid: d48549281d15ed345b04bf2929c73521, type: 3}
+      thumbTitle: Fassade
+      thumbInfo: Nach der Renovierung 1885
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 95c4ecb1ee5399f43aad9922d2c5592d, type: 3}
+      thumbTitle: 'Portal '
+      thumbInfo: Nach der Renovierung 1885
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 98e6be40811448c49982050fb813237c, type: 3}
+      thumbTitle: "H\xE4userreihe"
+      thumbInfo: "R\xF6dingsmarkt, Fotografie 1878"
+      mode: 1
+    details: []
+    titleInfo: "Datierung: 1631\nMaterial: Sandstein\n\nDas B\xFCrgerhaus am R\xF6dingsmarkt
+      Nr. 60 stand bereits einige Jahrzehnte, als es Dietrich Moller vom Baum 1618
+      erbte und bis zu seinem Tod drei\xDFig Jahre sp\xE4ter bewohnte. Im Jahr 1631
+      hatte er die schlichte Fassade um ein Renaissanceportal erweitern lassen. "
+    detailedInfo: "Das Portal steht seit 1963 frei vor der Nordseite des Museums
+      im sogenannten Schmuckgarten. Zum Bogen geh\xF6rte urspr\xFCnglich noch ein
+      Zugang mit f\xFCnf Treppenstufen, auf deren Seiten bankartige Beischlagwangen
+      zu finden waren. Diese hatte man bereits wenige Jahre vor dem 1896 erfolgten
+      Abriss des Wohnhauses entfernt. Besonders der fig\xFCrliche Schmuck f\xE4llt
+      ins Auge: In den Bogenzwickeln lagern zwei allegorische Figuren mit mehreren
+      Beigaben. Brille und Spiegel in den H\xE4nden der linken Figur und ein Vogel
+      und Getreide\xE4hren bei der rechten konnten als Chiffren f\xFCr B\xFCrgertugenden
+      wie zum Beispiel Bildung und Weisheit gelesen werden. \n\nGelehrte Zeitgenossen
+      wussten gewiss den lateinischen Spruch in der rechts dar\xFCber angebrachten
+      Kartusche zu \xFCbersetzen: HOMO / FINEM SUUM\u201C (Es kennt der Mensch sein
+      Ende nicht). Schwert und Waage als Attribute der Frauenfigur in der Nische
+      \xFCber dem Architrav sind nur noch in Resten erhalten. Solch eine Allegorie
+      der Gerechtigkeit und die dar\xFCber zu lesende Inschrift \u201EGLORIA IN EXCELSIS
+      DEO\u201C (Ehre sei Gott in der H\xF6he) passten zum Wirken des Ratsherrn Dietrich
+      Moller vom Baum, der auch das Juraten-Amt an der Hauptkirche St. Petri innehatte.
+      Dort war er unter anderem f\xFCr die Verwaltung des Kirchenverm\xF6gens zust\xE4ndig. "
+    location:
+      latitude: 0
+      longitude: 0
+  - name: "S\xFCdportal St. Petri "
+    id: '#007001'
+    thumbInfo: 
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 7c3f6bea6f6f59f45a9d1d8f9edab182, type: 3}
+      thumbTitle: 3D View
+      thumbInfo: 'Sankt Petriportal '
+      mode: 0
+    - thumb: {fileID: 21300000, guid: b09f6b321ef8e424c8f313938de96529, type: 3}
+      thumbTitle: St. Petri
+      thumbInfo: Ansicht vor dem Brand, Lithografie 1842
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 4eb58ada57bf280459ac224aa33e4199, type: 3}
+      thumbTitle: Ruine St. Petri
+      thumbInfo: Ansicht nach dem Brand, Aquarell 1842
+      mode: 1
+    - thumb: {fileID: 21300000, guid: c908d59f3e229124893446968e8badd4, type: 3}
+      thumbTitle: Portal St. Petri
+      thumbInfo: Zeichnung, Zustand 1895
+      mode: 1
+    - thumb: {fileID: 21300000, guid: bfdc406e77bc07b41af7f9bed3c5e0c9, type: 3}
+      thumbTitle: Innenhof
+      thumbInfo: Das Museum nach dem Zweiten Weltkrieg
+      mode: 1
+    details: []
+    titleInfo: "Datierung: 1603\nMaterial: Sandstein\n\nDas ehemalige S\xFCdportal
+      der Hamburger Hauptkirche St. Petri war an seinem urspr\xFCnglichen Standort
+      nach dem Gro\xDFen Brand demontiert worden. Sp\xE4ter im Innenhof des Museums
+      eingebaut, hat das Portal auch an dieser Stelle nur mit Gl\xFCck \xFCberlebt. "
+    detailedInfo: "Eindr\xFCckliche Fotos zeigen die nach dem Ende des Zweiten Weltkrieges
+      noch nicht beseitigten starken Zerst\xF6rungen, verursacht durch Bombentreffer
+      des Jahres 1941. Verloren gegangen ist dadurch u.a. die Bekr\xF6nung des heute
+      wieder rekonstruierten Dreiecksgiebels, auf dem nacheinander erst eine Figur
+      des heiligen Petrus und dann ein Engel aufgestellt waren. Erhalten geblieben
+      sind die beiden Frauenfiguren in den Bogenzwickeln, die als Personifikationen
+      des Glaubens und der Gerechtigkeit gesehen werden k\xF6nnen. Der Bildhauer
+      Georg Baumann hatte den Figurenschmuck des Portals gefertigt, zu dem au\xDFerdem
+      noch die Statuen der vier Evangelisten geh\xF6ren. \n\nEinstiger Aufstellungsanlass
+      des Portals war ein Festgottesdienst unter Anwesenheit eines k\xF6niglichen
+      Besuchers im Herbst des Jahres 1603. Christian IV. von D\xE4nemark \u2013 gerade
+      erst Vater eines potentiellen Thronfolgers geworden \u2013 weilte in Hamburg,
+      um der Stadt ein Treueversprechen in Form einer Huldigung abzutrotzen. Dem
+      m\xE4chtigen, aber ungeliebten Gast wurde mit dem Portalbogen zwar ein triumphaler
+      Zutritt in das Gotteshaus erm\xF6glicht. Doch wollte man ihm mit dem Bildprogramm
+      vielleicht zugleich christliche Tugenden nahelegen, die eine selbstbewusste
+      Stadt von einem Herrscher erwartete. "
+    location:
+      latitude: 0
+      longitude: 0
+  - name: Portale vom Bauhof
+    id: '#008001'
+    thumbInfo: 
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 1f610cebec0c61e4ca9ef7612d46f941, type: 3}
+      thumbTitle: 3D View
+      thumbInfo: Bauhofportal
+      mode: 0
+    - thumb: {fileID: 21300000, guid: 519a183fca5e310468e853b801a160d7, type: 3}
+      thumbTitle: Bauhof
+      thumbInfo: "Fachwerkgeb\xE4ude vor dem Abriss, um 1867"
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 108135449d9624340a6b313cdf4837f0, type: 3}
+      thumbTitle: Handwerker
+      thumbInfo: Vor dem Haupttor, um 1867
+      mode: 1
+    - thumb: {fileID: 21300000, guid: d9f8dc70e750eef40b140cb8e3c8ee37, type: 3}
+      thumbTitle: Portal Pferdestall
+      thumbInfo: Eingebaut im Zunftsaal des Museums
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 5277391bc3c3cb948b5c12f921ecc418, type: 3}
+      thumbTitle: Fleetportal
+      thumbInfo: Eingebaut im Zunftsaal des Museums
+      mode: 1
+    details: []
+    titleInfo: "Datierung: 1675\nMaterial: Eiche / Sandstein\n\nSeit dem Jahr 1675
+      stand am heutigen Deichtorplatz der Bauhof, ein gro\xDFes Fachwerkgeb\xE4ude
+      mit vier unterschiedlich langen Fl\xFCgeln um einen gro\xDFen Werkhof. Bis
+      zu 400 Handwerker waren hier f\xFCr die \xF6ffentlichen Bauprojekte und die
+      Instandhaltung der Wallanlagen zust\xE4ndig. "
+    detailedInfo: "Zugang zum Bauhof gew\xE4hrten drei Portale aus Eichenholz, die
+      heute nebeneinander im langgestreckten Zunftsaal im Inneren des Museums eingebaut
+      sind. Der jetzt in der Mitte stehende Bogen war, wie die in den Bogenzwickeln
+      aufsteigenden Pferde zeigen, urspr\xFCnglich der Zugang zum Stall auf der Nordseite
+      des Bauhofes. Am ehemaligen West- oder Hauptportal (im Zunftsaal links) sowie
+      am S\xFCd- oder Fleetportal (im Zunftsaal rechts) kann man in den Bogenzwickeln
+      gleichartig gestaltete allegorische Frauenfiguren entdecken. Sie sind ausgestattet
+      mit den Werkzeugen von Architekten und Holzhandwerkern und dazu passenden Geb\xE4udetypen:
+      ein Palais in damals modischer niederl\xE4ndischer Bauart sowie Wasser- und
+      Windm\xFChlen. \n\nAn allen drei Portalen fallen die leeren Schilde unter den
+      ausufernden Helmzieren ins Auge. Man vermutet, dass hier jeweils das Hamburger
+      Stadtwappen zu sehen war, welches aber w\xE4hrend der Jahre der franz\xF6sischen
+      Besetzung Hamburgs als verbotenes Herrschaftssymbol beseitigt worden ist. Ab
+      dem Jahr 1847 wurde der Bauhof dann nach und nach abgerissen, weil er der Erweiterung
+      des Berliner Bahnhofs, neuangelegten Stra\xDFen und schlussendlich auch einem
+      neuen Zollschuppen im Wege stand.\n"
+    location:
+      latitude: 0
+      longitude: 0
+  building:
+  - name: 
+    id: '#014'
+    adress:
+      location:
+        latitude: 53.549023
+        longitude: 9.993892
+      what3words: "entfernt.fliege.gl\xFCcklich"
+      Standort: "Ecke kleine Johannisstra\xDFe / Dornbusch"
+    headline: Das Eimbecksche Haus
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 74e3690ad989e8445b2d15a910d3db29, type: 3}
+      thumbTitle: Eimbecksches Haus
+      thumbInfo: 'Ansicht vor 1842, Lithografie '
+      mode: 1
+    - thumb: {fileID: 21300000, guid: c15d7c924216ab0498dd7c9a79dad131, type: 3}
+      thumbTitle: Stadtwappen
+      thumbInfo: "S\xFCdseite Museum"
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 56796be321031fc4990b1cd884d55614, type: 3}
+      thumbTitle: ' Ratsweinkeller '
+      thumbInfo: Lithografie von F. Meyer, vor 1842
+      mode: 1
+    - thumb: {fileID: 21300000, guid: c1ab4795f604ed34f812e83ccf0d68de, type: 3}
+      thumbTitle: "Gro\xDFer Brand "
+      thumbInfo: Lithografie von Peter Suhr, 1842
+      mode: 1
+    titleInfo: 
+    description: "Datierung: 1769-1771    \nZerst\xF6rt: 1842\n\nIm Geb\xE4ude befanden
+      sich R\xE4ume f\xFCr Feste, Versammlungen und ein Weinkeller, in dem  Einbecker
+      Bier ausgeschenkt wurde. Einige Jahre war dort auch das Gericht untergebracht.
+      Das Haus des Baumeisters Johannes Kopp wurde beim Gro\xDFen Brand 1842 zerst\xF6rt. "
+    creator: Johannes Kopp / Johann Wilhelm Manstadt
+    destruction: "Gro\xDFer Brand 1842"
+    user: 
+    date: 1769-1771
+  - name: 
+    id: '#015'
+    adress:
+      location:
+        latitude: 53.545708
+        longitude: 9.99703
+      what3words: "maurer.m\xE4chtig.denkmal"
+      Standort: 'Neuer Wandrahm 10 '
+    headline: Neuer Wandrahm 10
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: f652fe683bad3fc4abce5f5d3a62cf61, type: 3}
+      thumbTitle: Wohnhaus
+      thumbInfo: "Stra\xDFenerh\xF6hung, Foto Koppmann 1884 "
+      mode: 1
+    - thumb: {fileID: 21300000, guid: b20abe79d29d2bf4c95c33dea72f30e2, type: 3}
+      thumbTitle: Neuer Wandrahm
+      thumbInfo: "An der Kornhausbr\xFCcke, Foto Koppmann 1886"
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 99487148efcbd574d8cc301c7680c34b, type: 3}
+      thumbTitle: Portal
+      thumbInfo: Westseite Museum
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 76a32d0a5add4744182e9d151b0e45d8, type: 3}
+      thumbTitle: Girlande
+      thumbInfo: Ausstellungsraum Museum
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 7a052842cdc338b4d99cf9c49c1cb056, type: 3}
+      thumbTitle: Palmwedel
+      thumbInfo: Ostfassade Museum
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 14cea4be508114247ac2286e4e28a3e5, type: 3}
+      thumbTitle: Pilasterschmuck
+      thumbInfo: Portal in Planten un Blomen
+      mode: 1
+    titleInfo: 
+    description: "Datierung: Ende 17. Jh.   \n Abriss: 1886\n\nDas Wohnhaus am Neuen
+      Wandrahm besa\xDF eine pr\xE4chtige barocke Fassade. Die Bewohner zeigten ihren
+      Reichtum. Als 1869 die Stra\xDFe aufgesch\xFCttet wurde, verschwand das Portal
+      zur H\xE4lfte im Asphalt. Das Haus wurde 1886 f\xFCr den Bau der Speicherstadt
+      abgerissen. "
+    creator: 
+    destruction: "Abriss: 1886  f\xFCr den Bau der Speicherstadt"
+    user: 
+    date: Ende 17. Jh.
+  - name: 
+    id: '#016'
+    adress:
+      location:
+        latitude: 53.54531
+        longitude: 9.996205
+      what3words: kostete.ziege.liefert
+      Standort: Neuer Wandrahm 17
+    headline: '  Neuer Wandrahm 17'
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 0829b2fa7aca0954ab0801d871a5d765, type: 3}
+      thumbTitle: Stadtpalais
+      thumbInfo: Foto Georg Koppmann 1884
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 73117bc7396fd4346a5df61d09ca47df, type: 3}
+      thumbTitle: Girlanden
+      thumbInfo: "S\xFCdseite Museum"
+      mode: 1
+    - thumb: {fileID: 21300000, guid: f4608a895a0caca4c9a56f2c468c497f, type: 3}
+      thumbTitle: "Gel\xE4nder, um 1760 "
+      thumbInfo: Innenhof Museum
+      mode: 1
+    - thumb: {fileID: 21300000, guid: cbc6d20788ea2754ab101f5d760101ed, type: 3}
+      thumbTitle: Postamentvase, um 1760
+      thumbInfo: Innenhof Museum
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 210dab8d2d920e3408ab238da32adf8c, type: 3}
+      thumbTitle: 'Wappen
+
+'
+      thumbInfo: 'Ehemann Theodor Kerckring
+
+'
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 0282c6eff1c3d764fb82aaecb0eaf44c, type: 3}
+      thumbTitle: 'Wappen
+
+'
+      thumbInfo: 'Ehefrau Clara Maria van den Enden
+
+'
+      mode: 1
+    - thumb: {fileID: 21300000, guid: d71251c6f34fd754686718d45fbe8173, type: 3}
+      thumbTitle: Fassade
+      thumbInfo: 'Zeichnung von Eduard Niese, 1884
+
+'
+      mode: 1
+    titleInfo: 
+    description: "Datierung: um 1680   \nAbriss: vor 1888\n\nDas Stadtpalais geh\xF6rte
+      einst dem Amsterdamer Kaufmann, Mediziner und Anatom Theodor Kerckring, der
+      sich 1678 in Hamburg niedergelassen hatte. Es wurde nach Pl\xE4nen des Architekten
+      Philipp Vingboons erbaut und 1886 f\xFCr den Bau der Speicherstadt abgerissen."
+    creator: 
+    destruction: "Abriss: vor 1888 f\xFCr den Bau der Speicherstadt"
+    user: Amsterdamer Arzt Theodor Kerckring
+    date: um 1680
+  - name: 
+    id: '#020'
+    adress:
+      location:
+        latitude: 53.545895
+        longitude: 9.991995
+      what3words: "laune.betonte.w\xFCrfeln"
+      Standort: "Katharinenstra\xDFe 9"
+    headline: "Katharinenstra\xDFe 9"
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: c15040c9547a2ac41928db559366ffd7, type: 3}
+      thumbTitle: Hausfassade
+      thumbInfo: Eduard Niese, Federzeichnung, 1889
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 1abd06830e5fac140ae606119efd1e06, type: 3}
+      thumbTitle: Eingangsportal
+      thumbInfo: Fotografie 1911
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 8f6b6f488d364c54593ed670a3b33ff6, type: 3}
+      thumbTitle: "Deckengem\xE4lde"
+      thumbInfo: J. M. Riesenberger, 1716-20, Stuck rekonstruiert
+      mode: 1
+    titleInfo: 
+    description: "Datierung: 1630/40   \nAbriss: 1909\n\nAls der B\xFCrgermeister
+      Johann Anderson d. \xC4. in dem Haus wohnte, gab er ein Deckengem\xE4lde mit
+      Stuckrahmen in Auftrag. Darin wird die Wissenschaft und Kunst verherrlicht.
+      Anderson war selbst wissenschaftlich t\xE4tig. Er schrieb ein Buch \xFCber
+      den Walfang in Gr\xF6nland. "
+    creator: "Die Stuckarbeiten: Tessiner Carlo Enrico Brenno ( nach 1730) / Das
+      Gem\xE4lde: Johann Moritz Riesenberger der J\xFCngere, 1716\u20131720 "
+    destruction: 
+    user: "B\xFCrgermeister Johann Andersson d. \xC4."
+    date: 1630/40
+  - name: 
+    id: '#019'
+    adress:
+      location:
+        latitude: 53.543888
+        longitude: 9.996439
+      what3words: neuere.weniger.befahren
+      Standort: "Altst\xE4dter Neuer Weg 52 "
+    headline: "Altst\xE4dter Neuer Weg 52"
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 2bd48e06407a5a441af9b0910ed06348, type: 3}
+      thumbTitle: "Altst\xE4dter Neuer Weg"
+      thumbInfo: Foto Georg Koppmann, 1883
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 5d1ea55eb76807f49bf16a0b8f8c609a, type: 3}
+      thumbTitle: 'Hausfassade '
+      thumbInfo: Foto Georg Koppmann, 1883
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 75c46a26755e6b146bb0242e4a889ebc, type: 3}
+      thumbTitle: "Gel\xE4nder"
+      thumbInfo: "\xDCber dem Museumseingang"
+      mode: 1
+    titleInfo: 
+    description: "Datierung: Mitte 18. Jh.    \nAbriss: vor 1888\n\nDas B\xFCrgerhaus
+      besa\xDF eine Freitreppe mit einem geschmiedeten Gel\xE4nder. Seine Bewohner
+      zeigten Rang und Status, denn \xFCblicherweise fand man repr\xE4sentative Treppen
+      in adeligen Schl\xF6ssern. Das Haus wurde f\xFCr den Bau der Speicherstadt
+      abgerissen. \n"
+    creator: 
+    destruction: "Abriss: vor 1888 f\xFCr den Bau der Speicherstadt"
+    user: 
+    date: Mitte 18. Jh.
+  - name: 
+    id: '#008'
+    adress:
+      location:
+        latitude: 53.546974
+        longitude: 10.003398
+      what3words: durst.friede.inseln
+      Standort: 'Bauhof am Deichtor '
+    headline: 'Bauhof am Deichtor '
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 519a183fca5e310468e853b801a160d7, type: 3}
+      thumbTitle: Bauhof
+      thumbInfo: "Fachwerkgeb\xE4ude vor dem Abriss, um 1867"
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 108135449d9624340a6b313cdf4837f0, type: 3}
+      thumbTitle: Handwerker
+      thumbInfo: Vor dem Haupttor, um 1867
+      mode: 1
+    - thumb: {fileID: 21300000, guid: d9f8dc70e750eef40b140cb8e3c8ee37, type: 3}
+      thumbTitle: Portal Pferdestall
+      thumbInfo: Im Zunftsaal des Museums
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 5277391bc3c3cb948b5c12f921ecc418, type: 3}
+      thumbTitle: Fleetportal
+      thumbInfo: Im Zunftsaal des Museums
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 5eb1826f30be000479ab9da6c6c5d178, type: 3}
+      thumbTitle: Hauptportal
+      thumbInfo: Im Zunftsaal des Museums, Foto Stier
+      mode: 1
+    titleInfo: 
+    description: "Datierung: 1675        \nAbriss: ab 1847\n\nSeit 1675 stand am
+      heutigen Deichtorplatz der Bauhof. Bis zu 400 Handwerker waren hier f\xFCr
+      die \xF6ffentlichen Bauprojekte und die Instandhaltung der Wallanlagen zust\xE4ndig.
+      Der Bauhof wurde ab 1847 f\xFCr den Bau des Berliner Bahnhofs abgerissen."
+    creator: 'Architekt: Hans Hamelau '
+    destruction: 'Abriss: ab 1847 '
+    user: 
+    date: 
+  - name: 
+    id: '#017'
+    adress:
+      location:
+        latitude: 53.54913
+        longitude: 9.996422
+      what3words: vorne.beweis.wille
+      Standort: Fischmarkt 5
+    headline: Fischmarkt 5
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: c9806b18666a90f4fa5a5fa207f86e64, type: 3}
+      thumbTitle: Fischmarkt
+      thumbInfo: Foto Charles Fuchs, um 1870
+      mode: 1
+    - thumb: {fileID: 0}
+      thumbTitle: Fischmarkt 5
+      thumbInfo: Foto Charles Fuchs, um 1870
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 8d0de4e491b404641a4994cda3bad1d6, type: 3}
+      thumbTitle: Fischmarkt 5
+      thumbInfo: 'Zeichnung von Ebba Tesdorpf, 1882 '
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 1c097020d9e327a40a70f9937b2ca676, type: 3}
+      thumbTitle: Portal
+      thumbInfo: Innenhof Museum
+      mode: 1
+    titleInfo: 
+    description: "Datierung: 1765/66     \n Abriss: 1886\n\nDas Haus betraten G\xE4ste
+      durch ein pr\xE4chtiges Portal. Es war mit Symbolen des Flei\xDFes verziert:
+      mit Biene und Bienenkorb. 1861 wurde der Verkauf von Fischen auf dem Fischmarkt
+      als st\xF6rend empfunden und an den Hafen verlegt. Das Haus wurde sp\xE4ter
+      abgerissen. "
+    creator: 
+    destruction: 'Abriss: 1886'
+    user: 
+    date: '1765/66 '
+  - name: 
+    id: '#018'
+    adress:
+      location:
+        latitude: 53.548332
+        longitude: 9.996602
+      what3words: "aufgang.auff\xFChrt.trab"
+      Standort: " Gro\xDFe Reichenstra\xDFe 29-33"
+    headline: " Gro\xDFe Reichenstra\xDFe 29-33"
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 6bf381d11785b6941810fa099871b19a, type: 3}
+      thumbTitle: 'Portal '
+      thumbInfo: Innenhof Museum
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 4f00451aff44b56498520ad9c7b05594, type: 3}
+      thumbTitle: Hausfassade
+      thumbInfo: Vor dem Abriss, 1900
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 127fc874121550c47a5697a0639cde51, type: 3}
+      thumbTitle: 'Portal '
+      thumbInfo: Foto Wilhelm Weimar, 1900
+      mode: 1
+    titleInfo: 
+    description: " Datierung: 1730/40   \n Abriss: 1908\n\nDas Haus in der Gro\xDFen
+      Reichenstra\xDFe geh\xF6rte dem Bankier Johann Friedrich T\xF6nnies. Die Fassade
+      war ganz aus Sandstein, ungew\xF6hnlich f\xFCr Hamburg. Denn in Hamburg wurde
+      Backstein bevorzugt und nur Portale und Fassadenschmuck in Sandstein ausgef\xFChrt."
+    creator: 
+    destruction: 'Abriss: 1908 '
+    user: " Johann Friedrich T\xF6nnies"
+    date: 1730/40
+  - name: 
+    id: '#009'
+    adress:
+      location:
+        latitude: 53.548393
+        longitude: 9.995885
+      what3words: regelung.erdnuss.fliegen
+      Standort: "Gro\xDFe Reichenstra\xDFe 35-39"
+    headline: " Gro\xDFe Reichenstra\xDFe 37"
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 00b9381347ccbf24e8049505ac3bb66c, type: 3}
+      thumbTitle: "Gro\xDFe Reichenstra\xDFe "
+      thumbInfo: Georg Koppmann, 1908
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 7beda42f68549e14d8b7e3606f22c443, type: 3}
+      thumbTitle: Fassade Nr. 37
+      thumbInfo: Neben dem Afrikahaus, Foto 1906
+      mode: 1
+    - thumb: {fileID: 21300000, guid: fe18fdd85df1eb746975a6fb2811ecc7, type: 3}
+      thumbTitle: 'Diele '
+      thumbInfo: 1. Stock, Foto Koppmann, 1908
+      mode: 1
+    - thumb: {fileID: 21300000, guid: e6d2c6e3ce14dab4eadfab9e158f97ec, type: 3}
+      thumbTitle: Diele
+      thumbInfo: 2. Stock, Foto Koppmann, 1908
+      mode: 1
+    - thumb: {fileID: 21300000, guid: f1d901df8cd27f442a07f757aa9da38f, type: 3}
+      thumbTitle: 'Portal '
+      thumbInfo: Nordseite Museum
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 2d98c8fd8426c6443974161eda774386, type: 3}
+      thumbTitle: Wappen
+      thumbInfo: ' Peter Behrmann und Anna Catharina Rodenburg '
+      mode: 1
+    titleInfo: 
+    description: "Datierung: 1742  \nAbriss: nach 1908\n\nDer Ratsherr Peter Behrmann
+      und seine Ehefrau Anna Catharina Rotenburg kauften 1745 das Haus in der Gro\xDFen
+      Reichenstra\xDFe. Ihr Wappen schm\xFCckte das Eingangsportal: RB unter einer
+      Krone. Das Haus wurde nach 1908 im Zuge der Altstadtsanierung abgerissen.  "
+    creator: 
+    destruction: 'Abriss: nach 1908'
+    user: Ehepaar Peter Behrmann und Anna Catharina Rotenburg
+    date: 
+  - name: 
+    id: '#010'
+    adress:
+      location:
+        latitude: 53.548534
+        longitude: 9.993943
+      what3words: ausschau.hilflos.somit
+      Standort: "Gro\xDFe Reichenstra\xDFe 49-51 - Heute: ca. Kreuzung Gro\xDFe Reichenstra\xDFe/Brodschrangen"
+    headline: "Cranzsches Haus Gro\xDFe Reichenstra\xDFe 49-51"
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 34b606ba6fbe4044cb3391b683506145, type: 3}
+      thumbTitle: Hausfassade
+      thumbInfo: Foto vor dem Abriss 1890
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 8b29b5b1b9e68ab48b59c05f67fdb3c6, type: 3}
+      thumbTitle: Hausportal
+      thumbInfo: Foto vor dem Abriss 1890
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 3c534a6f22fcf4a40a94db0482d7c2dc, type: 3}
+      thumbTitle: 'Portal '
+      thumbInfo: Am Museum in Planten un Blomen
+      mode: 1
+    - thumb: {fileID: 21300000, guid: bbdc7eb3cb7b2ce479163d72a9e9eadf, type: 3}
+      thumbTitle: 'Kaufmannsdiele '
+      thumbInfo: A. Stelling, um 1885, Aquarell
+      mode: 1
+    titleInfo: 
+    description: "Datierung: nach 1617    \nAbriss: 1890\n\nDas Haus bewohnte der
+      reiche Kaufmann J\xFCrgen Schr\xF6tteringk. Wegen seiner Fassadenfarbe hie\xDF
+      es das rote Haus und galt m 17. Jh. als Spukhaus. Sp\xE4ter zog die Musikalienhandlung
+      August Cranz ein. 1890 wurde das nun Cranzsche Haus genannte Geb\xE4ude abgebrochen."
+    creator: 
+    destruction: 'Abriss: 1890'
+    user: "Kaufmann J\xFCrgen Schr\xF6tteringk"
+    date: nach 1617
+  - name: 
+    id: '#011'
+    adress:
+      location:
+        latitude: 53.54843
+        longitude: 9.998465
+      what3words: erlebnis.abgrund.bekannte
+      Standort: "Kleine Reichenstra\xDFe 17-19- Heute: ca. Kleine Reichenstra\xDFe
+        2; keine Fleete mehr; N\xE4he Alter Fischmarkt"
+    headline: "Kleine Reichenstra\xDFe 17-19"
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 2ac60e84845528644ad0bfeec5250941, type: 3}
+      thumbTitle: 'Doppelportal '
+      thumbInfo: Foto vor dem Abriss 1889
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 4a4102b5945f9274cb4cca958ee9583f, type: 3}
+      thumbTitle: Hausfassade
+      thumbInfo: Zeichnung Theob. Riefesell, 1889
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 9d6c21e01a2a53348b611adfc270bf5c, type: 3}
+      thumbTitle: 'Doppelportal '
+      thumbInfo: Ausstellungsraum Museum
+      mode: 1
+    - thumb: {fileID: 21300000, guid: d0869f1037e54694bb0a03cfa37c42ef, type: 3}
+      thumbTitle: Handstein
+      thumbInfo: Kaufmannsdiele Museum
+      mode: 1
+    titleInfo: 
+    description: "Datierung: 1635    \nAbriss: 1889\n\nDas 1635 erbaute Wohnhaus
+      in der Kleinen Reichenstra\xDFe schm\xFCckten Ornamente im Stil der Renaissance.
+      1889 wurde es im Zuge der Altstadtsanierung abgebrochen. Gerettet wurden das
+      Doppelportal und ein Handstein (Ausgussbecken). "
+    creator: 
+    destruction: 'Abriss: 1889 '
+    user: 
+    date: 
+  - name: 
+    id: '#012'
+    adress:
+      location:
+        latitude: 53.550907
+        longitude: 9.988565
+      what3words: unkaputtbar.erschafft.weisheit
+      Standort: Neuer Wall 72-74
+    headline: Neuer Wall 72-74
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 414950a339a9ad54fb8d893572ef962a, type: 3}
+      thumbTitle: 'Neuer Wall '
+      thumbInfo: Foto aus Wilhelm Melhop, 1905
+      mode: 1
+    - thumb: {fileID: 21300000, guid: c5077b2c15a028849a6cf3909713ce62, type: 3}
+      thumbTitle: 'Portal '
+      thumbInfo: Foto Georg Koppmann, 1890
+      mode: 1
+    - thumb: {fileID: 21300000, guid: a1b3b0332c642d94296ab5de239b0ce0, type: 3}
+      thumbTitle: Portal
+      thumbInfo: Nordseite Museum, Foto medvedev
+      mode: 1
+    titleInfo: 
+    description: "Datierung 1710/20   \nAbriss: um 1907/1908\n\nAdlige durften in
+      Hamburg keine Grundst\xFCcke kaufen. \xDCber Mittelsm\xE4nner war es dennoch
+      m\xF6glich. Im Palais am Neuen Wall lebte Graf Gerhard von Dernath, wenn er
+      sich in Hamburg aufhielt. Er besa\xDF auch das Gut Hasselburg in Holstein.  "
+    creator: 
+    destruction: 'Abriss: um 1907/1908 '
+    user: "In dem Geb\xE4ude befand sich um 1900 ein Antiquariat sowie das Restaurant
+      C. Kothe\u2019s Wintergarten."
+    date: ' 1710-1720'
+  - name: 
+    id: '#013'
+    adress:
+      location:
+        latitude: 53.545673
+        longitude: 9.996839
+      what3words: obstbaum.pfand.punkten
+      Standort: ' Neuer Wandrahm 9'
+    headline: ' Neuer Wandrahm 9'
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: dfc3d9d8f9510224989d8cecfc25d30a, type: 3}
+      thumbTitle: Hausfassade
+      thumbInfo: Zeichnung von Eduard Niese, 1886
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 47ccd481facd3244eb9f1cab8d2df064, type: 3}
+      thumbTitle: 'Portal '
+      thumbInfo: Vor dem Abriss, Foto 1886
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 1a721b9b3458b6c46a16b686793f5942, type: 3}
+      thumbTitle: Delfine
+      thumbInfo: "S\xFCdseite Museum, Foto jn"
+      mode: 1
+    - thumb: {fileID: 21300000, guid: bb551b83e45ae9048ac2ab2b7f44a673, type: 3}
+      thumbTitle: 'Alte Kaufmannsdiele '
+      thumbInfo: Aquarell von Eduard Niese, 1886
+      mode: 1
+    titleInfo: 
+    description: "Datierung: Ende 17. Jh.   \nAbriss: 1886\n\nAm Neuen Wandrahm stand
+      eine Reihe besonders repr\xE4sentativer H\xE4user nach Vorbildern aus den Niederlanden.
+      Alle wurden f\xFCr den Bau der Speicherstadt nach 1886 abgerissen. Zu diesem
+      Zeitpunkt wurden die H\xE4user vor allem als Kontor und Speicher genutzt. "
+    creator: 
+    destruction: 'Abriss: 1886 '
+    user: 
+    date: Ende des 17. Jahrhunderts
+  - name: 
+    id: '#001'
+    adress:
+      location:
+        latitude: 53.54839
+        longitude: 9.992369
+      what3words: "anzug.gel\xE4chter.herbst"
+      Standort: "Altes Rathaus an der Trostbr\xFCcke"
+    headline: "Rathaus Trostbr\xFCcke"
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: d734f38df8e1ac34ab6195b3ad2fedb0, type: 3}
+      thumbTitle: Altes Rathaus
+      thumbInfo: Kupferstich von Diederich Lemkus, um 1700
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 36fe3ecd37353234d8bc6873daf52e4a, type: 3}
+      thumbTitle: "Gro\xDFes Portal"
+      thumbInfo: 1601, Zunftsaal Museum, Foto Stier
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 9c8fc6d2423334b4bbf839ffe5f68eca, type: 3}
+      thumbTitle: Kleines Portal
+      thumbInfo: 1649, Eingang Museum, Foto Stier
+      mode: 1
+    - thumb: {fileID: 21300000, guid: c32c079b85a95fa4eac324fa0a09a483, type: 3}
+      thumbTitle: Wappen
+      thumbInfo: J.W.Manstadt 1772, Nordseite
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 96e3a9f3f3ec3fd4d96246a4d72a6461, type: 3}
+      thumbTitle: Kaiserfiguren
+      thumbInfo: Nordseite Museum
+      mode: 1
+    - thumb: {fileID: 21300000, guid: f77a8d032328fc94dbe182a20f3226f7, type: 3}
+      thumbTitle: "Karl der Gro\xDFe "
+      thumbInfo: 747/48-814
+      mode: 1
+    - thumb: {fileID: 21300000, guid: ea6a4952b83a7574baf8128528330003, type: 3}
+      thumbTitle: Ludwig der Fromme
+      thumbInfo: 778-840
+      mode: 1
+    - thumb: {fileID: 21300000, guid: b255dc801f5e35b429bc36a826609f36, type: 3}
+      thumbTitle: Heinrich I.
+      thumbInfo: 876-936
+      mode: 1
+    - thumb: {fileID: 21300000, guid: c33c36ce269213f479dd6a24512da326, type: 3}
+      thumbTitle: 'Otto I. '
+      thumbInfo: 912-973
+      mode: 1
+    - thumb: {fileID: 21300000, guid: b39f71baf588814489ae69d6786fc092, type: 3}
+      thumbTitle: 'Otto II. '
+      thumbInfo: 955-983
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 5beb690b6a457f24c9e42e447a3e5319, type: 3}
+      thumbTitle: Konrad II.
+      thumbInfo: 990-1039
+      mode: 1
+    - thumb: {fileID: 0}
+      thumbTitle: Lothar v. Sachsen
+      thumbInfo: 1075-1137
+      mode: 1
+    - thumb: {fileID: 21300000, guid: e8d7d49eeda0b2e4bbba579d9db002cc, type: 3}
+      thumbTitle: Barbarossa
+      thumbInfo: 1122-1190
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 90b9448a1d8553449a22b628f3c9298a, type: 3}
+      thumbTitle: Karl IV.
+      thumbInfo: 1316-1378
+      mode: 1
+    - thumb: {fileID: 21300000, guid: bbbe1b63b5ceb0444a31424acbc681ca, type: 3}
+      thumbTitle: Sigismund
+      thumbInfo: 1368-1437
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 8bc28d2a50c25c94a8b38eb19506ff1f, type: 3}
+      thumbTitle: 'Albrecht II. '
+      thumbInfo: 1298-1358
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 542b9e87d91b08a48a5ed0569b468244, type: 3}
+      thumbTitle: Friedrich III.
+      thumbInfo: 1415-1493
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 401d42f6c2eedf24da08eb7ed6b9c531, type: 3}
+      thumbTitle: Maximilian III.
+      thumbInfo: 1527-1576
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 596640f7b1391644bbf61e2a5f03a2ce, type: 3}
+      thumbTitle: Karl V.
+      thumbInfo: 1500-1558
+      mode: 1
+    titleInfo: 
+    description: "Datierung: um 1290 / 1601 / 1664 / 1772   \nZerst\xF6rt: 1842\n\nDas
+      mittelalterliche Rathaus erhielt im 17. Jh. zwei Anbauten. 1842 wurde es gesprengt,
+      um eine Ausbreitung des Gro\xDFen Brandes zu stoppen. Heute steht hier das
+      Haus der Patriotischen Gesellschaft und das Rathaus befindet sich am Rathausplatz."
+    creator: 
+    destruction: "Gro\xDFer Brand 1842"
+    user: "Ratsherren und B\xFCrgerschaft"
+    date: um 1290 / 1601 / 1664 / 1772
+  - name: 
+    id: '#002'
+    adress:
+      location:
+        latitude: 53.546
+        longitude: 9.993101
+      what3words: selbst.zinn.dortiger
+      Standort: "Katharinenbr\xFCcke 4"
+    headline: "Katharinenbr\xFCcke 4"
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 63c0e07cdf6c62a4086afabf7573fef7, type: 3}
+      thumbTitle: Hausfassade
+      thumbInfo: Foto Georg Koppmann, 1905
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 1e533e105c200e145b8e2dff94ff8428, type: 3}
+      thumbTitle: "Katharinenbr\xFCcke"
+      thumbInfo: Fotografie um 1900
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 78adf705f2bb19c42b68a6e1b987384d, type: 3}
+      thumbTitle: Fensterzier
+      thumbInfo: Innenhof Museum
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 41ec05286b519e14e9d3dc8ebbabdde5, type: 3}
+      thumbTitle: Fensterzier
+      thumbInfo: Innenhof Museum
+      mode: 1
+    - thumb: {fileID: 21300000, guid: cbdf29258e1b6df40addee4351372801, type: 3}
+      thumbTitle: Inschrift
+      thumbInfo: An Gottes Segen ist alles gelegen
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 24ab6cf340ef8aa429d684d5bcbf0352, type: 3}
+      thumbTitle: Inschrift
+      thumbInfo: Gott allein sei die Ehre
+      mode: 1
+    - thumb: {fileID: 21300000, guid: cd270867a14e10c4db63a0ee4d155cad, type: 3}
+      thumbTitle: Ornament
+      thumbInfo: Akanthus, Innenhof Museum
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 12faf5025e33be4498fa64a8b8ed6096, type: 3}
+      thumbTitle: Portalbogen
+      thumbInfo: Nordseite Museum
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 394ddadeffc2c9341a52890910411580, type: 3}
+      thumbTitle: Portalbogen
+      thumbInfo: Nordseite Museum
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 4fcd2ac24b650024db046f5ebbbf0c8b, type: 3}
+      thumbTitle: Kapitell
+      thumbInfo: "S\xFCdseite Museum"
+      mode: 1
+    titleInfo: 
+    description: "Datierung: um 1700    \nAbriss: 1907\n\nIn der N\xE4he der Katharinenkirche
+      lebten Kaufleute, die es sich leisten konnten, die Fassaden ihrer Wohnh\xE4user
+      mit aufwendigen Ornamenten zu schm\xFCcken. Das Haus an der Katharinenkirche
+      wurde 1907 abgebrochen."
+    creator: 
+    destruction: 'Abriss: 1907'
+    user: 
+    date: um 1700
+  - name: 
+    id: '#003'
+    adress:
+      location:
+        latitude: 53.55292
+        longitude: 9.996856
+      what3words: abmachung.erkannte.zwischen
+      Standort: "Stra\xDFenecke Alstertor/Ferdinandstra\xDFe "
+    headline: Spinnhaus an der Alster
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 492dced6abd2514408ee7e8158099271, type: 3}
+      thumbTitle: Spinnhaus
+      thumbInfo: Mit Werk- u. Armen-Haus, Aquarell 1835
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 0b0f15346b38d4e4f82349d40720c6a4, type: 3}
+      thumbTitle: Portal
+      thumbInfo: 'Detail '
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 14cd71f8e3186d34590b10fdd288dcc3, type: 3}
+      thumbTitle: Portal
+      thumbInfo: Westseite Museum
+      mode: 1
+    titleInfo: 
+    description: "Datierung: 1666-1674              \nZerst\xF6rt: 1842\n\nDas Spinnhaus
+      war ein Gef\xE4ngnis. Der Name weist darauf hin, dass die Insassen vor allem
+      Wolle spinnen mussten. Die Kosten f\xFCr den Bau spendete der Ratsherr Peter
+      Rentzel in seinem Testament. 1842 wurde das Spinnhaus beim Gro\xDFen Brand
+      zerst\xF6rt."
+    creator: 
+    destruction: "Gro\xDFer Brand 1842"
+    user: 
+    date: 1666-1674
+  - name: 
+    id: '#007'
+    adress:
+      location:
+        latitude: 53.550236
+        longitude: 9.996767
+      what3words: endlos.tier.teilt
+      Standort: St. Petri Kirche
+    headline: St. Petri Kirche
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: b09f6b321ef8e424c8f313938de96529, type: 3}
+      thumbTitle: St. Petri
+      thumbInfo: Ansicht vor dem Brand, Lithografie 1842
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 4eb58ada57bf280459ac224aa33e4199, type: 3}
+      thumbTitle: Ruine St. Petri
+      thumbInfo: Ansicht nach dem Brand, Aquarell 1842
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 166475c0f9ad7e44b859f352197c35ff, type: 3}
+      thumbTitle: St. Petri 1849
+      thumbInfo: Architekt Alexis de Chareauneuf
+      mode: 1
+    - thumb: {fileID: 21300000, guid: c908d59f3e229124893446968e8badd4, type: 3}
+      thumbTitle: "S\xFCdportal"
+      thumbInfo: Zeichnung, Zustand 1895
+      mode: 1
+    - thumb: {fileID: 21300000, guid: bfdc406e77bc07b41af7f9bed3c5e0c9, type: 3}
+      thumbTitle: "S\xFCdportal "
+      thumbInfo: Nach dem Zweiten Weltkrieg
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 98b5eff8d02b59b4185ed9e0a3d7f552, type: 3}
+      thumbTitle: "S\xFCdportal "
+      thumbInfo: Innenhof Museum, Foto Stier
+      mode: 1
+    - thumb: {fileID: 21300000, guid: ac642d5c61286b9498a4e72b6a096614, type: 3}
+      thumbTitle: Wappenstein
+      thumbInfo: Familie Eysinga , um 1600
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 5fbe10315f9075f4490f7b4770f88e5b, type: 3}
+      thumbTitle: Gedenktafel
+      thumbInfo: Denkmal Fokko Eysinga, um 1600
+      mode: 1
+    titleInfo: 
+    description: "Datierung: 14. Jh. / 1844-1849   \nZerst\xF6rt: 1842\n\nNach dem
+      Gro\xDFen Brand war die mittelalterliche Kirche fast vollst\xE4ndig zerst\xF6rt.
+      Sie wurde im Stil der Gotik wieder aufgebaut. Das 1603 errichtete S\xFCdportal
+      wurde aus den Ruinen geborgen und sp\xE4ter in den Innenhof des Museums eingebaut."
+    creator: 
+    destruction: "Gro\xDFer Brand 1842"
+    user: 
+    date: 14. Jh. / 1844-1849
+  - name: 
+    id: '#006'
+    adress:
+      location:
+        latitude: 53.54629
+        longitude: 9.984905
+      what3words: piepen.davon.ausgereifte
+      Standort: "R\xF6dingsmarkt 60"
+    headline: "R\xF6dingsmarkt 60"
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 27cec5a9b0c24bc43932e4ec4a9d4d84, type: 3}
+      thumbTitle: Fassade
+      thumbInfo: Vor der Renovierung 1876
+      mode: 1
+    - thumb: {fileID: 21300000, guid: d48549281d15ed345b04bf2929c73521, type: 3}
+      thumbTitle: Fassade
+      thumbInfo: Nach der Renovierung 1885
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 95c4ecb1ee5399f43aad9922d2c5592d, type: 3}
+      thumbTitle: 'Portal '
+      thumbInfo: Nach der Renovierung 1885
+      mode: 1
+    - thumb: {fileID: 21300000, guid: fb5e549a6e82f4042afb09b2d06ec02c, type: 3}
+      thumbTitle: 'Portal '
+      thumbInfo: Am Museum Nordseite, Foto Stier
+      mode: 1
+    titleInfo: 
+    description: "Datierung: Ende 16. Jh. / 1631   \nAbriss: 1896\n\nDas B\xFCrgerhaus
+      am R\xF6dingsmarkt stand bereits einige Jahrzehnte, als der Jurist Dietrich
+      Moller vom Baum es 1618 erbte. 1631 hatte er die schlichte Fassade um ein Renaissanceportal
+      erweitern und eine Figur der Justitia anbringen lassen. 1896 abgerissen."
+    creator: 
+    destruction: 'Abriss: 1896 '
+    user: 
+    date: Ende 16. Jh. / 1631
+  - name: 
+    id: '#005'
+    adress:
+      location:
+        latitude: 53.550625
+        longitude: 9.984388
+      what3words: "meinten.anz\xFCge.kohle"
+      Standort: "D\xFCsternstra\xDFe 43-51"
+    headline: "D\xFCsternstra\xDFe 43-51"
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: c5b8c529536a357458798915d30da351, type: 3}
+      thumbTitle: Wohnhaus
+      thumbInfo: Foto Georg Koppmann, 1906
+      mode: 1
+    - thumb: {fileID: 21300000, guid: d717174511788dd48b0a9302a64cfc82, type: 3}
+      thumbTitle: Fassade
+      thumbInfo: Foto Georg Koppmann, 1906
+      mode: 1
+    - thumb: {fileID: 21300000, guid: b717438aa50b43844b4885f73d7ed493, type: 3}
+      thumbTitle: "D\xFCsternstra\xDFe"
+      thumbInfo: Foto aus Wilhelm Melhop, 1904
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 68d1cfff5722fbf4fb248fee04688213, type: 3}
+      thumbTitle: Museum im Bau
+      thumbInfo: "Fassade mit Palmwedel und B\xFCsten 1916"
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 0c96f176442a0924b89926a75041d0a8, type: 3}
+      thumbTitle: "B\xFCste "
+      thumbInfo: "Alexander d. Gr., S\xFCdseite Museum"
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 05283467316a3674e94cb355326417b6, type: 3}
+      thumbTitle: "B\xFCste "
+      thumbInfo: "Caesar, S\xFCdseite Museum"
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 5ceec1cbc99d0e44ba4abf3943d9c672, type: 3}
+      thumbTitle: "B\xFCste "
+      thumbInfo: Cyrus von Persien
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 957d43a5251dd6d4fa44512797d6420c, type: 3}
+      thumbTitle: "B\xFCste "
+      thumbInfo: "Ninos, S\xFCdseite Museum"
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 9d0aa4b259048dd488d499ac3460b33a, type: 3}
+      thumbTitle: Palmwedel
+      thumbInfo: '5 x an der Fassade '
+      mode: 1
+    titleInfo: 
+    description: "Datierung: um 1670\n\n\nDas herrschaftliche Wohnhaus hie\xDF mit
+      Spitznamen \u201EAltes Schloss\u201C. Errichtet hatte es der Jurist Joachim
+      Schr\xF6tteringk. Palmwedel und antike Herrscherb\xFCsten an der Fassade zeigten,
+      dass sich der Bauherr Frieden und eine stabile politische Ordnung w\xFCnschte."
+    creator: 
+    destruction: 
+    user: "Jurist Joachim Schr\xF6tteringk"
+    date: um 1670
+  - name: 
+    id: '#004'
+    adress:
+      location:
+        latitude: 53.550022
+        longitude: 9.998458
+      what3words: feiern.meist.kumpel
+      Standort: Speersort 14
+    headline: Speersort 14
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: a045b6996507b004bb30e6202356d98e, type: 3}
+      thumbTitle: Fassade
+      thumbInfo: "Wohn- und Gesch\xE4fshaus, 1907"
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 81ecf3459e327fc4a90821849e969b4d, type: 3}
+      thumbTitle: Portal
+      thumbInfo: Foto Georg Koppmann, 1907
+      mode: 1
+    - thumb: {fileID: 21300000, guid: df8b07e11e6250d4582bbe6f52e543b5, type: 3}
+      thumbTitle: Portal
+      thumbInfo: "S\xFCdseite Museum"
+      mode: 1
+    titleInfo: 
+    description: "Datierung: ab 1618   \n Abriss: 1910\n\nDer Jurist Vincent Moller
+      vom Baum kaufte drei Grundst\xFCcke am Speersort, um sich ein Wohnhaus mit
+      mehreren Stockwerken und einer breiten Backsteinfassade zu bauen. 1910 wurde
+      die Stra\xDFe verbreitert und das Haus abgerissen."
+    creator: 
+    destruction: 'Abriss: 1910 '
+    user: Jurist Vincent Moller vom Baum
+    date: ab 1618
+  - name: 
+    id: '#021'
+    adress:
+      location:
+        latitude: 53.545437
+        longitude: 9.996527
+      what3words: schwein.betonte.einkaufen
+      Standort: Neuer Wandrahm 14
+    headline: Neuer Wandrahm 14
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 495f68263b78366459036e391674824b, type: 3}
+      thumbTitle: Fassade
+      thumbInfo: Zeichnung Ebba Tesdorpf, 1886
+      mode: 1
+    - thumb: {fileID: 21300000, guid: cbb9570d722d462478b3add61e823086, type: 3}
+      thumbTitle: "L\xF6wenkopf"
+      thumbInfo: Treppenhaus Museum
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 25413448065933945aa4d81f4f54d601, type: 3}
+      thumbTitle: Stuckverzierung
+      thumbInfo: um 1675
+      mode: 1
+    titleInfo: 
+    description: "Datierung: Ende 17. Jh.   \nAbriss: vor 1888\n\nDas Kaufmannshaus
+      besa\xDF ein repr\xE4sentatives Vorderhaus und ein Hinterhaus, das als Speicher
+      diente. Neben dem pr\xE4chtigen Portal gab es im Vorderhaus zwei Eing\xE4nge,
+      die in den Keller f\xFChrten. Sie schm\xFCckte je ein L\xF6wenkopf. Einer davon
+      kam ins Museum. "
+    creator: 
+    destruction: 'Abriss: vor 1888'
+    user: "1678 Johann Behrmann,  1754 Garlieb Amsinck, 1785 Joh. Adolph Schl\xFCter,
+      1825 George Carpzow Gorissen"
+    date: Ende 17. Jh.
+  - name: 
+    id: '#022'
+    adress:
+      location:
+        latitude: 53.545143
+        longitude: 9.995728
+      what3words: flieht.angezeigt.vergisst
+      Standort: Neuer Wandrahm 20
+    headline: Neuer Wandrahm 20
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 2a9c933f758a0b94799d1c36383e9bb0, type: 3}
+      thumbTitle: Portal
+      thumbInfo: Zeichnung Eduard Niese, 1884.
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 5ff1df3fbb736d646a4427d3f261ca1f, type: 3}
+      thumbTitle: "Puttenk\xF6pfe"
+      thumbInfo: Am Portal Westseite Museum
+      mode: 1
+    titleInfo: 
+    description: "Datierung: Ende 17. Jh.  \n Abriss: vor 1888\n\nNicht immer l\xE4sst
+      sich genau sagen, zu welchem Haus eine Spolie am Museum geh\xF6rte. Zwei Puttenk\xF6pfe
+      am Portal des Hauses Neuer Wandrahm 10 am Museum stammen wohl vom Kaufmannshaus
+      Neuer Wandrahm 20. "
+    creator: 
+    destruction: 'Abriss: vor 1888'
+    user: 
+    date: Ende 17. Jh.
+  - name: 
+    id: '#023'
+    adress:
+      location:
+        latitude: 53.548763
+        longitude: 10.000513
+      what3words: verloren.adresse.zucker
+      Standort: "Niedernstra\xDFe 16/Mohlenhof"
+    headline: "Niedernstra\xDFe 16/Mohlenhof"
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: ecdb89b60d294e14e95e34f06f539241, type: 3}
+      thumbTitle: "Niedernstra\xDFe"
+      thumbInfo: Foto Franz Kienert
+      mode: 1
+    - thumb: {fileID: 21300000, guid: b3a8858fc0b6d4b4782cc862c79c19c4, type: 3}
+      thumbTitle: Wohnhaus
+      thumbInfo: "Niedernstra\xDFe 16"
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 4f9bf58fb28150f43b2d89a8f7fc76b1, type: 3}
+      thumbTitle: Portal
+      thumbInfo: Innenhof Museum
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 43ce8e74fc0c9a9498a68bea0a7378b8, type: 3}
+      thumbTitle: Portal
+      thumbInfo: Foto aus Wilhelm Melhop, 1907
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 87aaa665f99209e4a8729c7c601113f8, type: 3}
+      thumbTitle: ' Ofennische'
+      thumbInfo: ' Fotografie 1914'
+      mode: 1
+    - thumb: {fileID: 21300000, guid: c5d1026919ad9f54aa9f92f1ea3df354, type: 3}
+      thumbTitle: 'Diele mit Galerie '
+      thumbInfo: Fotografie 1914
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 14b127190ff0def44b56f13de728d738, type: 3}
+      thumbTitle: "Niedernstra\xDFe "
+      thumbInfo: Abbbruch 1914
+      mode: 1
+    titleInfo: 
+    description: "Datierung: 1. H. 18. Jh.   \nAbriss: 1914\n\nDas Haus geh\xF6rte
+      zum Komplex des Schauenburger- und Mohlenhofes, der dem K\xF6nig von D\xE4nemark
+      geh\xF6rte. Darauf weist die Krone im Bogen eines der Portale hin, das ins
+      Museum gelangte. 1768 ging der Hof in den Besitz der Stadt \xFCber und wurde
+      sp\xE4ter verkauft."
+    creator: 
+    destruction: 'Abriss: 1914 wegen der Altstadtsanierung'
+    user: "K\xF6nig von D\xE4nemark"
+    date: 1. H. 18. Jh.
+  - name: 
+    id: '#024'
+    adress:
+      location:
+        latitude: 53.545506
+        longitude: 9.996368
+      what3words: erster.nicht.ersetzt
+      Standort: ' Neuer Wandrahm 6'
+    headline: Neue Wandrahm 6
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 9493c30322411944ca1ba58ea2ecf717, type: 3}
+      thumbTitle: 'Wohnhaus '
+      thumbInfo: Foto Charles Fuchs, vor 1868
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 04eda84c4c7e88a488a34a562c063e16, type: 3}
+      thumbTitle: 'Wohnhaus '
+      thumbInfo: Foto Georg Koppmann, 1884
+      mode: 1
+    - thumb: {fileID: 21300000, guid: f6a980a22d4fa8140acef4cbe0415e6c, type: 3}
+      thumbTitle: "Bl\xFCtenornament"
+      thumbInfo: Portal am Museum in Planten un Blomen
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 3b65505c11b458547a0c57e2b38c1b65, type: 3}
+      thumbTitle: Fassade
+      thumbInfo: Zeichnung Eduard Niese, 1884
+      mode: 1
+    titleInfo: 
+    description: "Datierung: 1675/80    \nAbriss: 1886\n\nIm 17. Jh. lie\xDFen sich
+      Niederl\xE4nder am Neuen Wandrahm nieder. Vorbilder f\xFCr ihre Stadtpalais
+      waren Bauten aus Amsterdam und anderen niederl\xE4ndischen St\xE4dten. Alle
+      H\xE4user wurden f\xFCr den Bau der Speicherstadt abgerissen. Einzelne Bauteile
+      kamen ins Museum."
+    creator: Johann Jacob Erasmus
+    destruction: 'Abbriss: 1886'
+    user: Ascan Wilhelm Lutteroth
+    date: 1675/80
+  - name: 
+    id: '#025'
+    adress:
+      location:
+        latitude: 53.550747
+        longitude: 10.000448
+      what3words: zeiten.gestiegen.speer
+      Standort: Jakobikirchhof 13
+    headline: Hauptpastorat St. Jacobi
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: d49a0fb10005c624fbaf7ad802633651, type: 3}
+      thumbTitle: "\nHauptpastorat \n"
+      thumbInfo: Foto Knackstedt & Co, 1911
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 5b50512b6a810bf4c9296c90a3b627ae, type: 3}
+      thumbTitle: Jacobikirchhof
+      thumbInfo: Theobald Riefesell, 1892
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 07d56318b1f5ab54fbcae1785e46a4f6, type: 3}
+      thumbTitle: Portal
+      thumbInfo: Innenhof Museum
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 5c493e9088d4a3847974f36e70403e6b, type: 3}
+      thumbTitle: Diele
+      thumbInfo: Foto Franz Rompel, 1910
+      mode: 1
+    titleInfo: 
+    description: "Datierung: 1757-1759   \nAbriss: 1909\n\nDas Hauptpastorat lag
+      direkt an der Kirche St. Jacobi und wurde Mitte des 18. Jh. neu erbaut. 1909
+      wurde es f\xFCr den Bau des Rappolthauses und der neu angelegten M\xF6nckebergstra\xDFe
+      abgerissen. Nur das Rokokoportal blieb erhalten und kam ins Museum."
+    creator: Nicolaus Dietrich Petersen
+    destruction: 'Abriss: 1909'
+    user: Hauptpastor von St. Jacobi
+    date: 1757-1759
+  - name: 
+    id: '#026'
+    adress:
+      location:
+        latitude: 53.55011
+        longitude: 10.000577
+      what3words: "turmuhr.ger\xFChrt.sch\xFClerin"
+      Standort: " Jacobikirchhof/ Steinstra\xDFe 124"
+    headline: Jacobikirchhof
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 2cbcbdaa4eda35543b762ce56e713a2f, type: 3}
+      thumbTitle: "Steinstra\xDFe 124"
+      thumbInfo: Georg Koppmann, 1880
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 226d4b9271743f348b1b110a79d38b14, type: 3}
+      thumbTitle: ' Jacobikirchhof'
+      thumbInfo: Foto Georg Koppmann, 1880
+      mode: 1
+    - thumb: {fileID: 21300000, guid: c1094e0f3b7d7a24eb5165c402187845, type: 3}
+      thumbTitle: Lukas u. Johannes
+      thumbInfo: Ausstellungsraum Museum
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 78474d6c71775bf43aaec9e1c3fb9897, type: 3}
+      thumbTitle: "Ev. Matth\xE4us"
+      thumbInfo: Ausstellungsraum Museum
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 0121ca22f893cfe44af1a24954268077, type: 3}
+      thumbTitle: Ev. Markus
+      thumbInfo: Ausstellungsraum Museum
+      mode: 1
+    titleInfo: 
+    description: "Datierung: Torb\xF6gen 1678   \nAbriss: 1881\n\nDurch einen Torbogen
+      gelangte man von der Steinstra\xDFe in den Jacobikirchhof, der die Kirche St.
+      Jacobi umgab. Die Figuren der vier Evangelisten auf beiden Seiten des Torbogens
+      schnitzte der K\xFCnstler Christian Precht. "
+    creator: Christian Precht
+    destruction: 'Abriss: 1881'
+    user: 
+    date: 
+  - name: 
+    id: '#027'
+    adress:
+      location:
+        latitude: 53.544937
+        longitude: 9.982719
+      what3words: bahnhof.ablage.schauen
+      Standort: "Steinh\xF6ft 13"
+    headline: "Steinh\xF6ft 13"
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: d7531c1b535b7e14e8c84f78ea7a87a5, type: 3}
+      thumbTitle: Wohnhaus
+      thumbInfo: "Steinh\xF6ft 13"
+      mode: 1
+    - thumb: {fileID: 21300000, guid: ee9fcef5b58ba2641a67a607daf1a23f, type: 3}
+      thumbTitle: Ansicht
+      thumbInfo: "mit der neuen Hochbahnbr\xFCcke"
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 3015658e5aad50943b101a3f2f90593d, type: 3}
+      thumbTitle: Portal
+      thumbInfo: 'Innenhof Museum '
+      mode: 1
+    - thumb: {fileID: 21300000, guid: c4f056b9f73717245acb9ea264e74e39, type: 3}
+      thumbTitle: 'Giebelschmuck '
+      thumbInfo: Innenhof Museum
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 8d574cb75b04dc94f909307bd30c8b07, type: 3}
+      thumbTitle: "Hochbahnbr\xFCcke"
+      thumbInfo: "beim Steinh\xF6ft"
+      mode: 1
+    titleInfo: 
+    description: "Datierung: um 1760  \n Abriss: 1921\n\nDas Kaufmannshaus mit schlichter
+      Fassade lag direkt am Binnenhafen. Nur das Portal war anspruchsvoller gestaltet.
+      F\xFCr den Anbau des Kontorhauses Slomanhaus wurde es 1921 abgerissen. "
+    creator: 
+    destruction: 'Abriss: vor 1921'
+    user: 
+    date: um 1760
+  - name: 
+    id: '#028'
+    adress:
+      location:
+        latitude: 53.546436
+        longitude: 10.001909
+      what3words: genehmigt.differenz.beklagt
+      Standort: " Poggenm\xFChle 2 "
+    headline: "Poggenm\xFChle 2"
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: addef578be0250949a06b20e4a6a2d5a, type: 3}
+      thumbTitle: Wohnhaus
+      thumbInfo: Foto Knackstedt & Co, 1911
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 9a95eb4584301b4478be90f81dc2519c, type: 3}
+      thumbTitle: Portal
+      thumbInfo: Foto Georg Koppmann, 1906
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 50d9a84436d533643a0a2bada6ef2d2b, type: 3}
+      thumbTitle: Portal
+      thumbInfo: "S\xFCdseite Museum "
+      mode: 1
+    - thumb: {fileID: 21300000, guid: c3de75eb87ca0b24a960af555598d9db, type: 3}
+      thumbTitle: Fensterzier
+      thumbInfo: 'Innenhof Museum '
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 6e588aac0419c93459099a6798ada340, type: 3}
+      thumbTitle: "Poggenm\xFChle"
+      thumbInfo: Foto Strumper & Co, 1897
+      mode: 1
+    titleInfo: 
+    description: "Datierung: Ende 17. Jh.   \n Abriss: 1906\n\nDas Haus wurde Mitte
+      des 18. Jh. modernisiert und erhielt ein repr\xE4sentatives Portal. 1906 wurde
+      es f\xFCr den Bau der Speicherstadt abgerissen.  Eine Fensterrahmung gelangte
+      ins Museum. "
+    creator: 
+    destruction: "Abriss: 1906 f\xFCr den Bau der Speicherstadt"
+    user: 
+    date: Ende 17. Jh.
+  - name: 
+    id: '#029'
+    adress:
+      location:
+        latitude: 53.55003
+        longitude: 10.004898
+      what3words: absprache.teewurst.anstreben
+      Standort: "Steinstra\xDFe 74"
+    headline: "Steinstra\xDFe 74"
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 2754747ff74cf3c4990cfbb466671c78, type: 3}
+      thumbTitle: Hof
+      thumbInfo: "In der Steinstra\xDFe"
+      mode: 1
+    - thumb: {fileID: 21300000, guid: cc25ae1695085a04499fc8549ec76814, type: 3}
+      thumbTitle: Relief
+      thumbInfo: "S\xFCdseite Museum"
+      mode: 1
+    titleInfo: 
+    description: "Datierung: 17. Jh.    \nAbriss: um 1914\n\nIm G\xE4ngeviertel an
+      der Steinstra\xDFe befanden sich hinter den H\xE4usern H\xF6fe mit schmalen
+      G\xE4ngen. An einer Fensterbr\xFCstung im Hinterhaus Steinstra\xDFe 74 war
+      ein Relief angebracht. Es zeigt einen Mann mit Turban und antikisierender R\xFCstung."
+    creator: 
+    destruction: 'Abbriss: um 1914'
+    user: 
+    date: 17. Jh.
+  - name: 
+    id: '#030'
+    adress:
+      location:
+        latitude: 53.548565
+        longitude: 9.980591
+      what3words: "k\xE4mpft.spalte.autonomer"
+      Standort: Teilfeld 41
+    headline: Teilfeld 41
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 47588a8af5f4b604285f216490c04483, type: 3}
+      thumbTitle: Ansicht
+      thumbInfo: 'Zeichnung R. Loewendei, 1880 '
+      mode: 1
+    - thumb: {fileID: 0}
+      thumbTitle: Schrifttafel
+      thumbInfo: "S\xFCdseite Museum "
+      mode: 1
+    titleInfo: 
+    description: "Datierung: 1750 (Tafeln)    \nAbriss: vor 1910\n\nWie das Wohnhaus
+      aussah, ist nicht bekannt. Nur zwei Inschriftentafeln mit religi\xF6sem Bezug
+      blieben erhalten. Sie erinnern an den Kauf und die Renovierung des Hauses 1750
+      und 1770. Es lag im Sanierungsgebiet der Neustadt und wurde abgerissen. "
+    creator: 
+    destruction: 'Abriss: vor 1910'
+    user: 
+    date: 
+  - name: 
+    id: '#031'
+    adress:
+      location:
+        latitude: 53.547382
+        longitude: 9.997544
+      what3words: sorge.teile.hilflos
+      Standort: " H\xFCxter 20 "
+    headline: "H\xFCxter 20"
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 6d9b18c9dc55d9c4ca4ee1a896aa853e, type: 3}
+      thumbTitle: Wappenstein
+      thumbInfo: 'Innenhof Museum '
+      mode: 1
+    titleInfo: 
+    description: "Datierung: 1549\n\nDas Wappen geh\xF6rte zu einem Haus in der Stra\xDFe
+      H\xFCxter. Die Stra\xDFe gibt es nicht mehr. Heute verl\xE4uft hier die Willy-Brandt-Stra\xDFe. "
+    creator: 
+    destruction: 
+    user: 
+    date: 
+  - name: 
+    id: '#032'
+    adress:
+      location:
+        latitude: 53.552616
+        longitude: 9.980186
+      what3words: "sonst.aufz\xFCge.sp\xE4tes"
+      Standort: "Marienstra\xDFe/Kohlh\xF6fen"
+    headline: "Marienstra\xDFe/Kohlh\xF6fen"
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 8a34c350a6c3f594b87809ef26b6a094, type: 3}
+      thumbTitle: "Marienstra\xDFe"
+      thumbInfo: Zeichnung Theobald Riefesell, 1894
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 4246382e1a576ad4bb7331d532ac26d6, type: 3}
+      thumbTitle: "Markusl\xF6we"
+      thumbInfo: 'Innenhof Museum '
+      mode: 1
+    titleInfo: 
+    description: "Datierung: 17. Jh.\n\nAm Eckhaus war ein Relief mit einem gefl\xFCgelten
+      L\xF6wen des Evangelisten Markus angebracht. Es kam vom \"Markusplatz\" an
+      den Kohlh\xF6fen. Der Kapit\xE4n der B\xFCrgerwache Markus Meyer gab 1632 St.
+      Nikolai eine Spende. Daf\xFCr sollte der Platz nach ihm benannt werden.  "
+    creator: 
+    destruction: 
+    user: 
+    date: '17. Jh. '
+  - name: 
+    id: '#033'
+    adress:
+      location:
+        latitude: 53.549778
+        longitude: 9.998276
+      what3words: abstand.patzen.machen
+      Standort: "Speersort/Domstra\xDFe"
+    headline: "Speersort/Domstra\xDFe"
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 476cdc7be0e20f2428e366f9da0d6ab2, type: 3}
+      thumbTitle: Wohnhaus
+      thumbInfo: Zeichnung Ebba Tesdorpf, 1883
+      mode: 1
+    - thumb: {fileID: 21300000, guid: e2a9f77283db96d4aaf553fa122e9ce0, type: 3}
+      thumbTitle: Wappenstein
+      thumbInfo: 'Innenhof Museum '
+      mode: 1
+    titleInfo: 
+    description: "Datierung: 1710 / 1722   \nAbriss: 1882\n\nAls der Graf und Reichsfreiherr
+      Max Heinrich von Kurtzrock das Eckhaus 1722 erwarb, brachte er dort sein Wappen
+      an. Architekt des Hauses war Nicolaus von Kuhn. Es wurde 1882 f\xFCr den Bau
+      der \"Hamburger Nachrichten\" abgerissen. \n"
+    creator: 
+    destruction: 
+    user: Max Heinrich von Kurtzrock
+    date: 1710/1722
+  - name: 
+    id: '#034'
+    adress:
+      location:
+        latitude: 53.548656
+        longitude: 9.993075
+      what3words: gefahrlos.aller.besucher
+      Standort: "Ne\xDF 1"
+    headline: Hamburger Bank
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 4c1b01302a0471f478873714e937c8d6, type: 3}
+      thumbTitle: Die Bank
+      thumbInfo: Lithografie Peter Suhr, um 1830
+      mode: 1
+    - thumb: {fileID: 21300000, guid: d23b43d5472c05e4cbc50c69efbab2bc, type: 3}
+      thumbTitle: Stadtwappen
+      thumbInfo: Nordseite Wallanlagen
+      mode: 1
+    titleInfo: 
+    description: "Datierung: 1825-1827   \nZerst\xF6rt: 1842\n\nDie Hamburger Bank
+      am Ne\xDF lag neben dem Rathaus und war nach Pl\xE4nen des Architekten Jacob
+      Heinrich Ludolff gebaut worden. Das Haus wurde beim Gro\xDFen Brand zerst\xF6rt,
+      ein Stein mit Hamburg Wappen gerettet. Heute steht hier das Kontorhaus \"Alte
+      Bankhalle\".\n"
+    creator: Jacob Heinrich Ludolff
+    destruction: "Gro\xDFer Brand 1842"
+    user: 
+    date: 1825-1827
+  - name: 
+    id: '#035'
+    adress:
+      location:
+        latitude: 53.54856
+        longitude: 9.993449
+      what3words: gestreift.erfuhren.hohes
+      Standort: " Ne\xDF 6 "
+    headline: "Ne\xDF 6"
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 95e2f4dc77a7c8f4893a89a8564e9604, type: 3}
+      thumbTitle: Kaufmannshaus
+      thumbInfo: Zeichnung Johannes Niebuhr
+      mode: 1
+    - thumb: {fileID: 21300000, guid: dd79dcf9016060340979c4fb3cd431fc, type: 3}
+      thumbTitle: Wappenstein
+      thumbInfo: Westseite Museum
+      mode: 1
+    titleInfo: 
+    description: "Datierung: 1532 / 1549   \nAbriss: 1880\n\nDas gotische Kaufmannshaus
+      war im Besitz der Familie Moller. 1880 wurde es f\xFCr die Verbreiterung der
+      Stra\xDFe Ne\xDF abgerissen. Erhalten haben sich ein Wappenstein der Moller
+      und eine Beischlagwange der Treppe mit M\xFChlrad von 1532 und 1549."
+    creator: 
+    destruction: 'Abriss: 1880'
+    user: Familie Moller
+    date: 1532/1549
+  - name: 
+    id: '#036'
+    adress:
+      location:
+        latitude: 53.55093
+        longitude: 9.980116
+      what3words: "ruhen.umwandeln.h\xFCgeligen"
+      Standort: " Gro\xDFneumarkt 19/21 "
+    headline: "Gro\xDFneumarkt 19/21"
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 4eeca70a5729a084ab740e1b7cd7c0de, type: 3}
+      thumbTitle: "Gro\xDFneumarkt"
+      thumbInfo: Fotografie 1872
+      mode: 1
+    - thumb: {fileID: 21300000, guid: b73380a68869b6742b71847fae783b2e, type: 3}
+      thumbTitle: Wohnhaus
+      thumbInfo: Fotografie 1872
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 7d63423d2f623354fb0854f40113b4cc, type: 3}
+      thumbTitle: Wappenstein
+      thumbInfo: 'Nordseite Museum '
+      mode: 1
+    titleInfo: 
+    description: "Datierung: nach 1698   \nAbriss: um 1900\n\nIm Giebel des gro\xDFen
+      B\xFCrgerhauses befand sich das Wappen der Familie Sonnenberg: eine goldene
+      Sonne vor blauem Himmel. Die Familie hatte das Grundst\xFCck 1698 erworben.
+      Um 1900 wurde das Haus abgerissen und die n\xF6rdliche Seite des Platzes neu
+      bebaut. "
+    creator: 
+    destruction: 'Abriss: um 1900'
+    user: Familie Sonnenberg
+    date: nach 1698
+  - name: 
+    id: '#037'
+    adress:
+      location:
+        latitude: 53.546585
+        longitude: 10.004276
+      what3words: gesang.regelten.grenzen
+      Standort: Deichtor
+    headline: Deichtor
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 1d81d78d182621c4b9542ab68b14d104, type: 3}
+      thumbTitle: Deichtor um 1700
+      thumbInfo: Lithografie David Martin Kanning, 1850
+      mode: 1
+    - thumb: {fileID: 21300000, guid: ca0d7fc6badb0bd498aad6043be544ed, type: 3}
+      thumbTitle: Inschrift
+      thumbInfo: Nordseite Museum
+      mode: 1
+    titleInfo: 
+    description: "Datierung: 1673   \nAbriss: 1828\n\nDas Deichtor war eines der
+      Stadttore, das in der Nacht geschlossen wurde. Am Bau von 1673 war eine Inschriftentafel
+      angebracht. Sie mahnte, die Freiheit zu bewahren, welche die Vorfahren errangen.
+      1828 wurde das alte Deichtor durch einen Neubau ersetzt.\n\n"
+    creator: 
+    destruction: 'Abriss: 1828'
+    user: 
+    date: 
+  - name: 
+    id: '#038'
+    adress:
+      location:
+        latitude: 53.549397
+        longitude: 10.001392
+      what3words: tuch.pfeffer.weltreise
+      Standort: "Mohlenhofstra\xDFe 14"
+    headline: "Mohlenhofstra\xDFe 14"
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 1347ed2f6a9c59a43af09c2a336600be, type: 3}
+      thumbTitle: Hinterhof
+      thumbInfo: Foto aus Wilhelm Melhop, 1909
+      mode: 1
+    - thumb: {fileID: 21300000, guid: f6300c3842ffd134387ab51ff20e84fa, type: 3}
+      thumbTitle: Hausdetail
+      thumbInfo: 'Mit dem Stadtwappen '
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 6283afe8f6d36ac46915588c8f000315, type: 3}
+      thumbTitle: 'Stadtwappen '
+      thumbInfo: 'Innenhof Museum '
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 121ed6994856b034386dae4368272910, type: 3}
+      thumbTitle: "R\xFCckseite"
+      thumbInfo: Foto Georg Koppmann
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 1da92af5e79d7b040bc79b2e4675049f, type: 3}
+      thumbTitle: 'Abbruch '
+      thumbInfo: um 1930
+      mode: 1
+    titleInfo: 
+    description: "Datierung: 17.Jh. / 1768  \nAbriss: um 1930 \n\nIm Innenhof eines
+      Fachwerkhauses war \xFCber dem Tor das Hamburger Stadtwappen angebracht. Das
+      Haus geh\xF6rte zum Schauenburger Hof, der 1768 vom d\xE4nischen K\xF6nig in
+      den Besitz der Stadt \xFCbergegangen war. Abgerissen zur Sanierung der Altstadt
+      s\xFCdlich der Steinstra\xDFe."
+    creator: 
+    destruction: 
+    user: 
+    date: 17. Jh./1768
+  - name: 
+    id: '#039'
+    adress:
+      location:
+        latitude: 53.556633
+        longitude: 9.985511
+      what3words: "offiziell.zuf\xE4llig.spendet"
+      Standort: "Gro\xDFe Drehbahn 43"
+    headline: "Gro\xDFe Drehbahn 43"
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: f9e2632b8dbf9524a9c4971769b2eb9d, type: 3}
+      thumbTitle: Wohnhaus
+      thumbInfo: Fotografie 1913
+      mode: 1
+    - thumb: {fileID: 21300000, guid: dae9b853bbae26b4d81484999ff46985, type: 3}
+      thumbTitle: Portal
+      thumbInfo: 'Erdgeschoss Museum '
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 2c537f93f25c5f740971c3744b50a404, type: 3}
+      thumbTitle: Stuckdecke
+      thumbInfo: Foto Knackstedt & Co, 1911
+      mode: 1
+    titleInfo: 
+    description: "Datierung: Ende 18. Jh.   \nAbriss: 1913\n\nDas Portal des Hauses
+      gelangte nach dem Abriss in die Sammlung des Museums und wurde im Erdgeschoss
+      eingebaut. In dem Haus befand sich seit den 1870er Jahren eine Buchdruckerei."
+    creator: 
+    destruction: 'Abriss: 1913'
+    user: 
+    date: 'Ende 18. Jh. '
+  - name: 
+    id: '#040'
+    adress:
+      location:
+        latitude: 53.556633
+        longitude: 9.985511
+      what3words: "offiziell.zuf\xE4llig.spendet"
+      Standort: "Gro\xDFe Drehbahn 44"
+    headline: "Gro\xDFe Drehbahn 44"
+    thumbnails:
+    - thumb: {fileID: 21300000, guid: 83f745bc9bd30284ab94969dae8ca195, type: 3}
+      thumbTitle: Wohnhaus
+      thumbInfo: Fotografie 1913
+      mode: 1
+    - thumb: {fileID: 21300000, guid: 84943ef6669472b4cb41ceb2350f75a6, type: 3}
+      thumbTitle: Portal
+      thumbInfo: 'Erdgeschoss Museum '
+      mode: 1
+    titleInfo: 
+    description: "Datierung: Ende 18. Jh.    \nAbriss: 1913\n\nIn der Stra\xDFe Gro\xDFe
+      Drehbahn gab es nicht nur Wohnh\xE4user. Auch ein Konzerthaus und das Logenhaus
+      der Hamburger Freimaurer befanden sich dort. Das Portal des Hauses Nr. 44 gleicht
+      dem Portal der Nr. 43."
+    creator: 
+    destruction: 'Abriss: 1913'
+    user: 
+    date: Ende 18. Jh.

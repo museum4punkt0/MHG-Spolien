@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dce503964204a4b868fe9c4b3ec9416b, type: 3}
+  m_Name: RadioPlay Data
+  m_EditorClassIdentifier: 
+  audio: {fileID: 8300000, guid: 4fb34cfcc14fe4f0b81c2fbf5bf0a00d, type: 3}
+  radioPlayScenes:
+  - title: intro
+    startTime: 0
+    displayText: "Leise und weiter weg: Ger\xE4usch von brennendem Holz."
+  - title: szene 1
+    startTime: 3
+    displayText: "Nah: Ger\xE4usch von Fingern\xE4geln die am groben Stoff kratzen
+      (die M\xC4NNLICHE ERZ\xC4HLERSTIMME (20) kratzt sich an der Schulter weil die
+      Haut unter der groben Kutte juckt)."
+  - title: szene 2
+    startTime: 14
+    displayText: "(plattdeutscher Einschlag) (schnell, besorgt) F\xFCnfter Mai, im
+      Jahr Achtzehn Hundert Zwei und Vierzig. Verehrter Leser, wir kennen einander
+      nicht. Ich bin H\xE4ftling hier im Spinnhaus; und Du bist der Einzige der mir
+      jetzt noch helfen kann! Du musst mein Geheimnis retten, bevor\u2019s zu sp\xE4t
+      ist! Denn da unten, in der Stadt, da brennt\u2019s, und ich wei\xDF nicht was
+      jetzt mit mir sein wird ... Ich glaube nicht, dass sie uns hier - die Armen
+      und Verdorbenen - retten."
+  - title: szene 3
+    startTime: 43
+    displayText: "Weiter weg, aus dem Innenhof kommend: Beunruhigte Stimmen von Kindern
+      und Frauen die Unverst\xE4ndliches rufen."
+  - title: szene 4
+    startTime: 50
+    displayText: "(resigniert, bitter) Die Frauen und die ganzen Schwangeren und
+      die Kinder da drau\xDFen ... die sind nur hier, weil sie arm sind ... M\xFCssen
+      hier diese ollen Kutten weben, Tag ein Tag aus dieselbe Specksuppe mit Erbsen
+      fressen, so wie ich ja auch ..."
+  - title: szene 5
+    startTime: 65
+    displayText: "Kirchenglocken der Stadt l\xE4uten Sturm."
+  - title: szene 6
+    startTime: 70
+    displayText: "Hoffe, im Himmel oder in der H\xF6lle gibts diese Specksuppe nicht,
+      sonst hau ich von da ab, das kannste mir glauben ..."
+  - title: szene 7
+    startTime: 76
+    displayText: "Ger\xE4usch seiner Schritte wie er in der engen Zelle (auf einem
+      Steinboden mit schweren, kantigen, zu gro\xDFen Schuhen) nerv\xF6s hin und
+      her tigert."
+  - title: szene 8
+    startTime: 84
+    displayText: "(eindringlich) Du musst mir helfen, du musst mein Geheimnis f\xFCr
+      die Nachwelt bewahren. Die Kiste, die Kiste \u2026. Sie tr\xE4gt mein Geheimnis
+      und ist gut gesch\xFCtzt. Jemand muss sie \xF6ffnen.... Diese Sache ist zu
+      gro\xDF, als dass sie mit mir untergeht."
+  - title: szene 9
+    startTime: 100
+    displayText: "Das Ger\xE4usch von brennendem Holz n\xE4hert sich bedrohlich.
+      Wir h\xF6ren wie er hustet."
+  - title: szene 10
+    startTime: 105
+    displayText: "(mit Husten) Gott verdamm mich - dieser Rauch! Da kommt er, da
+      unter der T\xFCre ... Wir haben keine Zeit mehr ... Er geht in seinen schweren
+      kantigen Schuhen ans Fenster. Nun n\xE4here Atmo-Ger\xE4usche einer Stadt in
+      Aufruhr. Dazwischen unverst\xE4ndliche panischen Hilferufe der Frauen und Kinder."
+  - title: szene 11
+    startTime: 123
+    displayText: "(entsetzt) Die W\xE4nde hier, der Kalk, die werden grade grau ...
+      (konspirativ, schnell, Stimme nun klar) Den Zettel schnell in die Kiste\u2026
+      Lieber Finder, ich habe die L\xF6sungen \xFCberall in der Stadt versteckt,
+      l\xF6se sie, \xF6ffne die Kiste, ich fleh dich an ..."
+  - title: szene 12
+    startTime: 140
+    displayText: "Wir h\xF6ren schwere Schritte den Gang entlang, sich n\xE4hernd. "
+  - title: szene 13
+    startTime: 145
+    displayText: "(fl\xFCsternd und hustend) Da kommt jemand."
+  - title: szene 14
+    startTime: 150
+    displayText: "Ger\xE4usch: jemand sucht einen Schl\xFCssel in einem massiven
+      Schl\xFCsselbund. Wir h\xF6ren wie jemand einen alten Schl\xFCssel in ein Schloss
+      steckt und daran dreht. Das Knarzen und Quietschen einer schweren, sich \xF6ffnenden
+      Eisent\xFCr."
+  - title: szene 15
+    startTime: 162
+    displayText: "(fl\xFCsternd) Folge meinen Hinweisen. Dann kannst du meine Kiste
+      \xF6ffnen und erf\xE4hrst mein Geheimnis."
+  - title: szene 16
+    startTime: 168
+    displayText: "Schwere Schritte in Stiefeln die n\xE4her kommen."
+  - title: szene 17
+    startTime: 172
+    displayText: Raus, aber dalli! Mach schon!
+  - title: szene 18
+    startTime: 175
+    displayText: "(fl\xFCsternd) Verehrter Leser, ich z\xE4hl auf dich!"
+  - title: --end--
+    startTime: 180
+    displayText: 

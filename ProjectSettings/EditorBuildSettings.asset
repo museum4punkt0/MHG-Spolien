@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/01_Scenes/MHG_Bootstrapper.unity
+    guid: 856179d3917ed7242865e9483af5b342
+  - enabled: 1
+    path: Assets/01_Scenes/MHG_MainMenu.unity
+    guid: 050b72815375af0429d2423e1cc0b5dd
+  - enabled: 1
+    path: Assets/01_Scenes/MHG_Museum.unity
+    guid: 16a248c7f8610c04397677761faff275
+  - enabled: 1
+    path: Assets/01_Scenes/MHG_Adventure.unity
+    guid: fc291df5c04f949458a92202c24cc52b
+  - enabled: 1
+    path: Assets/01_Scenes/MHG_Engine.unity
+    guid: 73795b37edfdc2d499fa16b112f51d1b
+  - enabled: 1
+    path: Assets/01_Scenes/MHG_ArView.unity
+    guid: 5d9539f4c7ee5c74c85a038c90cb6e1b
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 89a6d18d3df8d3e4fa917b0f9a963bc0,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: de8a8e4f987434338a4b1062feb8d069,
+      type: 2}
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: c2f7b8d7c0bff4d10874cbcf3f24af78,
+      type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: b27ec7d82a91a48e69fd689ad6808e5e,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 1eb95d77acb39444e8cf44313496a874,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 58f40b12bbc864f3c96c6505a9a1e1e3,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 6bb381a8ba31f114d9724357633b4625,
+      type: 2}

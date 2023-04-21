@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1cafb983b609e14d8eded0b20a23252, type: 3}
+  m_Name: DATA_Map
+  m_EditorClassIdentifier: 
+  upperLeftCorner:
+    latitude: 53.575626
+    longitude: 9.942207
+  lowerRightCorner:
+    latitude: 53.523422
+    longitude: 10.030104
+  mapSpritePath: 
+  sector:
+    subsectors:
+    - subsectors:
+      - subsectors: []
+        sectorImage: {fileID: 21300000, guid: fd4f905e2b8191b43b5fc516e70637f0, type: 3}
+        sectorCode: 
+      - subsectors: []
+        sectorImage: {fileID: 21300000, guid: dc4ebc2458bd21045a1899fca64d24c1, type: 3}
+        sectorCode: 
+      - subsectors: []
+        sectorImage: {fileID: 21300000, guid: 95da0ce2e09f1f34a9111823a1cf7e50, type: 3}
+        sectorCode: 
+      - subsectors: []
+        sectorImage: {fileID: 21300000, guid: c60bec4cc3c135143b43dbc55c1518d3, type: 3}
+        sectorCode: 
+      sectorImage: {fileID: 21300000, guid: 5af3d93be7ff1894f9c1ae2c3e7fe0cf, type: 3}
+      sectorCode: 
+    - subsectors:
+      - subsectors: []
+        sectorImage: {fileID: 21300000, guid: 2b428eacb01307e469ed1b16858b0e23, type: 3}
+        sectorCode: 
+      - subsectors: []
+        sectorImage: {fileID: 21300000, guid: 3a5f308f3b64bab49815a9611e02c543, type: 3}
+        sectorCode: 
+      - subsectors: []
+        sectorImage: {fileID: 21300000, guid: 48b4ea481ed464d4cbff059cba4368e1, type: 3}
+        sectorCode: 
+      - subsectors: []
+        sectorImage: {fileID: 21300000, guid: a05b229c8db81df40adc5a0e18fe9773, type: 3}
+        sectorCode: 
+      sectorImage: {fileID: 21300000, guid: 59ef05ed00ccedf46819d9c201167d26, type: 3}
+      sectorCode: 
+    - subsectors:
+      - subsectors: []
+        sectorImage: {fileID: 21300000, guid: 1262d9d3bd0d6d24eaa73714c7207561, type: 3}
+        sectorCode: 
+      - subsectors: []
+        sectorImage: {fileID: 21300000, guid: 0ac1bd0a3ae8cab43b5a05b213f4cc39, type: 3}
+        sectorCode: 
+      - subsectors: []
+        sectorImage: {fileID: 21300000, guid: 877cbb511e7ebff4eb7a0c35e54e0ca2, type: 3}
+        sectorCode: 
+      - subsectors: []
+        sectorImage: {fileID: 21300000, guid: 9237f7e77f8d7e84693e5c14123b30b6, type: 3}
+        sectorCode: 
+      sectorImage: {fileID: 21300000, guid: e9e21051fe7b95e41a0df800044f6e80, type: 3}
+      sectorCode: 
+    - subsectors:
+      - subsectors: []
+        sectorImage: {fileID: 21300000, guid: 18e5cdd486e708942a1903b5d8caed4c, type: 3}
+        sectorCode: 
+      - subsectors: []
+        sectorImage: {fileID: 21300000, guid: c19cc57f694333744aafa473e5353cd0, type: 3}
+        sectorCode: 
+      - subsectors: []
+        sectorImage: {fileID: 21300000, guid: 43c8ce4f6f2afa341a5116f0400d3ae3, type: 3}
+        sectorCode: 
+      - subsectors: []
+        sectorImage: {fileID: 21300000, guid: c927133005e4de94b939d830c9bdfae7, type: 3}
+        sectorCode: 
+      sectorImage: {fileID: 21300000, guid: cf4717abdcabe0c41b453a085beacc58, type: 3}
+      sectorCode: 
+    sectorImage: {fileID: 21300000, guid: 1e76555d687444b479bb486690a99338, type: 3}
+    sectorCode: 
