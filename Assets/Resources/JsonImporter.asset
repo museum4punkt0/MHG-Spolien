@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f62c788510d3e343a5c0d578a0f029e, type: 3}
   m_Name: JsonImporter
   m_EditorClassIdentifier: 
-  filePath: Assets/04_Data/Json/_Modul2_Inhalte_EN.json
+  filePath: Assets/04_Data/Json/_Modul2_Inhalte_DE.json
   ImagePath: Sprites/thumb/_All
   DataDE: {fileID: 11400000, guid: c31495d4f38e12145ac596ae4cf38cee, type: 2}
   DataEN: {fileID: 11400000, guid: 0d9a286abf7b2da4d9c1103550ad1b0c, type: 2}
-  dataType: 1
+  dataType: 0

@@ -21,8 +21,10 @@
 /[Rr]ecordings/
 
 #Large Assets
-/[Aa]ssets/03_Art
-/[Aa]ssets/Resources/Sprites
+/[Aa]ssets/03_Art/
+/[Aa]ssets/Resources/Sprites/
+/[Aa]ssets/Plugins/Sirenix/
+/[Aa]ssets/UI/Pagination/
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
