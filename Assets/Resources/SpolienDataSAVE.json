@@ -1,113 +1,113 @@
 {
     "spolien": [
         {
-            "name": "Kleines Rathausportal ",
+            "name": "Small city hall portal",
             "id": "#001001",
             "thumbInfo": "",
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 32488
+                        "instanceID": 32720
                     },
                     "thumbTitle": "3D View",
-                    "thumbInfo": "Kleines Rathausportal ",
+                    "thumbInfo": "Small city hall portal",
                     "mode": 0
                 },
                 {
                     "thumb": {
-                        "instanceID": 0
+                        "instanceID": 32936
                     },
-                    "thumbTitle": "Altes Rathaus ",
-                    "thumbInfo": "Stahlstich von Gray u. Laeisz, vor 1842",
+                    "thumbTitle": "Old city hall,",
+                    "thumbInfo": "Steel engraving by Gray and Laeisz, prior to 1842",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 0
+                        "instanceID": 32848
                     },
-                    "thumbTitle": "Brand 1842",
-                    "thumbInfo": "Lithografie von Peter Suhr",
+                    "thumbTitle": "Fire of 1842",
+                    "thumbInfo": "Lithography by Peter Suhr",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 0
+                        "instanceID": 32596
                     },
-                    "thumbTitle": "Normaluhr",
-                    "thumbInfo": "Portal mit Zeitmesser, um 1918",
+                    "thumbTitle": "Standard clock",
+                    "thumbInfo": "Portal with timepiece, ca. 1918",
                     "mode": 1
                 }
             ],
             "details": [],
-            "titleInfo": "Datierung: 1649 \nMaterial: Sandstein\n\nDer Bogen des kleinen Rathausportals ist nicht einmal drei Meter hoch. Er wirkt im Vergleich zu anderen Portalen rund ums Museum etwas unscheinbar. Als originale Teile erhalten geblieben sind nur die beiden Löwen in den Zwickeln und das Stadtwappen. ",
-            "detailedInfo": "Ursprünglich gehörte das Portal seit dem Jahr 1649 zur Erweiterung des alten Hamburger Rathauses an der Trostbrücke. Dahinter befanden sich die Räumlichkeiten der Hamburger Bank. Zudem lagen im Gewölbekeller gleich zur Linken der kleinen Rathauspforte die städtischen Geldreserven in Form von Silberbarren verwahrt – bis sie von den französischen Besatzern im Winter 1813/1814 beschlagnahmt wurden. Die Sprengung des Rathauses während des Großen Brandes von 1842 hatte das Portal überlebt. Nach einer Zwischenstation im Alten Johanneum am Domplatz wurde es schlussendlich an den heutigen Museumsbau versetzt. \n\nDessen Architekt Fritz Schumacher hatte sich allerdings noch eine Besonderheit überlegt: Geschützt hinter einem gläsernen Rahmen wurde in dem jetzt leeren Bogen eine sogenannte Normaluhr installiert. Solch ein sehr genau gehender Zeitmesser war an dieser Stelle schon betrieben worden, bevor es das Museum gab – als nämlich am Holstenwall noch die Hamburger Sternwarte ihren Standort hatte. Zur Sternwarte gehörte eine Zeitzentrale, welche auch im neuen Museum wieder eingerichtet wurde. Auf diese Weise wurde bis 1943 nicht nur die vom Vorplatz aus sichtbare Normaluhr in Gang gehalten, sondern auch die Turmuhr auf dem Museumsdach.",
+            "titleInfo": "Date: 1649\nMaterial: Sandstone\n\nThe arch of the small city hall portal is not quite three metres high. In comparison to other portals around the museum, it seems rather nondescript. The only original elements preserved are the two lions in the spandrels and the city coat of arms.\n",
+            "detailedInfo": "The portal, dating back to the year 1649, originally belonged to the extension of the old Hamburg city hall at Trostbrücke and it led to the premises of the Hamburger Bank. The city’s money reserves in the form of silver bars were stored in the vaulted cellar immediately to the left of the small city hall portal - until they were confiscated by the French occupying forces in the winter of 1813/1814. The portal survived the destruction of the city hall during the Great Fire of 1842. Later incorporated into the Old Johanneum on Domplatz, the portal was finally moved to the present museum building.\n\nThe museum’s architect, Fritz Schumacher, conceived an additional special feature: protected behind a glass frame, a so-called standard clock was installed in the now empty arch. A similar very accurate timepiece had been operated at this location even before the museum existed, namely when the Hamburg Observatory was still located at Holstenwall. The observatory featured a time station, which had also been reinstalled in the new museum. In this way, not only the standard clock, visible from the forecourt, was kept running until 1943, but also the tower clock on the museum roof.",
             "location": {
                 "latitude": 0.0,
                 "longitude": 0.0
             }
         },
         {
-            "name": "Großes Rathausportal ",
+            "name": "Large city hall portal",
             "id": "#001002",
             "thumbInfo": "",
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31696
+                        "instanceID": 32752
                     },
                     "thumbTitle": "3D View",
-                    "thumbInfo": "Großes Rathausportal ",
+                    "thumbInfo": "Large city hall portal",
                     "mode": 0
                 },
                 {
                     "thumb": {
-                        "instanceID": 0
+                        "instanceID": 32840
                     },
-                    "thumbTitle": "Altes Rathaus",
-                    "thumbInfo": "Ansicht im Jahr 1700",
+                    "thumbTitle": "Old city hall",
+                    "thumbInfo": "View in 1700",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 0
+                        "instanceID": 32368
                     },
-                    "thumbTitle": "Altes Rathaus",
-                    "thumbInfo": "Ansicht im Jahr 1841",
+                    "thumbTitle": "Old city hall",
+                    "thumbInfo": "View in 1841",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 0
+                        "instanceID": 32540
                     },
-                    "thumbTitle": "Großer Brand",
-                    "thumbInfo": "Blick auf Kran, Börse, Rathaus 1842",
+                    "thumbTitle": "Great Fire",
+                    "thumbInfo": "View of crane, exchange, city hall in 1842",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 0
+                        "instanceID": 32372
                     },
-                    "thumbTitle": "Ruine",
-                    "thumbInfo": "Nach der Sprengung 1842",
+                    "thumbTitle": "Ruins",
+                    "thumbInfo": "After the destruction in 1842",
                     "mode": 1
                 }
             ],
             "details": [],
-            "titleInfo": "Datierung: 1601\nMaterial: Sandstein\n\nÜber dreieinhalb Meter breit und beinahe sieben Meter hoch ist das große Sandsteinportal im Zunftsaal des Museums. Es mag erstaunen, dass es sich hierbei um den weniger bedeutsamen der beiden Haupteingänge zum alten Rathaus an der Trostbrücke handelte. ",
-            "detailedInfo": "Der Eingang gehörte zu einem rechts an das mittelalterliche Ratsgebäude angesetzten Erweiterungsbau von 1601. Ursprünglich betrat man durch ihn zunächst eine Diele und dahinter Ratsstube und Registratur. Wichtiger war allerdings der Eingang zum Rathaussaal und der lag nebenan im mittelalterlichen Ratsgebäude. Von diesem mehrfach erneuerten Portal sind nur wenige Reste erhalten. \n\nAm Rathausportal im Zunftsaal kann man kannelierte korinthische Säulen entdecken und in den Bogenzwickeln Frauen als Friedensgenien, die Kränze und Palmzweige tragen. Darüber stehen wappenhaltende Löwen sowie speertragende Soldaten. In der Mitte über dem medaillonartig eingefassten Stadtwappen bekrönt eine weitere Frauenfigur als Friedensallegorie die Szenerie. In Summe ein Bildprogramm, welches den Einwohnern und auch Besuchern Hamburgs am Beginn des 17. Jahrhunderts Zustandsbeschreibung, Hoffnung und Mahnung zugleich sein konnte: Eine wohlhabende Stadt, die auf friedlichen Handel setzt, sich gegen Versuche auswärtiger Einflussnahme aber auch zur Wehr zu setzen weiß.",
+            "titleInfo": "Date: 1601\nMaterial: Sandstone\n\nThe large sandstone portal in the guild hall of the museum is over three-and-a-half metres wide and close to seven metres in height. It may come as a surprise, but this was the less prominent of the two main entrances to the old city hall at Trostbrücke.\n",
+            "detailedInfo": "The entrance belonged to an extension built 1601, which was attached to the right of the medieval building. Originally, upon entering the portal one first walked down a hallway to the council chamber and registry. Only a few remnants have been preserved of the portal, which had been renovated many times.\n\nOn the city hall portal in the guild hall of the museum, one can discover fluted Corinthian columns. Women carrying wreaths and palm branches in the arch spandrels symbolise peace. Above them are spear-carrying soldiers and lions holding the city coat of arms in a medallion. In the centre, above the medallion, the portal is crowned by another female figure serving as an allegory of peace. \nAll in all, this pictorial programme could describe the state of affairs in Hamburg at the beginning of the 17th century: that of a prosperous city that relies on peaceful trade, but which also knows how to defend itself against attempted foreign interference. Both hope and advice to its inhabitants and visitors. \n",
             "location": {
                 "latitude": 0.0,
                 "longitude": 0.0
             }
         },
         {
-            "name": "Kaiserfiguren vom alten Rathaus an der Trostbrücke ",
+            "name": "Emperor figures from the old city hall at Trostbrücke",
             "id": "#001003",
             "thumbInfo": "",
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31104
+                        "instanceID": 32168
                     },
                     "thumbTitle": "3D View",
                     "thumbInfo": "Friedrich Barbarossa",
@@ -115,153 +115,153 @@
                 },
                 {
                     "thumb": {
-                        "instanceID": 0
+                        "instanceID": 32624
                     },
-                    "thumbTitle": "Altes Rathaus",
-                    "thumbInfo": "Kupferstich von Diederich Lemkus, um 1700",
+                    "thumbTitle": "Old city hall",
+                    "thumbInfo": "Engraving by Diederich Lemkus, ca. 1700",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 0
+                        "instanceID": 32484
                     },
-                    "thumbTitle": "Kaiserfiguren",
-                    "thumbInfo": "Gerettet und eingelagert, 1880er Jahre",
+                    "thumbTitle": "Emperor figures",
+                    "thumbInfo": "Rescued and stored, 1880s",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 0
+                        "instanceID": 32208
                     },
-                    "thumbTitle": "Kaiserfiguren",
-                    "thumbInfo": "und Rathausportal im Johanneum, 1894",
+                    "thumbTitle": "Emperor figures",
+                    "thumbInfo": "and city hall portal in Johanneum, 1894",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 0
+                        "instanceID": 32880
                     },
                     "thumbTitle": "Friedrich Barbarossa",
-                    "thumbInfo": "Im Johanneum, 1894",
+                    "thumbInfo": "In Johanneum, 1894",
                     "mode": 1
                 }
             ],
             "details": [],
-            "titleInfo": "Datierung: 1602-1649\nMaterial: Sandstein\n\nZwischen den Fenstern an der Nordwestseite des Museums stehen 14 steinerne Figuren. Es sind Bildnisse mittelalterlicher deutscher Kaiser, die bis 1842 in ganz ähnlicher Weise auf ihren Sockeln an der Fassade des alten Hamburger Rathauses an der Trostbrücke verbaut waren. ",
-            "detailedInfo": "Ursprünglich waren am alten Rathaus sogar 21 Statuen aufgestellt worden: je sieben auf drei Stockwerken. Fast alle hatten die nicht gänzlich geglückte Sprengung des Rathauses während des Großen Brandes überlebt. Für den Museumsneubau konnte man so immerhin noch 20 Standbilder als Spolien wiederverwenden. Von diesen fehlen heute allerdings sechs, die man nach starken Beschädigungen des Gebäudes während der Luftangriffe des Zweiten Weltkrieges hier nicht wieder aufstellen konnte. \n\nDie Kaiser tragen jeweils eine Rüstung und als Zeichen ihrer Macht Krone, Reichsapfel, ein Schwert oder Zepter, von denen allerdings nur die Griffe erhalten sind. An ihrem einstigen Aufstellungsort verkörperten sie eine besondere Aussage: Die Loyalität Hamburgs galt spätestens seit der Bestätigung des Status als Freie Reichsstadt im Jahr 1618 nur noch dem deutschen Kaiser und nicht dem dänischen König, gegen den sich diese Botschaft richtete. Dass die Kaiserfiguren im Laufe der Zeit in der Stadt zu einer Art Wahrzeichen wurden, lassen ihre am neuen Rathaus von 1897 aufgestellten Nachfolger noch gut erahnen.\n",
+            "titleInfo": "Date: 1602-1649\nMaterial: Sandstone\n\nBetween the windows on the north-west side of the museum are 14 stone figures. They are statues of medieval German emperors, which were installed in a very similar way on pedestals on the facade of Hamburg’s old city hall at Trostbrücke until 1842.",
+            "detailedInfo": "Originally, 21 statues had been placed at the facade of the old city hall – seven each on three floors. Almost all of them survived the Great Fire, in which the building was not entirely destroyed. At least 20 of these statues could be reused in the construction of the new museum building. Six of these are lost today, as the building was badly damaged during the air raids of the Second World War.\n\nEach of the emperors wear armour and a crown, orb, sword or sceptre to signify their power. Of the sceptre only the handles have been preserved. When situated at their former location, they embodied a special message: the city’s loyalty as a Free Imperial City lay solely with the German Emperor and not the Danish King, against whom this message was directed. Over time, the emperor figures became a kind of landmark in the city, evidenced by the erection of their successors on the new city hall in 1897.",
             "location": {
                 "latitude": 0.0,
                 "longitude": 0.0
             }
         },
         {
-            "name": "Portalbogen Wohnhaus Katharinenbrücke 4",
+            "name": "Portal arch - Residential building on Katharinenbrücke 4 ",
             "id": "#002001",
             "thumbInfo": "",
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 32528
+                        "instanceID": 32748
                     },
                     "thumbTitle": "3D View",
-                    "thumbInfo": "Portalbogen Katharinenbrücke 4",
+                    "thumbInfo": "Portal arch - Katharinenbrücke 4 ",
                     "mode": 0
                 },
                 {
                     "thumb": {
-                        "instanceID": 0
+                        "instanceID": 32656
                     },
-                    "thumbTitle": "Fassade",
-                    "thumbInfo": "Wohn- und Geschäftshaus, um 1900",
+                    "thumbTitle": "Facade",
+                    "thumbInfo": "Residential and commercial building, ca. 1900",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 0
+                        "instanceID": 32972
                     },
                     "thumbTitle": "Katharinenbrücke",
-                    "thumbInfo": "Zeichnung von Joh. Theob. Riefesell, 1888",
+                    "thumbInfo": "Drawing by  Joh. Theob. Riefesell, 1888",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 0
+                        "instanceID": 32344
                     },
-                    "thumbTitle": "Fensterschmuck",
-                    "thumbInfo": "Heute im Museumsinnenhof",
+                    "thumbTitle": "Window decoration",
+                    "thumbInfo": "Currently in the museum courtyard",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 0
+                        "instanceID": 32632
                     },
-                    "thumbTitle": "Fassadentafel",
-                    "thumbInfo": "An Gottes Segen ist alles gelegen",
+                    "thumbTitle": "Facade plaque",
+                    "thumbInfo": "‘God’s blessing gained, all is obtained’",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 0
+                        "instanceID": 32428
                     },
-                    "thumbTitle": "Fassadentafel",
-                    "thumbInfo": "Gott allein sei die Ehre, Museumsinnenhof",
+                    "thumbTitle": "Facade plaque",
+                    "thumbInfo": "‘To God alone be the glory’, museum courtyard",
                     "mode": 1
                 }
             ],
             "details": [],
-            "titleInfo": "Datierung: um 1700\nMaterial: Sandstein\n\nDer Bogen und sein Pendant auf der anderen Seite des Gebäudeteils gehörten ursprünglich zu einem Doppelportal eines Wohnhauses, das bis zu seinem Abbruch im Jahr 1907 an der Straße Katharinenbrücke stand. ",
-            "detailedInfo": "Auf beiden Bögen ist ein pausbäckiger Junge mit einer turbanartigen Kopfbedeckung zu erkennen. Zur Entstehungszeit des Hauses und seines Bauschmucks gegen Ende des 17. Jahrhunderts wurden häufig schwarze Menschen auf diese Weise abgebildet. Vielleicht spielt hier die unmittelbare Nähe des Hauses zur Katharinenkirche eine Rolle, denn die heilige Katharina von Alexandrien wurde zuweilen mit dem heiligen Mauritius zusammen verehrt, der zumeist als Turban tragender schwarzer König dargestellt wurde.\n\nOb allerdings schwarze Personen aus Hamburg Vorbild für den Figurenschmuck waren, ist nicht bekannt. Zu dieser Zeit lebten aber einige von ihnen in der Stadt Hamburg, deren Kaufleute im kolonialen Handel aktiv waren. Kinder arbeiteten als „Hausdiener“ und waren hierher verschleppt und versklavt worden. So ist auf einem Gemälde von Johannes Voorhout in der Sammlung des Museums ein schwarzer Junge als Diener für eine musizierende Gesellschaft um den Musiker Johann Adam Reincken dargestellt. Reincken war  Organist von St. Katharinen und lebte in der Nähe.",
+            "titleInfo": "Date: ca. 1700\nMaterial: Sandstone\n\nThe arch and its counterpart on the other side of the building originally belonged to a double portal of a residential building that stood on Katharinenbrücke until its demolition in 1907.",
+            "detailedInfo": "Both arches feature the depiction of a chubby-faced boy wearing a turban-like headdress. At the time of the house’s construction and its architectural decoration towards the end of the 17th century, black people were often depicted in this manner. Perhaps the immediate proximity of the house to St. Catherine’s Church plays a role here, as St. Catherine of Alexandria was sometimes worshipped together with St. Maurice, who was usually depicted as a turban-wearing black king.\n\nIt is not known, however, if black people from Hamburg served as models for the ornamental figures. At that time, some black people did live in the city of Hamburg, as its merchants were active in colonial trade. Children who had been abducted and enslaved worked as household servants here. In a painting by Johannes Voorhout in the museum’s collection, a black boy is depicted as a servant for a music-making social gathering centred around the musician Johann Adam Reincken. Reincken was the organist at St. Catherine’s Church and lived nearby.",
             "location": {
                 "latitude": 0.0,
                 "longitude": 0.0
             }
         },
         {
-            "name": "Portal vom Spinnhaus an der Alster",
+            "name": "Portal from the Spinnhaus on the Alster",
             "id": "#003001",
             "thumbInfo": "",
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 32016
+                        "instanceID": 32256
                     },
                     "thumbTitle": "3D View",
-                    "thumbInfo": "Portal vom Spinnhaus an der Alster",
+                    "thumbInfo": "Portal from the Spinnhaus on the Alster",
                     "mode": 0
                 },
                 {
                     "thumb": {
-                        "instanceID": 31824
+                        "instanceID": 32876
                     },
                     "thumbTitle": "Spinnhaus",
-                    "thumbInfo": "Mit Werk- u. Armen-Haus, Aquarell 1835",
+                    "thumbInfo": "with the workhouse and poorhouse, watercolour, 1835",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31556
+                        "instanceID": 32664
                     },
-                    "thumbTitle": "Ruinen",
-                    "thumbInfo": "Spinnhaus nach dem Brand 1842",
+                    "thumbTitle": "Ruins",
+                    "thumbInfo": "Spinnhaus after the Great Fire of 1842",
                     "mode": 1
                 }
             ],
             "details": [],
-            "titleInfo": "Architekt: Hans Hamelau\nDatierung: 1666-1674\nMaterial: Sandstein\n\nDas Portal vom alten Hamburger Spinnhaus ist heute an der Westfassade des Museums eingebaut. Bis zu seiner Zerstörung im Großen Brand von 1842 befand sich das Spinnhaus auf Höhe der heutigen Straßenecke Alstertor/Ferdinandstraße, also etwas links vom jetzigen Thalia-Theater. ",
-            "detailedInfo": "Zusammen mit dem benachbarten Werk- und Zuchthaus gehörte das 1666 bis 1674 errichtete Spinnhaus zu den vormodernen Gefängnisbauten der Stadt Hamburg. Der Name  weist darauf hin, dass die Insassen vor allem Wolle spinnen mussten. Inhaftiert waren vorrangig Prostituierte, die auf diese Weise resozialisiert werden sollten. Gebaut wurden das Spinnhaus und die zugehörige Kirche mit dem Geld, das der Ratsherr Peter Rentzel 1662 in seinem Testament hinterlassen hatte. \n\nAn ihn erinnert die lateinische Inschrift über dem Bogen: „Ex ultima voluntate et dispositione Dni. Petri Renzelii piae memoriae (Nach der letztwilligen Verfügung des Herren Peter Rentzel seligen Angedenkens) … in honorem Dei et flagitiosorum emendationem hoc ergastulum sumptibus ipsius exstructum est (… ist zur Ehre Gottes und zur Besserung der Übeltäter dieses Arbeitshaus auf seine Kosten erbaut worden).“ Stetiges Beten und Arbeiten sollten nach den Vorstellungen des Stifters zur Läuterung der Häftlinge beitragen. So setzte sich Rentzel, der zu Lebzeiten bereits großzügig Gelder für die Erneuerung Hamburger Kirchtürme gespendet hatte, postum ein weiteres Denkmal gottgefälligen Lebens.\n",
+            "titleInfo": "Architect: Hans Hamelau\nDate:  1666-1674\nMaterial: Sandstone\n\nThe portal from the old Hamburg Spinnhaus prison is now incorporated into the west facade of the museum. Until its destruction in the Great Fire of 1842, the Spinnhaus was located at what is currently the corner of Alstertor and Ferdinandstraße, i.e. somewhat to the left of the present-day Thalia Theatre.",
+            "detailedInfo": "Together with the neighbouring workhouse and penitentiary, the Spinnhaus was one of Hamburg’s premodern prison buildings. It was built between 1666 and 1674. As its name implies, the inmates mainly had to spin wool. Its prisoners were mainly prostitutes, who were to be resocialised through work. The Spinnhaus and its affiliated church were built with money left by the city councillor Peter Rentzel in his will in 1662.\n\nHe is commemorated by the Latin inscription above the arch: “Ex ultima voluntate et dispositione Dni. Petri Renzelii piae memoriae (According to the last will and testament of Mr Peter Rentzel of blessed memory) … in honorem Dei et flagitiosorum emendationem hoc ergastulum sumptibus ipsius exstructum est (… this workhouse has been built at his expense for the glory of God and the correction of evildoers).” According to the views of the benefactor, constant prayer and work would contribute to the purification of the prisoners. Rentzel thus posthumously erected in his name a further monument to a life pleasing unto God. During his lifetime, he had already generously donated funds for the renovation of Hamburg’s church towers.  \n",
             "location": {
                 "latitude": 0.0,
                 "longitude": 0.0
             }
         },
         {
-            "name": "Portal Wohnhaus Speersort 14",
+            "name": "Portal - Residential building on Speersort 14 ",
             "id": "#004001",
             "thumbInfo": "",
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31488
+                        "instanceID": 32548
                     },
                     "thumbTitle": "3D View",
                     "thumbInfo": "Portal Speersort 14",
@@ -269,86 +269,86 @@
                 },
                 {
                     "thumb": {
-                        "instanceID": 31528
+                        "instanceID": 32612
                     },
-                    "thumbTitle": "Eingangsportal",
-                    "thumbInfo": "Fotografie von Gerog Koppmann, 1907",
+                    "thumbTitle": "Portal",
+                    "thumbInfo": "Photo by Georg Koppmann, 1907",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31456
+                        "instanceID": 32504
                     },
-                    "thumbTitle": "Fassade",
-                    "thumbInfo": "Wohn- und Geschäfshaus, 1907",
+                    "thumbTitle": "Facade",
+                    "thumbInfo": "Residential and commercial building, 1907",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32384
+                        "instanceID": 32644
                     },
-                    "thumbTitle": "Ausverkauf",
-                    "thumbInfo": "Schaufensterwerbung vor dem Abriss 1910",
+                    "thumbTitle": "Sale",
+                    "thumbInfo": "Window display before the demolition 1910",
                     "mode": 1
                 }
             ],
             "details": [],
-            "titleInfo": "Datierung: ab 1618\nMaterial: Sandstein\n\nIn den Jahren 1616-1618 kaufte der Jurist Vincent Moller vom Baum am Speersort drei Grundstücke, um sich ein Wohnhaus mit mehreren Stockwerken und einer breiten Backsteinfassade zu bauen. Das Sandsteinportal am Eingang war fünfeinhalb Meter hoch. ",
-            "detailedInfo": "In die Bestände des Museums gelangte das Portal im Jahr 1910, als das damalige Mietshaus mit der Adresse Speersort 14 einer Straßenverbreiterung weichen musste. Beim Bau des Museums wurde das Portal als Eingang zur Gartenterrasse aufgestellt. Der Dreiecksgiebel gehört nicht ursprünglich dazu. Auf den beiden Säulen fallen Putten, Masken und Fruchtgehänge auf. Im Bogen findet man regelrechte Fratzen. Die Fratzen und der Löwenkopf in der Mitte des Bogens dürften wie Torwächter gewirkt haben. \n\nZu schützen gab es hier Reichtum und Wohlstand, sinnfällig verbildlicht durch die beiden allegorischen Figuren in den Bogenzwickeln, die Füllhörner und Weintrauben halten. Im Domizil hinter dem Portal residierten im 17. und 18. Jahrhundert sogar einige bekrönte Häupter. Königin Christina von Schweden und Zar Peter I. dürften die prominentesten Besucher gewesen sein, mit denen man sich im republikanisch gesinnten Hamburg eher arrangierte, anstatt sich für sie zu begeistern. Und doch war es von Vorteil, repräsentative Räumlichkeiten wie das Haus am Speersort im Stadtzentrum zu wissen, auf die man immer wieder zurückgreifen konnte.",
+            "titleInfo": "Date: from 1618\nMaterial: Sandstone\n\nBetween 1616 and 1618, the lawyer Vincent Moller vom Baum purchased three plots of land on Speersort street in order to build a residential building with several storeys and a wide brick facade. The sandstone entrance portal was five-and-a-half metres high.",
+            "detailedInfo": "The portal came into the museum’s possession in 1910, when the former apartment building located on Speersort 14 had to be demolished in order to widen the street. When the museum was built, the portal was installed as the entrance to the garden terrace. The triangular gable is not originally part of the portal. The two columns feature cherubs, masks, and hanging fruit. Grotesque faces are depicted on the arch. The faces and the lion’s head in the centre of the arch may have been intended to function as gatekeepers.\n\nWealth and prosperity were to be protected here, clearly illustrated by the two allegorical figures holding cornucopias and grapes in the spandrels. In the 17th and 18th centuries, members of the nobility even resided in the building. Queen Christina of Sweden and Tsar Peter I were probably the most prominent visitors. Republican-minded citizens of Hamburg tended to tolerate such guests rather than expressing enthusiasm. Yet, it was convenient to have such representative premises in the city centre.",
             "location": {
                 "latitude": 0.0,
                 "longitude": 0.0
             }
         },
         {
-            "name": "Herrscherbüsten und Palmwedel Düsternstraße 43-51",
+            "name": "Busts of rulers and palm branches - Düsternstraße 43-51 ",
             "id": "#005001",
             "thumbInfo": "",
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31796
+                        "instanceID": 32836
                     },
                     "thumbTitle": "3D View",
-                    "thumbInfo": "Büste Düsternstraße",
+                    "thumbInfo": "Busts - Düsternstraße",
                     "mode": 0
                 },
                 {
                     "thumb": {
-                        "instanceID": 31572
+                        "instanceID": 32668
                     },
-                    "thumbTitle": "Wohnhaus",
-                    "thumbInfo": "Fotografie von Georg Koppmann, 1906",
+                    "thumbTitle": "Residential building ",
+                    "thumbInfo": "Photo by  Georg Koppmann, 1906",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32604
+                        "instanceID": 32808
                     },
-                    "thumbTitle": "Fassade",
-                    "thumbInfo": "Fotografie von Georg Koppmann, 1906",
+                    "thumbTitle": "Facade",
+                    "thumbInfo": "Photo by Georg Koppmann, 1906",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32188
+                        "instanceID": 32416
                     },
                     "thumbTitle": "Düsternstraße",
-                    "thumbInfo": "Fotografie von Wilhelm Melhop, 1904",
+                    "thumbInfo": "Photo by Wilhelm Melhop, 1904",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31132
+                        "instanceID": 32332
                     },
-                    "thumbTitle": "Museum im Bau",
-                    "thumbInfo": "Fassade mit Palmwedeln und Büsten 1916",
+                    "thumbTitle": "Museum during construction",
+                    "thumbInfo": "facade with palm branches and busts, 1916",
                     "mode": 1
                 }
             ],
             "details": [],
-            "titleInfo": "Datierung: um 1670\nMaterial: Sandstein\n\nDie gekreuzten Palmwedel am Südflügel des Museums gehörten zu einem herrschaftlichen Wohnhaus, das im Hamburger Volksmund den Spitznamen „Altes Schloss“ trug. Errichtet worden war es in den 1670er Jahren durch den Juristen Joachim Schrötteringk. ",
-            "detailedInfo": "Das Haus lag im südlichsten Abschnitt der damaligen Neustädter Fuhlentwiete, der heute Düsternstraße heißt. Ein Palmwedel war in Hamburg in diesen Jahrzehnten in Mode und seine biblischen Bezüge vielen Betrachtern geläufig. Friedenshoffnungen, die man den Palmwedeln zusprach, passten offenbar gut in eine durch wiederholte Bürgerunruhen geprägte Zeit.\nVier Herrscherbüsten wählte Schrötteringk zusätzlich als symbolträchtigen Bauschmuck für sein Wohnhaus aus. Sie waren dort ebenso angebracht wie jetzt am Museum: Zwischen den Palmwedel-Paaren. \n\nDie Büsten zeigen von links nach rechts die antiken Herrscher Ninos (mit Vollbart und einem Löwenfell als Umhang), Kyros den Großen (mit Turban), Alexander den Großen (mit langen Haaren und Helm) sowie Gaius Julius Cäsar (mit Lorbeerkranz). Die Abfolge dieser Persönlichkeiten konnte das Nacheinander historischer Machtgebilde versinnbildlichen: Auf das Assyrische folgte erst das Persische, dann das Makedonische und schließlich das Römische Weltreich. Ideell war diese Reihung in der Frühen Neuzeit durch das deutsche Kaisertum sogar noch fortsetzbar. Denkbar ist, dass Schröteringk sich mittels dieser Bildsprache für stabile Verhältnisse in seiner Heimatstadt aussprach, die der deutsche Kaiser garantieren sollte. ",
+            "titleInfo": "Date: ca. 1670\nMaterial: Sandstone\n\nThe crossed palm branches on the south facade of the museum belonged to a stately home that was popularly nicknamed the Old Palace in Hamburg. It was built in the 1670s by the lawyer Joachim Schrötteringk.",
+            "detailedInfo": "The house was located in the southernmost part of what was then Neustädter Fuhlentwiete street, which is now called Düsternstraße. The symbol of the palm branch was fashionable in Hamburg during those decades and its biblical references familiar to most observers. The hope of peace symbolised by the palm branch was clearly appropriate for a time marked by repeated civil unrest.\n\nSchrötteringk also chose the busts of four historic rulers for the facade of his residence. The busts portray, from left to right: the ancient rulers Ninus (with a full beard and a lion’s skin as a cloak), Cyrus the Great (with a turban), Alexander the Great (with long hair and a helmet), and Gaius Julius Caesar (with a laurel wreath). The succession of these rulers could symbolise the succession of historical power structures: The Assyrian Empire was followed by the Persian Empire, then the Macedonian Empire, and finally the Roman Empire. Ideally, this order could even be continued in the early modern period by the German Empire. It is conceivable that Schröteringk used this imagery to advocate stability in his native city, which the German Emperor was supposed to guarantee.",
             "location": {
                 "latitude": 0.0,
                 "longitude": 0.0
@@ -361,7 +361,7 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 32356
+                        "instanceID": 32604
                     },
                     "thumbTitle": "3D View",
                     "thumbInfo": "Portal Rödingsmarkt 60",
@@ -369,148 +369,148 @@
                 },
                 {
                     "thumb": {
-                        "instanceID": 32560
+                        "instanceID": 32776
                     },
-                    "thumbTitle": "Fassade",
-                    "thumbInfo": "Vor der Renovierung 1876",
+                    "thumbTitle": "Facade",
+                    "thumbInfo": "Before renovations, 1876",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32160
+                        "instanceID": 32392
                     },
-                    "thumbTitle": "Fassade",
-                    "thumbInfo": "Nach der Renovierung 1885",
+                    "thumbTitle": "Facade",
+                    "thumbInfo": "After renovations, 1885",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32608
+                        "instanceID": 32812
                     },
                     "thumbTitle": "Portal ",
-                    "thumbInfo": "Nach der Renovierung 1885",
+                    "thumbInfo": "After renovations, 1885",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 0
+                        "instanceID": 32356
                     },
-                    "thumbTitle": "Häuserreihe",
-                    "thumbInfo": "Rödingsmarkt, Fotografie 1878",
+                    "thumbTitle": "Row of houses",
+                    "thumbInfo": "Rödingsmarkt, photography, 1878",
                     "mode": 1
                 }
             ],
             "details": [],
-            "titleInfo": "Datierung: 1631\nMaterial: Sandstein\n\nDas Bürgerhaus am Rödingsmarkt Nr. 60 stand bereits einige Jahrzehnte, als es Dietrich Moller vom Baum 1618 erbte und bis zu seinem Tod dreißig Jahre später bewohnte. Im Jahr 1631 hatte er die schlichte Fassade um ein Renaissanceportal erweitern lassen. ",
-            "detailedInfo": "Das Portal steht seit 1963 frei vor der Nordseite des Museums im sogenannten Schmuckgarten. Zum Bogen gehörte ursprünglich noch ein Zugang mit fünf Treppenstufen, auf deren Seiten bankartige Beischlagwangen zu finden waren. Diese hatte man bereits wenige Jahre vor dem 1896 erfolgten Abriss des Wohnhauses entfernt. Besonders der figürliche Schmuck fällt ins Auge: In den Bogenzwickeln lagern zwei allegorische Figuren mit mehreren Beigaben. Brille und Spiegel in den Händen der linken Figur und ein Vogel und Getreideähren bei der rechten konnten als Chiffren für Bürgertugenden wie zum Beispiel Bildung und Weisheit gelesen werden. \n\nGelehrte Zeitgenossen wussten gewiss den lateinischen Spruch in der rechts darüber angebrachten Kartusche zu übersetzen: HOMO / FINEM SUUM“ (Es kennt der Mensch sein Ende nicht). Schwert und Waage als Attribute der Frauenfigur in der Nische über dem Architrav sind nur noch in Resten erhalten. Solch eine Allegorie der Gerechtigkeit und die darüber zu lesende Inschrift „GLORIA IN EXCELSIS DEO“ (Ehre sei Gott in der Höhe) passten zum Wirken des Ratsherrn Dietrich Moller vom Baum, der auch das Juraten-Amt an der Hauptkirche St. Petri innehatte. Dort war er unter anderem für die Verwaltung des Kirchenvermögens zuständig. ",
+            "titleInfo": "Date: 1631\nMaterial: Sandstone\n\nThe town house at Rödingsmarkt 60 had already been standing for several decades when Dietrich Moller vom Baum inherited it in 1618 and he subsequently lived there until his death thirty years later. In 1631, he had a Renaissance portal added to the plain facade.",
+            "detailedInfo": "Since 1963, the portal has stood freely in front of the north side of the museum in the so-called ornamental garden. The arch originally included an entrance with five steps. These had been removed before the demolition of the residential building in 1896. The figurative decoration of the portal is quite striking. In the arch spandrels are two allegorical figures with several accessories. The figure on the left is holding eyeglasses and a mirror, while the figure on the right side holds a bird and ears of grain. These could be read as symbolising civic virtues, such as education and wisdom.\n\nEducated contemporaries certainly knew how to translate the Latin saying in the cartouche above to the right: “HOMO / FINEM SUUM” (Man knows not his own end). The sword and scales as attributes of the female figure in the niche above the architrave are only preserved in remnants. This allegory of justice and the inscription “GLORIA IN EXCELSIS DEO” (Glory to God in the highest) above it were fitting for the work of councillor Dietrich Moller vom Baum. He also held the office of jurat, a representative of the congregation, at the Church of Saint Peter in Hamburg. There, he was responsible for the administration of the church property.",
             "location": {
                 "latitude": 0.0,
                 "longitude": 0.0
             }
         },
         {
-            "name": "Südportal St. Petri ",
+            "name": "South portal of the Church of Saint Peter",
             "id": "#007001",
             "thumbInfo": "",
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 32052
+                        "instanceID": 32276
                     },
                     "thumbTitle": "3D View",
-                    "thumbInfo": "Sankt Petriportal ",
+                    "thumbInfo": "Portal",
                     "mode": 0
                 },
                 {
                     "thumb": {
-                        "instanceID": 31356
+                        "instanceID": 32404
                     },
-                    "thumbTitle": "St. Petri",
-                    "thumbInfo": "Ansicht vor dem Brand, Lithografie 1842",
+                    "thumbTitle": "Church of Saint Peter",
+                    "thumbInfo": "View before the fire, lithography, 1842",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31956
+                        "instanceID": 32376
                     },
-                    "thumbTitle": "Ruine St. Petri",
-                    "thumbInfo": "Ansicht nach dem Brand, Aquarell 1842",
+                    "thumbTitle": "Ruins of Saint Peter",
+                    "thumbInfo": "View after the fire, watercolour, 1842",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31292
+                        "instanceID": 32340
                     },
-                    "thumbTitle": "Portal St. Petri",
-                    "thumbInfo": "Zeichnung, Zustand 1895",
+                    "thumbTitle": "Portal of Saint Peter",
+                    "thumbInfo": "Drawing, condition in 1895",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31196
+                        "instanceID": 32236
                     },
-                    "thumbTitle": "Innenhof",
-                    "thumbInfo": "Das Museum nach dem Zweiten Weltkrieg",
+                    "thumbTitle": "Inner courtyard",
+                    "thumbInfo": "The museum after the Second World War",
                     "mode": 1
                 }
             ],
             "details": [],
-            "titleInfo": "Datierung: 1603\nMaterial: Sandstein\n\nDas ehemalige Südportal der Hamburger Hauptkirche St. Petri war an seinem ursprünglichen Standort nach dem Großen Brand demontiert worden. Später im Innenhof des Museums eingebaut, hat das Portal auch an dieser Stelle nur mit Glück überlebt. ",
-            "detailedInfo": "Eindrückliche Fotos zeigen die nach dem Ende des Zweiten Weltkrieges noch nicht beseitigten starken Zerstörungen, verursacht durch Bombentreffer des Jahres 1941. Verloren gegangen ist dadurch u.a. die Bekrönung des heute wieder rekonstruierten Dreiecksgiebels, auf dem nacheinander erst eine Figur des heiligen Petrus und dann ein Engel aufgestellt waren. Erhalten geblieben sind die beiden Frauenfiguren in den Bogenzwickeln, die als Personifikationen des Glaubens und der Gerechtigkeit gesehen werden können. Der Bildhauer Georg Baumann hatte den Figurenschmuck des Portals gefertigt, zu dem außerdem noch die Statuen der vier Evangelisten gehören. \n\nEinstiger Aufstellungsanlass des Portals war ein Festgottesdienst unter Anwesenheit eines königlichen Besuchers im Herbst des Jahres 1603. Christian IV. von Dänemark – gerade erst Vater eines potentiellen Thronfolgers geworden – weilte in Hamburg, um der Stadt ein Treueversprechen in Form einer Huldigung abzutrotzen. Dem mächtigen, aber ungeliebten Gast wurde mit dem Portalbogen zwar ein triumphaler Zutritt in das Gotteshaus ermöglicht. Doch wollte man ihm mit dem Bildprogramm vielleicht zugleich christliche Tugenden nahelegen, die eine selbstbewusste Stadt von einem Herrscher erwartete. ",
+            "titleInfo": "Date: 1603\nMaterial: Sandstone\n\nThe former south portal of Saint Peter’s Church had been dismantled and removed from its original location after the Great Fire. It was later incorporated into the inner courtyard of the museum. The portal was lucky to survive at this location as well.",
+            "detailedInfo": "Evocative photos show the severe destruction caused by bomb attacks in 1941, which still had not yet been cleared after the end of the Second World War. This resulted in the loss, among other things, of the crest above the since reconstructed triangular pediment, which featured the figure of St. Peter followed by that of an angel. The two female figures in the spandrels have been preserved. They can be seen as personifications of faith and justice. The figurative decorations of the portal were crafted by the sculptor Georg Baumann. It also includes the statues of the four evangelists.\n\nThe original occasion for the installation of the portal was a festive church service attended by a royal visitor in the autumn of 1603. Christian IV of Denmark was in Hamburg for a promise of loyalty from the city in the form of a tribute. He had just become the father of a potential successor to the throne. The portal arch provided the powerful, but unloved guest a triumphal entrance into the church. Perhaps, however, the imagery of the portal was intended to suggest the sort of Christian virtues that a self-confident city expected from a ruler.",
             "location": {
                 "latitude": 0.0,
                 "longitude": 0.0
             }
         },
         {
-            "name": "Portale vom Bauhof",
+            "name": "Portals from the Bauhof ",
             "id": "#008001",
             "thumbInfo": "",
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31724
+                        "instanceID": 32768
                     },
                     "thumbTitle": "3D View",
-                    "thumbInfo": "Bauhofportal",
+                    "thumbInfo": "Portal from the Bauhof ",
                     "mode": 0
                 },
                 {
                     "thumb": {
-                        "instanceID": 31980
+                        "instanceID": 32212
                     },
                     "thumbTitle": "Bauhof",
-                    "thumbInfo": "Fachwerkgebäude vor dem Abriss, um 1867",
+                    "thumbInfo": "Timber-framed edifice before demolition, ca. 1867",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31232
+                        "instanceID": 32260
                     },
-                    "thumbTitle": "Handwerker",
-                    "thumbInfo": "Vor dem Haupttor, um 1867",
+                    "thumbTitle": "Craftsmen",
+                    "thumbInfo": "In front of the main gate, ca. 1867",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32448
+                        "instanceID": 32692
                     },
-                    "thumbTitle": "Portal Pferdestall",
-                    "thumbInfo": "Eingebaut im Zunftsaal des Museums",
+                    "thumbTitle": "The horse stable portal",
+                    "thumbInfo": "Installed in the guild hall of the museum",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32344
+                        "instanceID": 32588
                     },
-                    "thumbTitle": "Fleetportal",
-                    "thumbInfo": "Eingebaut im Zunftsaal des Museums",
+                    "thumbTitle": "The canal portal",
+                    "thumbInfo": "Installed in the guild hall of the museum",
                     "mode": 1
                 }
             ],
             "details": [],
-            "titleInfo": "Datierung: 1675\nMaterial: Eiche / Sandstein\n\nSeit dem Jahr 1675 stand am heutigen Deichtorplatz der Bauhof, ein großes Fachwerkgebäude mit vier unterschiedlich langen Flügeln um einen großen Werkhof. Bis zu 400 Handwerker waren hier für die öffentlichen Bauprojekte und die Instandhaltung der Wallanlagen zuständig. ",
-            "detailedInfo": "Zugang zum Bauhof gewährten drei Portale aus Eichenholz, die heute nebeneinander im langgestreckten Zunftsaal im Inneren des Museums eingebaut sind. Der jetzt in der Mitte stehende Bogen war, wie die in den Bogenzwickeln aufsteigenden Pferde zeigen, ursprünglich der Zugang zum Stall auf der Nordseite des Bauhofes. Am ehemaligen West- oder Hauptportal (im Zunftsaal links) sowie am Süd- oder Fleetportal (im Zunftsaal rechts) kann man in den Bogenzwickeln gleichartig gestaltete allegorische Frauenfiguren entdecken. Sie sind ausgestattet mit den Werkzeugen von Architekten und Holzhandwerkern und dazu passenden Gebäudetypen: ein Palais in damals modischer niederländischer Bauart sowie Wasser- und Windmühlen. \n\nAn allen drei Portalen fallen die leeren Schilde unter den ausufernden Helmzieren ins Auge. Man vermutet, dass hier jeweils das Hamburger Stadtwappen zu sehen war, welches aber während der Jahre der französischen Besetzung Hamburgs als verbotenes Herrschaftssymbol beseitigt worden ist. Ab dem Jahr 1847 wurde der Bauhof dann nach und nach abgerissen, weil er der Erweiterung des Berliner Bahnhofs, neuangelegten Straßen und schlussendlich auch einem neuen Zollschuppen im Wege stand.\n",
+            "titleInfo": "Date: 1675\nMaterial: Oak / Sandstone\n\nIn 1675, a building yard stood on the site of the present day Deichtorplatz. It consisted of a large timber-framed edifice with four wings of different lengths around a large courtyard. The yard employed up to 400 craftsmen, who were responsible for public building projects and the maintenance of the city’s forification.",
+            "detailedInfo": "Access to the building yard was provided by three portals made of oak wood. Today, these are installed side by side in the elongated guild hall within the museum. The arch now standing in the centre was originally the entrance to the stable on the north side of the building yard, signified by the horses rising in the arch spandrels. The former west or main portal (in the guild hall on the left) as well as the south or canal portal (in the guild hall on the right) feature similarly designed allegorical female figures in the spandrels. They are equipped with the tools used at the time by architects and wood craftsmen. Also depicted are building types of the day - a palace in the then fashionable Dutch style as well as water and wind mills.\n\nProminent on all three portals are carvings of an empty shield under a sprawling helmet ornament. It is assumed that the Hamburg city coat of arms was displayed here, but was removed as a forbidden symbol of power during the years of the French occupation of the city. From 1847 onwards, the building yard was gradually demolished because it stood in the way of the extension of the Berlin railway station, newly built roads, and, ultimately, a new customs shed.",
             "location": {
                 "latitude": 0.0,
                 "longitude": 0.0
@@ -529,45 +529,45 @@
                 "what3words": "entfernt.fliege.glücklich",
                 "Standort": "Ecke kleine Johannisstraße / Dornbusch"
             },
-            "headline": "Das Eimbecksche Haus",
+            "headline": "Eimbecksches Haus",
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 32332
+                        "instanceID": 32580
                     },
                     "thumbTitle": "Eimbecksches Haus",
-                    "thumbInfo": "Ansicht vor 1842, Lithografie ",
+                    "thumbInfo": "View prior to 1842, lithography",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31308
+                        "instanceID": 32360
                     },
-                    "thumbTitle": "Stadtwappen",
-                    "thumbInfo": "Südseite Museum",
+                    "thumbTitle": "Hamburg coat of arms",
+                    "thumbInfo": "South side of the museum",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32096
+                        "instanceID": 32312
                     },
-                    "thumbTitle": " Ratsweinkeller ",
-                    "thumbInfo": "Lithografie von F. Meyer, vor 1842",
+                    "thumbTitle": "Council wine cellar",
+                    "thumbInfo": "Lithography by F. Meyer, prior to 1842",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31760
+                        "instanceID": 32816
                     },
-                    "thumbTitle": "Großer Brand ",
-                    "thumbInfo": "Lithografie von Peter Suhr, 1842",
+                    "thumbTitle": "The Great Fire",
+                    "thumbInfo": "Lithography by Peter Suhr, 1842",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: 1769-1771    \nZerstört: 1842\n\nIm Gebäude befanden sich Räume für Feste, Versammlungen und ein Weinkeller, in dem  Einbecker Bier ausgeschenkt wurde. Einige Jahre war dort auch das Gericht untergebracht. Das Haus des Baumeisters Johannes Kopp wurde beim Großen Brand 1842 zerstört. ",
+            "description": "Date: 1769-1771\n\tDestroyed: 1842\n\nThe building housed rooms for parties, meetings, and a wine cellar where Einbeck beer was served. The court was also located here for a few years. Constructed by master builder Johannes Kopp, the edifice was destroyed in the Great Fire of 1842.",
             "creator": "Johannes Kopp / Johann Wilhelm Manstadt",
-            "destruction": "Großer Brand 1842",
+            "destruction": "the Great Fire 1842",
             "user": "",
             "date": "1769-1771"
         },
@@ -586,59 +586,59 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 32312
+                        "instanceID": 32572
                     },
-                    "thumbTitle": "Wohnhaus",
-                    "thumbInfo": "Straßenerhöhung, Foto Koppmann 1884 ",
+                    "thumbTitle": "Residential building",
+                    "thumbInfo": "After road elevation, photo Georg Koppmann, 1884 ",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32796
+                        "instanceID": 32964
                     },
                     "thumbTitle": "Neuer Wandrahm",
-                    "thumbInfo": "An der Kornhausbrücke, Foto Koppmann 1886",
+                    "thumbInfo": "At Kornhausbrücke, photo Georg Koppmann, 1886",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31112
+                        "instanceID": 32164
                     },
                     "thumbTitle": "Portal",
-                    "thumbInfo": "Westseite Museum",
+                    "thumbInfo": "West side of the museum",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32508
+                        "instanceID": 32736
                     },
-                    "thumbTitle": "Girlande",
-                    "thumbInfo": "Ausstellungsraum Museum",
+                    "thumbTitle": "Festoon",
+                    "thumbInfo": "Exhibition room in the museum",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32288
+                        "instanceID": 32532
                     },
-                    "thumbTitle": "Palmwedel",
-                    "thumbInfo": "Ostfassade Museum",
+                    "thumbTitle": "Palm branch",
+                    "thumbInfo": "East facade of the museum",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32256
+                        "instanceID": 32488
                     },
-                    "thumbTitle": "Pilasterschmuck",
+                    "thumbTitle": "Pilaster ornaments",
                     "thumbInfo": "Portal in Planten un Blomen",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: Ende 17. Jh.   \n Abriss: 1886\n\nDas Wohnhaus am Neuen Wandrahm besaß eine prächtige barocke Fassade. Die Bewohner zeigten ihren Reichtum. Als 1869 die Straße aufgeschüttet wurde, verschwand das Portal zur Hälfte im Asphalt. Das Haus wurde 1886 für den Bau der Speicherstadt abgerissen. ",
+            "description": "Date: End of the 17th century           \nDemolished: 1886\n\nThe residential building on Neuer Wandrahm street had a magnificent baroque facade. The residents displayed their wealth. When the road was elevated in 1869, half of the portal disappeared under asphalt. In 1886, the house was demolished for the construction of the Speicherstadt warehouse district.",
             "creator": "",
-            "destruction": "Abriss: 1886  für den Bau der Speicherstadt",
+            "destruction": "Demolished: 1886  for the construction of the Speicherstadt warehouse district",
             "user": "",
-            "date": "Ende 17. Jh."
+            "date": "End of the 17th century"
         },
         {
             "name": "",
@@ -655,66 +655,66 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31284
+                        "instanceID": 32308
                     },
-                    "thumbTitle": "Stadtpalais",
-                    "thumbInfo": "Foto Georg Koppmann 1884",
+                    "thumbTitle": "City palace",
+                    "thumbInfo": "Photo by Georg Koppmann,  1884",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32280
+                        "instanceID": 32512
                     },
-                    "thumbTitle": "Girlanden",
-                    "thumbInfo": "Südseite Museum",
+                    "thumbTitle": "Festoon",
+                    "thumbInfo": "South side of the museum",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31820
+                        "instanceID": 32868
                     },
-                    "thumbTitle": "Geländer, um 1760 ",
-                    "thumbInfo": "Innenhof Museum",
+                    "thumbTitle": "Balustrade, ca. 1760 ",
+                    "thumbInfo": "Inner courtyard of the museum",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31396
+                        "instanceID": 32452
                     },
-                    "thumbTitle": "Postamentvase, um 1760",
-                    "thumbInfo": "Innenhof Museum",
+                    "thumbTitle": "Pedestal vase, ca. 1760",
+                    "thumbInfo": "Inner courtyard of the museum",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32612
+                        "instanceID": 32828
                     },
-                    "thumbTitle": "Wappen\n",
-                    "thumbInfo": "Ehemann Theodor Kerckring\n",
+                    "thumbTitle": "Coat of arms",
+                    "thumbInfo": "Theodor Kerckring\n",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31260
+                        "instanceID": 32292
                     },
-                    "thumbTitle": "Wappen\n",
-                    "thumbInfo": "Ehefrau Clara Maria van den Enden\n",
+                    "thumbTitle": "Coat of arms\n",
+                    "thumbInfo": "Clara Maria van den Enden\n",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32116
+                        "instanceID": 32328
                     },
-                    "thumbTitle": "Fassade",
-                    "thumbInfo": "Zeichnung von Eduard Niese, 1884\n",
+                    "thumbTitle": "Facade",
+                    "thumbInfo": "Drawing by Eduard Niese, 1884\n",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: um 1680   \nAbriss: vor 1888\n\nDas Stadtpalais gehörte einst dem Amsterdamer Kaufmann, Mediziner und Anatom Theodor Kerckring, der sich 1678 in Hamburg niedergelassen hatte. Es wurde nach Plänen des Architekten Philipp Vingboons erbaut und 1886 für den Bau der Speicherstadt abgerissen.",
+            "description": "Date: ca. 1680           \nDemolished: prior to 1888\n\nThe city palace once belonged to the Amsterdam merchant, physician, and anatomist Theodor Kerckring, who settled in Hamburg in 1678. It was built according to plans by the architect Philipp Vingboons and demolished in 1886 for the construction of the Speicherstadt warehouse district.",
             "creator": "",
-            "destruction": "Abriss: vor 1888 für den Bau der Speicherstadt",
-            "user": "Amsterdamer Arzt Theodor Kerckring",
+            "destruction": "Demolished: 1886  for the construction of the Speicherstadt warehouse district",
+            "user": " Theodor Kerckring",
             "date": "um 1680"
         },
         {
@@ -732,34 +732,34 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31816
+                        "instanceID": 32864
                     },
-                    "thumbTitle": "Hausfassade",
-                    "thumbInfo": "Eduard Niese, Federzeichnung, 1889",
+                    "thumbTitle": "House facade",
+                    "thumbInfo": "Drawing by Eduard Niese, 1889",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32580
+                        "instanceID": 32788
                     },
-                    "thumbTitle": "Eingangsportal",
-                    "thumbInfo": "Fotografie 1911",
+                    "thumbTitle": "Entrance portal",
+                    "thumbInfo": "Photography, 1911",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32404
+                        "instanceID": 32888
                     },
-                    "thumbTitle": "Deckengemälde",
-                    "thumbInfo": "J. M. Riesenberger, 1716-20, Stuck rekonstruiert",
+                    "thumbTitle": "Ceiling painting",
+                    "thumbInfo": "J. M. Riesenberger, 1716-20, stucco reconstructed",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: 1630/40   \nAbriss: 1909\n\nAls der Bürgermeister Johann Anderson d. Ä. in dem Haus wohnte, gab er ein Deckengemälde mit Stuckrahmen in Auftrag. Darin wird die Wissenschaft und Kunst verherrlicht. Anderson war selbst wissenschaftlich tätig. Er schrieb ein Buch über den Walfang in Grönland. ",
-            "creator": "Die Stuckarbeiten: Tessiner Carlo Enrico Brenno ( nach 1730) / Das Gemälde: Johann Moritz Riesenberger der Jüngere, 1716–1720 ",
+            "description": "Date: 1630/40          \n\tDestroyed: 1909\n\nWhen Mayor Johann Anderson the Elder lived in the house, he commissioned a ceiling painting with a stucco frame, which glorified science and art. Anderson was scientifically active himself. He wrote a book about whaling in Greenland.",
+            "creator": "Stuccowork: Carlo Enrico Brenno, after 1730 / Painting: Johann Moritz Riesenberger, 1716–1720 ",
             "destruction": "",
-            "user": "Bürgermeister Johann Andersson d. Ä.",
+            "user": "Mayor Johann Andersson the Elder",
             "date": "1630/40"
         },
         {
@@ -777,35 +777,35 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31660
+                        "instanceID": 32744
                     },
                     "thumbTitle": "Altstädter Neuer Weg",
-                    "thumbInfo": "Foto Georg Koppmann, 1883",
+                    "thumbInfo": "Photo by Georg Koppmann, 1883",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32132
+                        "instanceID": 32476
                     },
-                    "thumbTitle": "Hausfassade ",
-                    "thumbInfo": "Foto Georg Koppmann, 1883",
+                    "thumbTitle": "House facade",
+                    "thumbInfo": "Photo by Georg Koppmann, 1883",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31964
+                        "instanceID": 32320
                     },
-                    "thumbTitle": "Geländer",
-                    "thumbInfo": "Über dem Museumseingang",
+                    "thumbTitle": "Balustrade",
+                    "thumbInfo": "Above the museum entrance",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: Mitte 18. Jh.    \nAbriss: vor 1888\n\nDas Bürgerhaus besaß eine Freitreppe mit einem geschmiedeten Geländer. Seine Bewohner zeigten Rang und Status, denn üblicherweise fand man repräsentative Treppen in adeligen Schlössern. Das Haus wurde für den Bau der Speicherstadt abgerissen. \n",
+            "description": "Date: Mid-18th century\t     \nDemolished: before 1888\n\nThe town house had an open staircase with a forged balustrade. Its occupants possessed rank and status, as representative staircases were usually found in the palaces of the nobility. The house was demolished for the construction of the Speicherstadt warehouse district.\n",
             "creator": "",
-            "destruction": "Abriss: vor 1888 für den Bau der Speicherstadt",
+            "destruction": "Demolished: 1888  for the construction of the Speicherstadt warehouse district",
             "user": "",
-            "date": "Mitte 18. Jh."
+            "date": "Mid-18th century"
         },
         {
             "name": "",
@@ -818,53 +818,53 @@
                 "what3words": "durst.friede.inseln",
                 "Standort": "Bauhof am Deichtor "
             },
-            "headline": "Bauhof am Deichtor ",
+            "headline": "Bauhof at Deichtor",
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31980
+                        "instanceID": 32212
                     },
                     "thumbTitle": "Bauhof",
-                    "thumbInfo": "Fachwerkgebäude vor dem Abriss, um 1867",
+                    "thumbInfo": "Timber-framed edifice before demolition, ca. 1867",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31232
+                        "instanceID": 32260
                     },
-                    "thumbTitle": "Handwerker",
-                    "thumbInfo": "Vor dem Haupttor, um 1867",
+                    "thumbTitle": "Craftsmen",
+                    "thumbInfo": "In front of the main gate, ca. 1867",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32448
+                        "instanceID": 32692
                     },
-                    "thumbTitle": "Portal Pferdestall",
-                    "thumbInfo": "Im Zunftsaal des Museums",
+                    "thumbTitle": "The horse stable portal",
+                    "thumbInfo": "Installed in the guild hall of the museum",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32344
+                        "instanceID": 32588
                     },
-                    "thumbTitle": "Fleetportal",
-                    "thumbInfo": "Im Zunftsaal des Museums",
+                    "thumbTitle": "The canal portal",
+                    "thumbInfo": "Installed in the guild hall of the museum",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31624
+                        "instanceID": 32704
                     },
-                    "thumbTitle": "Hauptportal",
-                    "thumbInfo": "Im Zunftsaal des Museums, Foto Stier",
+                    "thumbTitle": "Main portal",
+                    "thumbInfo": "Installed in the guild hall of the museum, photo, Stier",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: 1675        \nAbriss: ab 1847\n\nSeit 1675 stand am heutigen Deichtorplatz der Bauhof. Bis zu 400 Handwerker waren hier für die öffentlichen Bauprojekte und die Instandhaltung der Wallanlagen zuständig. Der Bauhof wurde ab 1847 für den Bau des Berliner Bahnhofs abgerissen.",
-            "creator": "Architekt: Hans Hamelau ",
-            "destruction": "Abriss: ab 1847 ",
+            "description": "Date: 1675           \n\tDemolished: from 1847\n\nIn 1675, a building yard stood on the site of the present day Deichtorplatz. The yard employed up to 400 craftsmen, who were responsible for public building projects and the maintenance of the city’s ramparts. The building yard was demolished from 1847 onwards for the construction of the Berlin railway station.",
+            "creator": "Architect: Hans Hamelau ",
+            "destruction": "Demolished: from 1847 ",
             "user": "",
             "date": ""
         },
@@ -883,10 +883,10 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31420
+                        "instanceID": 32468
                     },
-                    "thumbTitle": "Fischmarkt",
-                    "thumbInfo": "Foto Charles Fuchs, um 1870",
+                    "thumbTitle": "Fischmarkt ",
+                    "thumbInfo": "Photo by Charles Fuchs, ca. 1870",
                     "mode": 1
                 },
                 {
@@ -894,30 +894,30 @@
                         "instanceID": 0
                     },
                     "thumbTitle": "Fischmarkt 5",
-                    "thumbInfo": "Foto Charles Fuchs, um 1870",
+                    "thumbInfo": "Photo by Charles Fuchs, ca. 1870 (detail)",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31220
+                        "instanceID": 32252
                     },
                     "thumbTitle": "Fischmarkt 5",
-                    "thumbInfo": "Zeichnung von Ebba Tesdorpf, 1882 ",
+                    "thumbInfo": "Drawing by Ebba Tesdorpf, 1882",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31160
+                        "instanceID": 32200
                     },
                     "thumbTitle": "Portal",
-                    "thumbInfo": "Innenhof Museum",
+                    "thumbInfo": "Inner courtyard of the museum",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: 1765/66     \n Abriss: 1886\n\nDas Haus betraten Gäste durch ein prächtiges Portal. Es war mit Symbolen des Fleißes verziert: mit Biene und Bienenkorb. 1861 wurde der Verkauf von Fischen auf dem Fischmarkt als störend empfunden und an den Hafen verlegt. Das Haus wurde später abgerissen. ",
+            "description": "Date: 1765/66          \n\tDemolished: 1886\n\nGuests entered the house through a magnificent portal, which was decorated with symbols of industriousness - bees and a beehive. In 1861, the sale of fish at the fish market was considered a nuisance and it was moved to the harbour. The house was later demolished.",
             "creator": "",
-            "destruction": "Abriss: 1886",
+            "destruction": "Demolished: 1886",
             "user": "",
             "date": "1765/66 "
         },
@@ -936,33 +936,33 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31176
+                        "instanceID": 32220
                     },
                     "thumbTitle": "Portal ",
-                    "thumbInfo": "Innenhof Museum",
+                    "thumbInfo": "Inner courtyard of the museum ",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31460
+                        "instanceID": 32528
                     },
-                    "thumbTitle": "Hausfassade",
-                    "thumbInfo": "Vor dem Abriss, 1900",
+                    "thumbTitle": "House facade",
+                    "thumbInfo": "Prior to demolition, 1900",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32360
+                        "instanceID": 32620
                     },
                     "thumbTitle": "Portal ",
-                    "thumbInfo": "Foto Wilhelm Weimar, 1900",
+                    "thumbInfo": "Photo by Wilhelm Weimar, 1900",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": " Datierung: 1730/40   \n Abriss: 1908\n\nDas Haus in der Großen Reichenstraße gehörte dem Bankier Johann Friedrich Tönnies. Die Fassade war ganz aus Sandstein, ungewöhnlich für Hamburg. Denn in Hamburg wurde Backstein bevorzugt und nur Portale und Fassadenschmuck in Sandstein ausgeführt.",
+            "description": "Date: 1730/40          \nDemolished: 1908\n\nThe house on Große Reichenstraße belonged to the banker Johann Friedrich Tönnies. The facade was completely built out of sandstone, which was unusual for Hamburg, where brick facades were preferred. Usually, only portals and facade ornaments were made of sandstone.",
             "creator": "",
-            "destruction": "Abriss: 1908 ",
+            "destruction": "Demolished: 1908 ",
             "user": " Johann Friedrich Tönnies",
             "date": "1730/40"
         },
@@ -981,58 +981,58 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31872
+                        "instanceID": 32924
                     },
                     "thumbTitle": "Große Reichenstraße ",
-                    "thumbInfo": "Georg Koppmann, 1908",
+                    "thumbInfo": "Photo by Georg Koppmann, 1908",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32056
+                        "instanceID": 32280
                     },
-                    "thumbTitle": "Fassade Nr. 37",
-                    "thumbInfo": "Neben dem Afrikahaus, Foto 1906",
+                    "thumbTitle": "Facade Nr. 37",
+                    "thumbInfo": "Next to the Afrikahaus building, photo 1906",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31860
+                        "instanceID": 32900
                     },
-                    "thumbTitle": "Diele ",
-                    "thumbInfo": "1. Stock, Foto Koppmann, 1908",
+                    "thumbTitle": "Hall",
+                    "thumbInfo": "First floor, photo by Georg Koppmann, 1908",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31532
+                        "instanceID": 32616
                     },
-                    "thumbTitle": "Diele",
-                    "thumbInfo": "2. Stock, Foto Koppmann, 1908",
+                    "thumbTitle": "Hall",
+                    "thumbInfo": "Second floor, photo by Georg Koppmann, 1908",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32012
+                        "instanceID": 32244
                     },
                     "thumbTitle": "Portal ",
-                    "thumbInfo": "Nordseite Museum",
+                    "thumbInfo": "North side of the museum ",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32724
+                        "instanceID": 32728
                     },
-                    "thumbTitle": "Wappen",
-                    "thumbInfo": " Peter Behrmann und Anna Catharina Rodenburg ",
+                    "thumbTitle": "Coat of arms ",
+                    "thumbInfo": "Peter Behrmann und Anna Catharina Rodenburg ",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: 1742  \nAbriss: nach 1908\n\nDer Ratsherr Peter Behrmann und seine Ehefrau Anna Catharina Rotenburg kauften 1745 das Haus in der Großen Reichenstraße. Ihr Wappen schmückte das Eingangsportal: RB unter einer Krone. Das Haus wurde nach 1908 im Zuge der Altstadtsanierung abgerissen.  ",
+            "description": "Date: 1742           \n\tDemolished: after 1908\n\nIn 1745, the councillor Peter Behrmann and his wife Anna Catharina Rotenburg bought the house on Große Reichenstraße.Their coat of arms - RB under a crown - decorated the entrance portal. As part of the redevelopment of the old city, the house was demolished after 1908.",
             "creator": "",
-            "destruction": "Abriss: nach 1908",
-            "user": "Ehepaar Peter Behrmann und Anna Catharina Rotenburg",
+            "destruction": "Demolished: after 1908",
+            "user": " Peter Behrmann and Anna Catharina Rotenburg",
             "date": ""
         },
         {
@@ -1050,43 +1050,43 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31468
+                        "instanceID": 32536
                     },
-                    "thumbTitle": "Hausfassade",
-                    "thumbInfo": "Foto vor dem Abriss 1890",
+                    "thumbTitle": "House facade ",
+                    "thumbInfo": "Photo prior to demolition, 1890",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32112
+                        "instanceID": 32324
                     },
-                    "thumbTitle": "Hausportal",
-                    "thumbInfo": "Foto vor dem Abriss 1890",
+                    "thumbTitle": "House portal",
+                    "thumbInfo": "Photo prior to demolition, 1890",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32648
+                        "instanceID": 32856
                     },
                     "thumbTitle": "Portal ",
-                    "thumbInfo": "Am Museum in Planten un Blomen",
+                    "thumbInfo": "In Planten un Blomen by the museum",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32368
+                        "instanceID": 32628
                     },
-                    "thumbTitle": "Kaufmannsdiele ",
-                    "thumbInfo": "A. Stelling, um 1885, Aquarell",
+                    "thumbTitle": "Hall",
+                    "thumbInfo": " Watercolour by A. Stelling, ca. 1885",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: nach 1617    \nAbriss: 1890\n\nDas Haus bewohnte der reiche Kaufmann Jürgen Schrötteringk. Wegen seiner Fassadenfarbe hieß es das rote Haus und galt m 17. Jh. als Spukhaus. Später zog die Musikalienhandlung August Cranz ein. 1890 wurde das nun Cranzsche Haus genannte Gebäude abgebrochen.",
+            "description": "Date: after 1617\t    \nDemolished: 1890\n\nJürgen Schrötteringk, a rich merchant, resided in the house. On account of the colour of its facade, it was known as the red house and in the 17th century it was considered to be haunted. Later, a music shop belonging to August Cranz moved in. In 1890, the building, now called Cranzsches Haus, was demolished.",
             "creator": "",
-            "destruction": "Abriss: 1890",
-            "user": "Kaufmann Jürgen Schrötteringk",
-            "date": "nach 1617"
+            "destruction": " Demolished: 1890",
+            "user": "Merchant Jürgen Schrötteringk",
+            "date": "after 1617"
         },
         {
             "name": "",
@@ -1103,41 +1103,41 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31640
+                        "instanceID": 32724
                     },
-                    "thumbTitle": "Doppelportal ",
-                    "thumbInfo": "Foto vor dem Abriss 1889",
+                    "thumbTitle": "Double portal",
+                    "thumbInfo": "Photo prior to demolition, 1889",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32376
+                        "instanceID": 32640
                     },
-                    "thumbTitle": "Hausfassade",
-                    "thumbInfo": "Zeichnung Theob. Riefesell, 1889",
+                    "thumbTitle": "House facade",
+                    "thumbInfo": "Drawing by Theobald Riefesell, 1889",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32688
+                        "instanceID": 32872
                     },
-                    "thumbTitle": "Doppelportal ",
-                    "thumbInfo": "Ausstellungsraum Museum",
+                    "thumbTitle": "Double portal",
+                    "thumbInfo": "Exhibition room in the museum",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31492
+                        "instanceID": 32568
                     },
-                    "thumbTitle": "Handstein",
-                    "thumbInfo": "Kaufmannsdiele Museum",
+                    "thumbTitle": "Small sink",
+                    "thumbInfo": "Exhibition room in the museum",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: 1635    \nAbriss: 1889\n\nDas 1635 erbaute Wohnhaus in der Kleinen Reichenstraße schmückten Ornamente im Stil der Renaissance. 1889 wurde es im Zuge der Altstadtsanierung abgebrochen. Gerettet wurden das Doppelportal und ein Handstein (Ausgussbecken). ",
+            "description": "Date: 1635           \nDemolished: 1889\n\nThe residential building was built on Kleine Reichenstraße in 1635. The facade was decorated with ornaments in a Renaissance style. In 1889, the house was demolished during the redevelopment of the old city. The double portal and a small stone sink were salvaged.",
             "creator": "",
-            "destruction": "Abriss: 1889 ",
+            "destruction": "Demolished: 1889 ",
             "user": "",
             "date": ""
         },
@@ -1156,34 +1156,34 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31448
+                        "instanceID": 32520
                     },
                     "thumbTitle": "Neuer Wall ",
-                    "thumbInfo": "Foto aus Wilhelm Melhop, 1905",
+                    "thumbInfo": "Photo by Wilhelm Melhop, 1905",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32204
+                        "instanceID": 32444
                     },
                     "thumbTitle": "Portal ",
-                    "thumbInfo": "Foto Georg Koppmann, 1890",
+                    "thumbInfo": "Photo by Georg Koppmann, 1890",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32100
+                        "instanceID": 32316
                     },
                     "thumbTitle": "Portal",
-                    "thumbInfo": "Nordseite Museum, Foto medvedev",
+                    "thumbInfo": "North side of the museum, photo by medvedev",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung 1710/20   \nAbriss: um 1907/1908\n\nAdlige durften in Hamburg keine Grundstücke kaufen. Über Mittelsmänner war es dennoch möglich. Im Palais am Neuen Wall lebte Graf Gerhard von Dernath, wenn er sich in Hamburg aufhielt. Er besaß auch das Gut Hasselburg in Holstein.  ",
+            "description": "Date 1710/20\t        \nDemolished: ca. 1908\n\nThe nobility was not permitted to purchase property in Hamburg, however, it was possible through intermediaries. Count Gerhard von Dernath lived in the Palais am Neuen Wall when he stayed in Hamburg. He also owned the Hasselburg estate in Holstein. ",
             "creator": "",
-            "destruction": "Abriss: um 1907/1908 ",
-            "user": "In dem Gebäude befand sich um 1900 ein Antiquariat sowie das Restaurant C. Kothe’s Wintergarten.",
+            "destruction": "Demolished: ca. 1907/1908",
+            "user": "Around 1900, the building housed an antiquarian bookshop and C. Kothe's Wintergarten restaurant.",
             "date": " 1710-1720"
         },
         {
@@ -1201,43 +1201,43 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31564
+                        "instanceID": 32824
                     },
-                    "thumbTitle": "Hausfassade",
-                    "thumbInfo": "Zeichnung von Eduard Niese, 1886",
+                    "thumbTitle": "House facade",
+                    "thumbInfo": "Drawing by Eduard Niese, 1886",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32248
+                        "instanceID": 32480
                     },
                     "thumbTitle": "Portal ",
-                    "thumbInfo": "Vor dem Abriss, Foto 1886",
+                    "thumbInfo": "Prior to demolition, photo, 1886",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31476
+                        "instanceID": 32544
                     },
-                    "thumbTitle": "Delfine",
-                    "thumbInfo": "Südseite Museum, Foto jn",
+                    "thumbTitle": "Dolphins",
+                    "thumbInfo": "South side of the museum, photo jn",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31436
+                        "instanceID": 32496
                     },
-                    "thumbTitle": "Alte Kaufmannsdiele ",
-                    "thumbInfo": "Aquarell von Eduard Niese, 1886",
+                    "thumbTitle": "Hall",
+                    "thumbInfo": "Watercolour by Eduard Niese, 1886",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: Ende 17. Jh.   \nAbriss: 1886\n\nAm Neuen Wandrahm stand eine Reihe besonders repräsentativer Häuser nach Vorbildern aus den Niederlanden. Alle wurden für den Bau der Speicherstadt nach 1886 abgerissen. Zu diesem Zeitpunkt wurden die Häuser vor allem als Kontor und Speicher genutzt. ",
+            "description": "Date: End of the 17th century\t  \nDemolished: 1886\n\nA row of particularly representative houses based on models from the Netherlands stood on Neuer Wandrahm street. They were all demolished after 1886 for the construction of the Speicherstadt warehouse district. At this time, the houses were mainly used as offices and warehouses.",
             "creator": "",
-            "destruction": "Abriss: 1886 ",
+            "destruction": "Demolished: 1886 ",
             "user": "",
-            "date": "Ende des 17. Jahrhunderts"
+            "date": "End of the 17th century\t"
         },
         {
             "name": "",
@@ -1250,51 +1250,51 @@
                 "what3words": "anzug.gelächter.herbst",
                 "Standort": "Altes Rathaus an der Trostbrücke"
             },
-            "headline": "Rathaus Trostbrücke",
+            "headline": "Old Town Hall at Trostbrücke",
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 32000
+                        "instanceID": 32696
                     },
-                    "thumbTitle": "Altes Rathaus",
-                    "thumbInfo": "Kupferstich von Diederich Lemkus, um 1700",
-                    "mode": 1
-                },
-                {
-                    "thumb": {
-                        "instanceID": 32108
-                    },
-                    "thumbTitle": "Großes Portal",
-                    "thumbInfo": "1601, Zunftsaal Museum, Foto Stier",
-                    "mode": 1
-                },
-                {
-                    "thumb": {
-                        "instanceID": 32492
-                    },
-                    "thumbTitle": "Kleines Portal",
-                    "thumbInfo": "1649, Eingang Museum, Foto Stier",
-                    "mode": 1
-                },
-                {
-                    "thumb": {
-                        "instanceID": 31828
-                    },
-                    "thumbTitle": "Wappen",
-                    "thumbInfo": "J.W.Manstadt 1772, Nordseite",
-                    "mode": 1
-                },
-                {
-                    "thumb": {
-                        "instanceID": 32700
-                    },
-                    "thumbTitle": "Kaiserfiguren",
-                    "thumbInfo": "Nordseite Museum",
+                    "thumbTitle": "Old town hall",
+                    "thumbInfo": "Copperplate engraving by Diederich Lemkus, ca. 1700",
                     "mode": 1
                 },
                 {
                     "thumb": {
                         "instanceID": 32284
+                    },
+                    "thumbTitle": "Large portal",
+                    "thumbInfo": "1601, guild hall in the museum, photo by Stier",
+                    "mode": 1
+                },
+                {
+                    "thumb": {
+                        "instanceID": 32592
+                    },
+                    "thumbTitle": "Small portal",
+                    "thumbInfo": "1649, museum entrance, photo by Stier",
+                    "mode": 1
+                },
+                {
+                    "thumb": {
+                        "instanceID": 32884
+                    },
+                    "thumbTitle": "Coat of arms",
+                    "thumbInfo": "J.W.Manstadt 1772, north side of the museum",
+                    "mode": 1
+                },
+                {
+                    "thumb": {
+                        "instanceID": 32896
+                    },
+                    "thumbTitle": "14 emperors",
+                    "thumbInfo": "North side of the museum",
+                    "mode": 1
+                },
+                {
+                    "thumb": {
+                        "instanceID": 32524
                     },
                     "thumbTitle": "Karl der Große ",
                     "thumbInfo": "747/48-814",
@@ -1302,7 +1302,7 @@
                 },
                 {
                     "thumb": {
-                        "instanceID": 31164
+                        "instanceID": 32216
                     },
                     "thumbTitle": "Ludwig der Fromme",
                     "thumbInfo": "778-840",
@@ -1310,7 +1310,7 @@
                 },
                 {
                     "thumb": {
-                        "instanceID": 32004
+                        "instanceID": 32228
                     },
                     "thumbTitle": "Heinrich I.",
                     "thumbInfo": "876-936",
@@ -1318,7 +1318,7 @@
                 },
                 {
                     "thumb": {
-                        "instanceID": 31344
+                        "instanceID": 32388
                     },
                     "thumbTitle": "Otto I. ",
                     "thumbInfo": "912-973",
@@ -1326,7 +1326,7 @@
                 },
                 {
                     "thumb": {
-                        "instanceID": 32412
+                        "instanceID": 32636
                     },
                     "thumbTitle": "Otto II. ",
                     "thumbInfo": "955-983",
@@ -1334,7 +1334,7 @@
                 },
                 {
                     "thumb": {
-                        "instanceID": 32652
+                        "instanceID": 32860
                     },
                     "thumbTitle": "Konrad II.",
                     "thumbInfo": "990-1039",
@@ -1350,7 +1350,7 @@
                 },
                 {
                     "thumb": {
-                        "instanceID": 31408
+                        "instanceID": 32460
                     },
                     "thumbTitle": "Barbarossa",
                     "thumbInfo": "1122-1190",
@@ -1358,7 +1358,7 @@
                 },
                 {
                     "thumb": {
-                        "instanceID": 31644
+                        "instanceID": 32732
                     },
                     "thumbTitle": "Karl IV.",
                     "thumbInfo": "1316-1378",
@@ -1366,7 +1366,7 @@
                 },
                 {
                     "thumb": {
-                        "instanceID": 32504
+                        "instanceID": 32740
                     },
                     "thumbTitle": "Sigismund",
                     "thumbInfo": "1368-1437",
@@ -1374,7 +1374,7 @@
                 },
                 {
                     "thumb": {
-                        "instanceID": 32300
+                        "instanceID": 32564
                     },
                     "thumbTitle": "Albrecht II. ",
                     "thumbInfo": "1298-1358",
@@ -1382,7 +1382,7 @@
                 },
                 {
                     "thumb": {
-                        "instanceID": 32156
+                        "instanceID": 32384
                     },
                     "thumbTitle": "Friedrich III.",
                     "thumbInfo": "1415-1493",
@@ -1390,7 +1390,7 @@
                 },
                 {
                     "thumb": {
-                        "instanceID": 31892
+                        "instanceID": 32956
                     },
                     "thumbTitle": "Maximilian III.",
                     "thumbInfo": "1527-1576",
@@ -1398,7 +1398,7 @@
                 },
                 {
                     "thumb": {
-                        "instanceID": 31744
+                        "instanceID": 32792
                     },
                     "thumbTitle": "Karl V.",
                     "thumbInfo": "1500-1558",
@@ -1406,11 +1406,11 @@
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: um 1290 / 1601 / 1664 / 1772   \nZerstört: 1842\n\nDas mittelalterliche Rathaus erhielt im 17. Jh. zwei Anbauten. 1842 wurde es gesprengt, um eine Ausbreitung des Großen Brandes zu stoppen. Heute steht hier das Haus der Patriotischen Gesellschaft und das Rathaus befindet sich am Rathausplatz.",
+            "description": "Dates: ca. 1290 / 1601 / 1664 / 1772           \n\tDestroyed: 1842\n\nThe medieval town hall was expanded twice in the 17th century. In 1842, it was blown up to stop the Great Fire from spreading. The house of the Patriotic Society stands on the site today, while the town hall is located on Rathausplatz.",
             "creator": "",
-            "destruction": "Großer Brand 1842",
+            "destruction": "The Great Fire 1842",
             "user": "Ratsherren und Bürgerschaft",
-            "date": "um 1290 / 1601 / 1664 / 1772"
+            "date": "ca. 1290 / 1601 / 1664 / 1772"
         },
         {
             "name": "",
@@ -1427,91 +1427,91 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31200
+                        "instanceID": 32240
                     },
-                    "thumbTitle": "Hausfassade",
-                    "thumbInfo": "Foto Georg Koppmann, 1905",
+                    "thumbTitle": "House facade",
+                    "thumbInfo": "Photo by Georg Koppmann, 1905",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31948
+                        "instanceID": 32176
                     },
-                    "thumbTitle": "Katharinenbrücke",
-                    "thumbInfo": "Fotografie um 1900",
+                    "thumbTitle": "Katharinenbrücke ",
+                    "thumbInfo": "Photograph, ca. 1900",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31836
+                        "instanceID": 32892
                     },
-                    "thumbTitle": "Fensterzier",
-                    "thumbInfo": "Innenhof Museum",
+                    "thumbTitle": "Window ornament",
+                    "thumbInfo": "Inner courtyard of the museum",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32472
+                        "instanceID": 32708
                     },
-                    "thumbTitle": "Fensterzier",
-                    "thumbInfo": "Innenhof Museum",
+                    "thumbTitle": "Window ornament",
+                    "thumbInfo": "Inner courtyard of the museum",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32628
+                        "instanceID": 32844
                     },
-                    "thumbTitle": "Inschrift",
-                    "thumbInfo": "An Gottes Segen ist alles gelegen",
+                    "thumbTitle": "Inscription",
+                    "thumbInfo": "God’s blessing gained, all is obtained",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32616
+                        "instanceID": 32832
                     },
-                    "thumbTitle": "Inschrift",
-                    "thumbInfo": "Gott allein sei die Ehre",
+                    "thumbTitle": "Inscription",
+                    "thumbInfo": "To God alone be the glory",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32200
+                        "instanceID": 32440
                     },
                     "thumbTitle": "Ornament",
-                    "thumbInfo": "Akanthus, Innenhof Museum",
+                    "thumbInfo": "Acanthus, inner courtyard of the museum",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32776
+                        "instanceID": 32948
                     },
-                    "thumbTitle": "Portalbogen",
-                    "thumbInfo": "Nordseite Museum",
+                    "thumbTitle": "Portal arch",
+                    "thumbInfo": "North side of the museum ",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31156
+                        "instanceID": 32204
                     },
-                    "thumbTitle": "Portalbogen",
-                    "thumbInfo": "Nordseite Museum",
+                    "thumbTitle": "Portal arch",
+                    "thumbInfo": "North side of the museum ",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31592
+                        "instanceID": 32680
                     },
-                    "thumbTitle": "Kapitell",
-                    "thumbInfo": "Südseite Museum",
+                    "thumbTitle": "Capital",
+                    "thumbInfo": "South side of the museum ",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: um 1700    \nAbriss: 1907\n\nIn der Nähe der Katharinenkirche lebten Kaufleute, die es sich leisten konnten, die Fassaden ihrer Wohnhäuser mit aufwendigen Ornamenten zu schmücken. Das Haus an der Katharinenkirche wurde 1907 abgebrochen.",
+            "description": "Date: ca. 1700\t  \nDemolished: 1907\n\nMerchants who lived near St. Catherine’s Church could afford to decorate the facades of their homes with elaborate ornaments. The house near St. Catherine’s Church was demolished in 1907.",
             "creator": "",
-            "destruction": "Abriss: 1907",
+            "destruction": "Demolished: 1907",
             "user": "",
-            "date": "um 1700"
+            "date": "ca. 1700"
         },
         {
             "name": "",
@@ -1524,37 +1524,37 @@
                 "what3words": "abmachung.erkannte.zwischen",
                 "Standort": "Straßenecke Alstertor/Ferdinandstraße "
             },
-            "headline": "Spinnhaus an der Alster",
+            "headline": "Spinnhaus on the Alster",
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31824
+                        "instanceID": 32876
                     },
                     "thumbTitle": "Spinnhaus",
-                    "thumbInfo": "Mit Werk- u. Armen-Haus, Aquarell 1835",
+                    "thumbInfo": "With the workhouse and poorhouse, watercolour, 1835",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31556
+                        "instanceID": 32664
                     },
                     "thumbTitle": "Portal",
-                    "thumbInfo": "Detail ",
+                    "thumbInfo": "Detail from a watercolour, 1835",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31628
+                        "instanceID": 32712
                     },
                     "thumbTitle": "Portal",
-                    "thumbInfo": "Westseite Museum",
+                    "thumbInfo": "West side of the museum ",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: 1666-1674              \nZerstört: 1842\n\nDas Spinnhaus war ein Gefängnis. Der Name weist darauf hin, dass die Insassen vor allem Wolle spinnen mussten. Die Kosten für den Bau spendete der Ratsherr Peter Rentzel in seinem Testament. 1842 wurde das Spinnhaus beim Großen Brand zerstört.",
+            "description": "Date: 1666-1674\t \nDestroyed: 1842\n\nThe Spinnhaus was a prison. As its name implies, the inmates mainly had to spin wool. It was built with money left by the city councillor Peter Rentzel in his will. The Spinnhaus was destroyed in the Great Fire of 1842.",
             "creator": "",
-            "destruction": "Großer Brand 1842",
+            "destruction": "The Great Fire of 1842",
             "user": "",
             "date": "1666-1674"
         },
@@ -1569,79 +1569,79 @@
                 "what3words": "endlos.tier.teilt",
                 "Standort": "St. Petri Kirche"
             },
-            "headline": "St. Petri Kirche",
+            "headline": "Church of Saint Peter",
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31356
+                        "instanceID": 32404
                     },
-                    "thumbTitle": "St. Petri",
-                    "thumbInfo": "Ansicht vor dem Brand, Lithografie 1842",
+                    "thumbTitle": "Church of Saint Peter",
+                    "thumbInfo": "Prior to the Great Fire, lithography, 1842",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31956
+                        "instanceID": 32376
                     },
-                    "thumbTitle": "Ruine St. Petri",
-                    "thumbInfo": "Ansicht nach dem Brand, Aquarell 1842",
+                    "thumbTitle": "Ruins of Saint Peter",
+                    "thumbInfo": "After the Great Fire, watercolour, 1842",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32124
+                        "instanceID": 32336
                     },
-                    "thumbTitle": "St. Petri 1849",
-                    "thumbInfo": "Architekt Alexis de Chareauneuf",
+                    "thumbTitle": "Church of Saint Peter in 1849",
+                    "thumbInfo": "Architect Alexis de Chareauneuf",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31292
+                        "instanceID": 32340
                     },
-                    "thumbTitle": "Südportal",
-                    "thumbInfo": "Zeichnung, Zustand 1895",
+                    "thumbTitle": "South portal",
+                    "thumbInfo": "Drawing, condition in 1895",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31196
+                        "instanceID": 32236
                     },
-                    "thumbTitle": "Südportal ",
-                    "thumbInfo": "Nach dem Zweiten Weltkrieg",
+                    "thumbTitle": "South portal",
+                    "thumbInfo": "Damaged during the Second World War",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32592
+                        "instanceID": 32380
                     },
-                    "thumbTitle": "Südportal ",
-                    "thumbInfo": "Innenhof Museum, Foto Stier",
+                    "thumbTitle": "South portal",
+                    "thumbInfo": "Inner courtyard of museum, photo by Stier",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32740
+                        "instanceID": 32904
                     },
-                    "thumbTitle": "Wappenstein",
-                    "thumbInfo": "Familie Eysinga , um 1600",
+                    "thumbTitle": "Court of arm",
+                    "thumbInfo": "Eysinga Family, ca. 1600",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32564
+                        "instanceID": 32780
                     },
-                    "thumbTitle": "Gedenktafel",
-                    "thumbInfo": "Denkmal Fokko Eysinga, um 1600",
+                    "thumbTitle": "Memorial plaque",
+                    "thumbInfo": "Fokko Eysinga monument, ca. 1600",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: 14. Jh. / 1844-1849   \nZerstört: 1842\n\nNach dem Großen Brand war die mittelalterliche Kirche fast vollständig zerstört. Sie wurde im Stil der Gotik wieder aufgebaut. Das 1603 errichtete Südportal wurde aus den Ruinen geborgen und später in den Innenhof des Museums eingebaut.",
+            "description": "Dates: 14th century / 1844-1849\t   \nDestroyed: 1842\n\nAfter the Great Fire, the medieval church was left almost completely destroyed. It was rebuilt in the Gothic style. The south portal, originally built in 1603, was salvaged from the ruins and later relocated to the inner courtyard of the museum.",
             "creator": "",
-            "destruction": "Großer Brand 1842",
+            "destruction": "The Great Fire of 1842",
             "user": "",
-            "date": "14. Jh. / 1844-1849"
+            "date": "14th century / 1844-1849"
         },
         {
             "name": "",
@@ -1658,43 +1658,43 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 32560
+                        "instanceID": 32776
                     },
-                    "thumbTitle": "Fassade",
-                    "thumbInfo": "Vor der Renovierung 1876",
+                    "thumbTitle": "Facade",
+                    "thumbInfo": "Before renovations, 1876",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32160
+                        "instanceID": 32392
                     },
-                    "thumbTitle": "Fassade",
-                    "thumbInfo": "Nach der Renovierung 1885",
+                    "thumbTitle": "Facade",
+                    "thumbInfo": "After renovations, 1885",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32608
+                        "instanceID": 32812
                     },
                     "thumbTitle": "Portal ",
-                    "thumbInfo": "Nach der Renovierung 1885",
+                    "thumbInfo": "After renovations, 1885",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32432
+                        "instanceID": 32672
                     },
                     "thumbTitle": "Portal ",
-                    "thumbInfo": "Am Museum Nordseite, Foto Stier",
+                    "thumbInfo": "North side of the museum, photo by Stier",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: Ende 16. Jh. / 1631   \nAbriss: 1896\n\nDas Bürgerhaus am Rödingsmarkt stand bereits einige Jahrzehnte, als der Jurist Dietrich Moller vom Baum es 1618 erbte. 1631 hatte er die schlichte Fassade um ein Renaissanceportal erweitern und eine Figur der Justitia anbringen lassen. 1896 abgerissen.",
+            "description": "Dates: End of 16th century / 1631  \t\nDemolished: 1896\n\nThe town house on Rödingsmarkt 60 had already been standing for several decades when the lawyer Dietrich Moller vom Baum inherited it in 1618. In 1631, he added a Renaissance portal to the plain facade and had a figure of Justitia mounted. The house was demolished in 1896.",
             "creator": "",
-            "destruction": "Abriss: 1896 ",
+            "destruction": "  Demolished: 1896",
             "user": "",
-            "date": "Ende 16. Jh. / 1631"
+            "date": "End of 16th century / 1631"
         },
         {
             "name": "",
@@ -1711,83 +1711,83 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31572
+                        "instanceID": 32668
                     },
-                    "thumbTitle": "Wohnhaus",
-                    "thumbInfo": "Foto Georg Koppmann, 1906",
+                    "thumbTitle": "Residential building",
+                    "thumbInfo": "Photo by Georg Koppmann, 1906",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32604
+                        "instanceID": 32808
                     },
-                    "thumbTitle": "Fassade",
-                    "thumbInfo": "Foto Georg Koppmann, 1906",
+                    "thumbTitle": "Facade",
+                    "thumbInfo": "Photo by Georg Koppmann, 1906",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32188
+                        "instanceID": 32416
                     },
                     "thumbTitle": "Düsternstraße",
-                    "thumbInfo": "Foto aus Wilhelm Melhop, 1904",
+                    "thumbInfo": "Photo by Wilhelm Melhop, 1904",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31132
+                        "instanceID": 32332
                     },
-                    "thumbTitle": "Museum im Bau",
-                    "thumbInfo": "Fassade mit Palmwedel und Büsten 1916",
+                    "thumbTitle": "Museum under construction",
+                    "thumbInfo": "Facade with palm branches and busts, 1916",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32196
+                        "instanceID": 32432
                     },
-                    "thumbTitle": "Büste ",
-                    "thumbInfo": "Alexander d. Gr., Südseite Museum",
+                    "thumbTitle": "Bust",
+                    "thumbInfo": "Alexander the Great, south side of the museum",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32244
+                        "instanceID": 32472
                     },
-                    "thumbTitle": "Büste ",
-                    "thumbInfo": "Caesar, Südseite Museum",
+                    "thumbTitle": "Bust",
+                    "thumbInfo": "Caesar, south side of the museum ",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32748
+                        "instanceID": 32920
                     },
-                    "thumbTitle": "Büste ",
-                    "thumbInfo": "Cyrus von Persien",
+                    "thumbTitle": "Bust",
+                    "thumbInfo": "Cyrus the Great,  south side of the museum ",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31940
+                        "instanceID": 32160
                     },
-                    "thumbTitle": "Büste ",
-                    "thumbInfo": "Ninos, Südseite Museum",
+                    "thumbTitle": "Bust",
+                    "thumbInfo": "Ninus,  south side of the museum ",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31380
+                        "instanceID": 32420
                     },
-                    "thumbTitle": "Palmwedel",
-                    "thumbInfo": "5 x an der Fassade ",
+                    "thumbTitle": "Palm branches",
+                    "thumbInfo": "Five times on the facade",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: um 1670\n\n\nDas herrschaftliche Wohnhaus hieß mit Spitznamen „Altes Schloss“. Errichtet hatte es der Jurist Joachim Schrötteringk. Palmwedel und antike Herrscherbüsten an der Fassade zeigten, dass sich der Bauherr Frieden und eine stabile politische Ordnung wünschte.",
+            "description": "Date: ca. 1670\n\n\nThe stately home was popularly nicknamed the Old Palace. It was built by the lawyer Joachim Schrötteringk. Palm branches and the busts of ancient rulers on the facade indicated that the owner desired political stability.",
             "creator": "",
             "destruction": "",
-            "user": "Jurist Joachim Schrötteringk",
-            "date": "um 1670"
+            "user": "Joachim Schrötteringk",
+            "date": "ca. 1670"
         },
         {
             "name": "",
@@ -1804,35 +1804,35 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31456
+                        "instanceID": 32504
                     },
-                    "thumbTitle": "Fassade",
-                    "thumbInfo": "Wohn- und Geschäfshaus, 1907",
+                    "thumbTitle": "Facade",
+                    "thumbInfo": "Residential and business building, 1907",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31528
+                        "instanceID": 32612
                     },
                     "thumbTitle": "Portal",
-                    "thumbInfo": "Foto Georg Koppmann, 1907",
+                    "thumbInfo": "Photo by Georg Koppmann, 1907",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32384
+                        "instanceID": 32644
                     },
                     "thumbTitle": "Portal",
-                    "thumbInfo": "Südseite Museum",
+                    "thumbInfo": "South side of the museum ",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: ab 1618   \n Abriss: 1910\n\nDer Jurist Vincent Moller vom Baum kaufte drei Grundstücke am Speersort, um sich ein Wohnhaus mit mehreren Stockwerken und einer breiten Backsteinfassade zu bauen. 1910 wurde die Straße verbreitert und das Haus abgerissen.",
+            "description": "Date: from 1618\t \nDemolished: 1910\n   \nThe lawyer Vincent Moller vom Baum purchased three plots of land on Speersort street in order to build a residential building with several storeys and a wide brick facade. In 1910, it was demolished in order to widen the street.",
             "creator": "",
-            "destruction": "Abriss: 1910 ",
-            "user": "Jurist Vincent Moller vom Baum",
-            "date": "ab 1618"
+            "destruction": "Demolished: 1910 ",
+            "user": "Vincent Moller vom Baum",
+            "date": "from 1618"
         },
         {
             "name": "",
@@ -1849,35 +1849,35 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 32756
+                        "instanceID": 32928
                     },
-                    "thumbTitle": "Fassade",
-                    "thumbInfo": "Zeichnung Ebba Tesdorpf, 1886",
+                    "thumbTitle": "Facade",
+                    "thumbInfo": "Drawing by Ebba Tesdorpf, 1886",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31300
+                        "instanceID": 32348
                     },
-                    "thumbTitle": "Löwenkopf",
-                    "thumbInfo": "Treppenhaus Museum",
+                    "thumbTitle": "Lion’s head",
+                    "thumbInfo": "Museum staircase",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32088
+                        "instanceID": 32304
                     },
-                    "thumbTitle": "Stuckverzierung",
-                    "thumbInfo": "um 1675",
+                    "thumbTitle": "Stucco decoration",
+                    "thumbInfo": "ca. 1675",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: Ende 17. Jh.   \nAbriss: vor 1888\n\nDas Kaufmannshaus besaß ein repräsentatives Vorderhaus und ein Hinterhaus, das als Speicher diente. Neben dem prächtigen Portal gab es im Vorderhaus zwei Eingänge, die in den Keller führten. Sie schmückte je ein Löwenkopf. Einer davon kam ins Museum. ",
+            "description": "Date: End of the 17th century\t \nDemolished: prior to 1888\n\nThe merchant house had a representative front building and a rear building that served as a storehouse. In addition to the magnificent portal, there were two entrances in the front house that led into the cellar. Each entrance was decorated with a lion’s head, one of which is now in the museum collection. ",
             "creator": "",
-            "destruction": "Abriss: vor 1888",
+            "destruction": "Demolished: prior to  1888",
             "user": "1678 Johann Behrmann,  1754 Garlieb Amsinck, 1785 Joh. Adolph Schlüter, 1825 George Carpzow Gorissen",
-            "date": "Ende 17. Jh."
+            "date": "End of the 17th century"
         },
         {
             "name": "",
@@ -1894,27 +1894,27 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 32456
+                        "instanceID": 32700
                     },
                     "thumbTitle": "Portal",
-                    "thumbInfo": "Zeichnung Eduard Niese, 1884.",
+                    "thumbInfo": "Drawing by Eduard Niese, 1884.",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32260
+                        "instanceID": 32500
                     },
-                    "thumbTitle": "Puttenköpfe",
-                    "thumbInfo": "Am Portal Westseite Museum",
+                    "thumbTitle": "Cherub heads",
+                    "thumbInfo": "On portal on the west side of the museum",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: Ende 17. Jh.  \n Abriss: vor 1888\n\nNicht immer lässt sich genau sagen, zu welchem Haus eine Spolie am Museum gehörte. Zwei Puttenköpfe am Portal des Hauses Neuer Wandrahm 10 am Museum stammen wohl vom Kaufmannshaus Neuer Wandrahm 20. ",
+            "description": "Date: End of the 17th century\t \nDemolished: prior to 1888\n\nIt is not always possible to determine from which house a particular architectural remnant or decorative element originated. Two cherub heads on the portal of the house on Neuer Wandrahm 10 displayed at the museum probably originate from the merchant house on Neuer Wandrahm 20.",
             "creator": "",
-            "destruction": "Abriss: vor 1888",
+            "destruction": "Demolished: prior to  1888",
             "user": "",
-            "date": "Ende 17. Jh."
+            "date": "End of the 17th century"
         },
         {
             "name": "",
@@ -1931,67 +1931,67 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31952
+                        "instanceID": 32456
                     },
                     "thumbTitle": "Niedernstraße",
-                    "thumbInfo": "Foto Franz Kienert",
+                    "thumbInfo": "Photo by Franz Kienert",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31108
+                        "instanceID": 32172
                     },
-                    "thumbTitle": "Wohnhaus",
+                    "thumbTitle": "Residential building",
                     "thumbInfo": "Niedernstraße 16",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32808
+                        "instanceID": 32940
                     },
                     "thumbTitle": "Portal",
-                    "thumbInfo": "Innenhof Museum",
+                    "thumbInfo": "Inner courtyard of the museum ",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32176
+                        "instanceID": 32412
                     },
                     "thumbTitle": "Portal",
-                    "thumbInfo": "Foto aus Wilhelm Melhop, 1907",
+                    "thumbInfo": "Photo by Wilhelm Melhop, 1907",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31384
+                        "instanceID": 32448
                     },
-                    "thumbTitle": " Ofennische",
-                    "thumbInfo": " Fotografie 1914",
+                    "thumbTitle": "Stove alcove",
+                    "thumbInfo": "Photograph, 1914",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32824
+                        "instanceID": 32684
                     },
-                    "thumbTitle": "Diele mit Galerie ",
-                    "thumbInfo": "Fotografie 1914",
+                    "thumbTitle": "Hall with gallery",
+                    "thumbInfo": "Photograph, 1914",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31712
+                        "instanceID": 32560
                     },
                     "thumbTitle": "Niedernstraße ",
-                    "thumbInfo": "Abbbruch 1914",
+                    "thumbInfo": "Demolition, 1914",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: 1. H. 18. Jh.   \nAbriss: 1914\n\nDas Haus gehörte zum Komplex des Schauenburger- und Mohlenhofes, der dem König von Dänemark gehörte. Darauf weist die Krone im Bogen eines der Portale hin, das ins Museum gelangte. 1768 ging der Hof in den Besitz der Stadt über und wurde später verkauft.",
+            "description": "Date: First half of the 18th century\n\tDemolished: 1904\n\nThe house was part of the complex comprising the Schauenburg and Mohlen estate, which belonged to the King of Denmark. This is indicated by the crown in the arch of one of the portals, which came into possession of the museum. In 1768, the estate became the property of the city and was later sold.",
             "creator": "",
-            "destruction": "Abriss: 1914 wegen der Altstadtsanierung",
-            "user": "König von Dänemark",
-            "date": "1. H. 18. Jh."
+            "destruction": "Demolished: 1914, due to the redevelopment of the old town",
+            "user": "The King of Denmark",
+            "date": "First of the 18th century"
         },
         {
             "name": "",
@@ -2008,41 +2008,41 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31444
+                        "instanceID": 32296
                     },
-                    "thumbTitle": "Wohnhaus ",
-                    "thumbInfo": "Foto Charles Fuchs, vor 1868",
+                    "thumbTitle": "Residential building",
+                    "thumbInfo": "Photo by Charles Fuchs, prior to 1868",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31432
+                        "instanceID": 32492
                     },
-                    "thumbTitle": "Wohnhaus ",
-                    "thumbInfo": "Foto Georg Koppmann, 1884",
+                    "thumbTitle": "Residential building",
+                    "thumbInfo": "Photo by Georg Koppmann, 1884",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32744
+                        "instanceID": 32912
                     },
-                    "thumbTitle": "Blütenornament",
-                    "thumbInfo": "Portal am Museum in Planten un Blomen",
+                    "thumbTitle": "Floral ornament",
+                    "thumbInfo": "On portal in Planten un Blomen",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31864
+                        "instanceID": 32908
                     },
-                    "thumbTitle": "Fassade",
-                    "thumbInfo": "Zeichnung Eduard Niese, 1884",
+                    "thumbTitle": "Facade",
+                    "thumbInfo": "Drawing by Eduard Niese, 1884",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: 1675/80    \nAbriss: 1886\n\nIm 17. Jh. ließen sich Niederländer am Neuen Wandrahm nieder. Vorbilder für ihre Stadtpalais waren Bauten aus Amsterdam und anderen niederländischen Städten. Alle Häuser wurden für den Bau der Speicherstadt abgerissen. Einzelne Bauteile kamen ins Museum.",
+            "description": "Date: 1675/80\t\nDemolished: 1886\n\nIn the 17th century, Dutch people settled around Neuer Wandrahm. Their city palaces were modelled on buildings in Amsterdam and other Dutch cities. All the houses were demolished for the construction of the Speicherstadt warehouse district. Individual architectural elements entered the museum collection.",
             "creator": "Johann Jacob Erasmus",
-            "destruction": "Abbriss: 1886",
+            "destruction": "Demolished: 1886",
             "user": "Ascan Wilhelm Lutteroth",
             "date": "1675/80"
         },
@@ -2057,46 +2057,46 @@
                 "what3words": "zeiten.gestiegen.speer",
                 "Standort": "Jakobikirchhof 13"
             },
-            "headline": "Hauptpastorat St. Jacobi",
+            "headline": "Main parsonage of St. James",
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31876
+                        "instanceID": 32932
                     },
-                    "thumbTitle": "\nHauptpastorat \n",
-                    "thumbInfo": "Foto Knackstedt & Co, 1911",
+                    "thumbTitle": "\nMain parsonage",
+                    "thumbInfo": "Knackstedt & Co, 1911",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31240
+                        "instanceID": 32264
                     },
-                    "thumbTitle": "Jacobikirchhof",
+                    "thumbTitle": "Churchyard of St. James",
                     "thumbInfo": "Theobald Riefesell, 1892",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31136
+                        "instanceID": 32192
                     },
                     "thumbTitle": "Portal",
-                    "thumbInfo": "Innenhof Museum",
+                    "thumbInfo": "Inner courtyard of the museum ",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32164
+                        "instanceID": 32396
                     },
-                    "thumbTitle": "Diele",
-                    "thumbInfo": "Foto Franz Rompel, 1910",
+                    "thumbTitle": "Hall",
+                    "thumbInfo": "Photo by Franz Rompel, 1910",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: 1757-1759   \nAbriss: 1909\n\nDas Hauptpastorat lag direkt an der Kirche St. Jacobi und wurde Mitte des 18. Jh. neu erbaut. 1909 wurde es für den Bau des Rappolthauses und der neu angelegten Mönckebergstraße abgerissen. Nur das Rokokoportal blieb erhalten und kam ins Museum.",
+            "description": "Date: 1757-1759\t\nDemolished: 1909\n\nThe main parsonage was located directly next to the Church of St. James and was rebuilt in the middle of the 18th century. In 1909, it was demolished to make way for the Rappolthaus and the newly planned Mönckebergstraße. Only the rococo portal was preserved. ",
             "creator": "Nicolaus Dietrich Petersen",
-            "destruction": "Abriss: 1909",
-            "user": "Hauptpastor von St. Jacobi",
+            "destruction": "Demolished: 1909",
+            "user": "Senior Pastor of St. James",
             "date": "1757-1759"
         },
         {
@@ -2110,53 +2110,53 @@
                 "what3words": "turmuhr.gerührt.schülerin",
                 "Standort": " Jacobikirchhof/ Steinstraße 124"
             },
-            "headline": "Jacobikirchhof",
+            "headline": "Churchyard of St. James",
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 32708
+                        "instanceID": 32516
                     },
                     "thumbTitle": "Steinstraße 124",
-                    "thumbInfo": "Georg Koppmann, 1880",
+                    "thumbInfo": "Photo by Georg Koppmann, 1880",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31976
+                        "instanceID": 32184
                     },
-                    "thumbTitle": " Jacobikirchhof",
-                    "thumbInfo": "Foto Georg Koppmann, 1880",
+                    "thumbTitle": "Churchyard of St. James",
+                    "thumbInfo": "Photo by Georg Koppmann, 1880",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32772
+                        "instanceID": 32944
                     },
-                    "thumbTitle": "Lukas u. Johannes",
-                    "thumbInfo": "Ausstellungsraum Museum",
+                    "thumbTitle": "St. Luke and John ",
+                    "thumbInfo": "Exhibition room in the museum ",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32336
+                        "instanceID": 32552
                     },
-                    "thumbTitle": "Ev. Matthäus",
-                    "thumbInfo": "Ausstellungsraum Museum",
+                    "thumbTitle": "St. Matthew",
+                    "thumbInfo": "Exhibition room in the museum ",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31988
+                        "instanceID": 32224
                     },
-                    "thumbTitle": "Ev. Markus",
-                    "thumbInfo": "Ausstellungsraum Museum",
+                    "thumbTitle": "St. Mark",
+                    "thumbInfo": "Exhibition room in the museum ",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: Torbögen 1678   \nAbriss: 1881\n\nDurch einen Torbogen gelangte man von der Steinstraße in den Jacobikirchhof, der die Kirche St. Jacobi umgab. Die Figuren der vier Evangelisten auf beiden Seiten des Torbogens schnitzte der Künstler Christian Precht. ",
+            "description": "Date: Archway, 1678\nDemolished: 1881\n\nAn archway led from Steinstraße to the churchyard, which encompassed St. James’ Church. The figures of the four evangelists on both sides of the archway were carved by the artist Christian Precht. ",
             "creator": "Christian Precht",
-            "destruction": "Abriss: 1881",
+            "destruction": "Demolished: 1881",
             "user": "",
             "date": ""
         },
@@ -2175,51 +2175,51 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 32812
+                        "instanceID": 32968
                     },
-                    "thumbTitle": "Wohnhaus",
+                    "thumbTitle": "Residential building",
                     "thumbInfo": "Steinhöft 13",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31804
+                        "instanceID": 32804
                     },
-                    "thumbTitle": "Ansicht",
-                    "thumbInfo": "mit der neuen Hochbahnbrücke",
+                    "thumbTitle": "View",
+                    "thumbInfo": "with the new elevated railway bridge",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32632
+                        "instanceID": 32852
                     },
                     "thumbTitle": "Portal",
-                    "thumbInfo": "Innenhof Museum ",
+                    "thumbInfo": "Inner courtyard of the museum ",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32316
+                        "instanceID": 32576
                     },
-                    "thumbTitle": "Giebelschmuck ",
-                    "thumbInfo": "Innenhof Museum",
+                    "thumbTitle": "Gable ornamentation",
+                    "thumbInfo": "Inner courtyard of the museum",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32220
+                        "instanceID": 32464
                     },
-                    "thumbTitle": "Hochbahnbrücke",
-                    "thumbInfo": "beim Steinhöft",
+                    "thumbTitle": "Railway bridge",
+                    "thumbInfo": "At Steinhöft",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: um 1760  \n Abriss: 1921\n\nDas Kaufmannshaus mit schlichter Fassade lag direkt am Binnenhafen. Nur das Portal war anspruchsvoller gestaltet. Für den Anbau des Kontorhauses Slomanhaus wurde es 1921 abgerissen. ",
+            "description": "Date: ca. 1760\t \nDemolished: 1921\n\nThe merchant house with a plain facade was located directly on the inner port of the city. Only the portal featured a sophisticated design. The house was demolished for the construction of the Slomanhaus office building in 1921.",
             "creator": "",
-            "destruction": "Abriss: vor 1921",
+            "destruction": "Demolished: 1921",
             "user": "",
-            "date": "um 1760"
+            "date": "ca. 1760"
         },
         {
             "name": "",
@@ -2236,51 +2236,51 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31852
+                        "instanceID": 32584
                     },
-                    "thumbTitle": "Wohnhaus",
-                    "thumbInfo": "Foto Knackstedt & Co, 1911",
+                    "thumbTitle": "Residential building",
+                    "thumbInfo": "Photo by Knackstedt & Co, 1911",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31888
-                    },
-                    "thumbTitle": "Portal",
-                    "thumbInfo": "Foto Georg Koppmann, 1906",
-                    "mode": 1
-                },
-                {
-                    "thumb": {
-                        "instanceID": 31316
+                        "instanceID": 32952
                     },
                     "thumbTitle": "Portal",
-                    "thumbInfo": "Südseite Museum ",
+                    "thumbInfo": "Photo by Georg Koppmann, 1906",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32040
+                        "instanceID": 32364
                     },
-                    "thumbTitle": "Fensterzier",
-                    "thumbInfo": "Innenhof Museum ",
+                    "thumbTitle": "Portal",
+                    "thumbInfo": "South side of the museum ",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32388
+                        "instanceID": 32268
+                    },
+                    "thumbTitle": "Window ornament",
+                    "thumbInfo": "Inner courtyard of the museum",
+                    "mode": 1
+                },
+                {
+                    "thumb": {
+                        "instanceID": 32652
                     },
                     "thumbTitle": "Poggenmühle",
-                    "thumbInfo": "Foto Strumper & Co, 1897",
+                    "thumbInfo": "Photo by Strumper & Co, 1897",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: Ende 17. Jh.   \n Abriss: 1906\n\nDas Haus wurde Mitte des 18. Jh. modernisiert und erhielt ein repräsentatives Portal. 1906 wurde es für den Bau der Speicherstadt abgerissen.  Eine Fensterrahmung gelangte ins Museum. ",
+            "description": "Date: End of 17th century\t\nDemolished: 1906\n\nThe house was modernised in the middle of the 18th century and a representative portal was added. In 1906, it was demolished for the construction of the Speicherstadt warehouse district. A window frame belongs to the museum collection.",
             "creator": "",
-            "destruction": "Abriss: 1906 für den Bau der Speicherstadt",
+            "destruction": "Demolished: 1906  for the construction of the Speicherstadt warehouse district",
             "user": "",
-            "date": "Ende 17. Jh."
+            "date": " End of 17th century"
         },
         {
             "name": "",
@@ -2297,27 +2297,27 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31900
+                        "instanceID": 32960
                     },
-                    "thumbTitle": "Hof",
-                    "thumbInfo": "In der Steinstraße",
+                    "thumbTitle": "Courtyard",
+                    "thumbInfo": "On Steinstraße",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31636
+                        "instanceID": 32716
                     },
                     "thumbTitle": "Relief",
-                    "thumbInfo": "Südseite Museum",
+                    "thumbInfo": "South side of the museum ",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: 17. Jh.    \nAbriss: um 1914\n\nIm Gängeviertel an der Steinstraße befanden sich hinter den Häusern Höfe mit schmalen Gängen. An einer Fensterbrüstung im Hinterhaus Steinstraße 74 war ein Relief angebracht. Es zeigt einen Mann mit Turban und antikisierender Rüstung.",
+            "description": "Date: 17th century\t   \nDemolished: ca. 1914\n\nIn the Gängeviertel quarter on Steinstraße, there were courtyards with narrow alleys behind the houses. A relief was attached to a window parapet in the rear building of Steinstraße 74. It portrays a man wearing a turban and antique armour.",
             "creator": "",
-            "destruction": "Abbriss: um 1914",
+            "destruction": "Demolished: ca. 1914",
             "user": "",
-            "date": "17. Jh."
+            "date": "17th century"
         },
         {
             "name": "",
@@ -2334,25 +2334,25 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 32452
+                        "instanceID": 32248
                     },
-                    "thumbTitle": "Ansicht",
-                    "thumbInfo": "Zeichnung R. Loewendei, 1880 ",
+                    "thumbTitle": "View",
+                    "thumbInfo": "Drawing by R. Loewendei, 1880 ",
                     "mode": 1
                 },
                 {
                     "thumb": {
                         "instanceID": 0
                     },
-                    "thumbTitle": "Schrifttafel",
-                    "thumbInfo": "Südseite Museum ",
+                    "thumbTitle": "Inscription plates",
+                    "thumbInfo": "South side of the museum",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: 1750 (Tafeln)    \nAbriss: vor 1910\n\nWie das Wohnhaus aussah, ist nicht bekannt. Nur zwei Inschriftentafeln mit religiösem Bezug blieben erhalten. Sie erinnern an den Kauf und die Renovierung des Hauses 1750 und 1770. Es lag im Sanierungsgebiet der Neustadt und wurde abgerissen. ",
+            "description": "Date: 1750 (inscription plates)    \n\tDemolished: prior to 1910\n\nIt is not known what the residential building looked like. Only two inscription plates with a religious reference have been preserved. They commemorate the purchase and renovation of the house in 1750 and 1770. It was located in the later Neustadt redevelopment area.   ",
             "creator": "",
-            "destruction": "Abriss: vor 1910",
+            "destruction": "Demolished: prior to 1910",
             "user": "",
             "date": ""
         },
@@ -2371,15 +2371,15 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31372
+                        "instanceID": 32408
                     },
-                    "thumbTitle": "Wappenstein",
-                    "thumbInfo": "Innenhof Museum ",
+                    "thumbTitle": "Coat of arms stone",
+                    "thumbInfo": "Inner courtyard of the museum ",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: 1549\n\nDas Wappen gehörte zu einem Haus in der Straße Hüxter. Die Straße gibt es nicht mehr. Heute verläuft hier die Willy-Brandt-Straße. ",
+            "description": "Date: 1549\n\nThe coat of arms belonged to a house on Hüxter street. This street no longer exists. Today, Willy-Brandt-Straße runs along this route.",
             "creator": "",
             "destruction": "",
             "user": "",
@@ -2400,23 +2400,23 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 32272
+                        "instanceID": 32508
                     },
                     "thumbTitle": "Marienstraße",
-                    "thumbInfo": "Zeichnung Theobald Riefesell, 1894",
+                    "thumbInfo": "Drawing by Theobald Riefesell, 1894",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32372
+                        "instanceID": 32648
                     },
-                    "thumbTitle": "Markuslöwe",
-                    "thumbInfo": "Innenhof Museum ",
+                    "thumbTitle": "Lion of St. Mark",
+                    "thumbInfo": "Inner courtyard of the museum",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: 17. Jh.\n\nAm Eckhaus war ein Relief mit einem geflügelten Löwen des Evangelisten Markus angebracht. Es kam vom \"Markusplatz\" an den Kohlhöfen. Der Kapitän der Bürgerwache Markus Meyer gab 1632 St. Nikolai eine Spende. Dafür sollte der Platz nach ihm benannt werden.  ",
+            "description": "Date: 17th century\n\nThe corner house featured a relief with the winged lion of the evangelist Saint Mark. It came from “Saint Mark’s Square” to Kohlhöfen street. Markus Meyer, the captain of the citizen’s guard, gave a donation to the Church of St. Nicholas in 1632. In return, a square was to be named in his honour.",
             "creator": "",
             "destruction": "",
             "user": "",
@@ -2437,23 +2437,23 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31568
+                        "instanceID": 32660
                     },
-                    "thumbTitle": "Wohnhaus",
-                    "thumbInfo": "Zeichnung Ebba Tesdorpf, 1883",
+                    "thumbTitle": "Residential building",
+                    "thumbInfo": "Drawing by Ebba Tesdorpf, 1883",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31944
+                        "instanceID": 32180
                     },
-                    "thumbTitle": "Wappenstein",
-                    "thumbInfo": "Innenhof Museum ",
+                    "thumbTitle": "Coat of arms stone",
+                    "thumbInfo": "Inner courtyard of the museum",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: 1710 / 1722   \nAbriss: 1882\n\nAls der Graf und Reichsfreiherr Max Heinrich von Kurtzrock das Eckhaus 1722 erwarb, brachte er dort sein Wappen an. Architekt des Hauses war Nicolaus von Kuhn. Es wurde 1882 für den Bau der \"Hamburger Nachrichten\" abgerissen. \n",
+            "description": "Date: 1710 / 1722              \n\tDemolished: 1882\n\nWhen Count and Imperial Baron Max Heinrich von Kurtzrock acquired the corner house in 1722, he placed his coat of arms there. The building was designed by the architect Nicolaus von Kuhn. It was demolished in 1882 for the construction of the Hamburger Nachrichten building. \n",
             "creator": " Nicolaus von Kuhn",
             "destruction": "",
             "user": "Max Heinrich von Kurtzrock",
@@ -2474,25 +2474,25 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 32296
+                        "instanceID": 32556
                     },
-                    "thumbTitle": "Die Bank",
-                    "thumbInfo": "Lithografie Peter Suhr, um 1830",
+                    "thumbTitle": "Bank building",
+                    "thumbInfo": "Lithography by Peter Suhr, ca. 1830",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32588
+                        "instanceID": 32796
                     },
-                    "thumbTitle": "Stadtwappen",
-                    "thumbInfo": "Nordseite Wallanlagen",
+                    "thumbTitle": "City coat of arms",
+                    "thumbInfo": "North side of Wallanlagen",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: 1825-1827   \nZerstört: 1842\n\nDie Hamburger Bank am Neß lag neben dem Rathaus und war nach Plänen des Architekten Jacob Heinrich Ludolff gebaut worden. Das Haus wurde beim Großen Brand zerstört, ein Stein mit Hamburg Wappen gerettet. Heute steht hier das Kontorhaus \"Alte Bankhalle\".\n",
+            "description": "Date: 1825-1827\t  \nDestroyed: 1842\n\nThe Hamburger Bank on Neß  was located next to the city hall and was built according plans by the architect Jacob Heinrich Ludolff. The building was destroyed during the Great Fire. A stone with the Hamburg coat of arms was salvaged. Today, the Alte Bankhalle office building stands here.\n",
             "creator": "Jacob Heinrich Ludolff",
-            "destruction": "Großer Brand 1842",
+            "destruction": "The Great Fire of 1842",
             "user": "",
             "date": "1825-1827"
         },
@@ -2511,26 +2511,26 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31984
+                        "instanceID": 32756
                     },
-                    "thumbTitle": "Kaufmannshaus",
-                    "thumbInfo": "Zeichnung Johannes Niebuhr",
+                    "thumbTitle": "Merchant house",
+                    "thumbInfo": "Drawing by Johannes Niebuhr",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31608
+                        "instanceID": 32688
                     },
-                    "thumbTitle": "Wappenstein",
-                    "thumbInfo": "Westseite Museum",
+                    "thumbTitle": "Coat of arms stone ",
+                    "thumbInfo": "West side of the museum",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: 1532 / 1549   \nAbriss: 1880\n\nDas gotische Kaufmannshaus war im Besitz der Familie Moller. 1880 wurde es für die Verbreiterung der Straße Neß abgerissen. Erhalten haben sich ein Wappenstein der Moller und eine Beischlagwange der Treppe mit Mühlrad von 1532 und 1549.",
+            "description": "Date: 1532 / 1549 \t    \nDestroyed: 1880\n\nThe Gothic merchant house was owned by the Moller family. In 1880, it was demolished in order to widen Neß street. A coat of arms stone of the Moller family and a staircase side panel with a mill wheel from 1532 and 1549 have been preserved.",
             "creator": "",
-            "destruction": "Abriss: 1880",
-            "user": "Familie Moller",
+            "destruction": "Destroyed: 1880",
+            "user": " Moller Family",
             "date": "1532/1549"
         },
         {
@@ -2548,35 +2548,35 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31256
+                        "instanceID": 32676
                     },
                     "thumbTitle": "Großneumarkt",
-                    "thumbInfo": "Fotografie 1872",
+                    "thumbInfo": "Photograph, 1872",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31716
+                        "instanceID": 32232
                     },
-                    "thumbTitle": "Wohnhaus",
-                    "thumbInfo": "Fotografie 1872",
+                    "thumbTitle": "Residential building",
+                    "thumbInfo": "Photograph, 1872",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32832
+                        "instanceID": 32156
                     },
-                    "thumbTitle": "Wappenstein",
-                    "thumbInfo": "Nordseite Museum ",
+                    "thumbTitle": "Coat of arms stone ",
+                    "thumbInfo": "North side of the museum ",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: nach 1698   \nAbriss: um 1900\n\nIm Giebel des großen Bürgerhauses befand sich das Wappen der Familie Sonnenberg: eine goldene Sonne vor blauem Himmel. Die Familie hatte das Grundstück 1698 erworben. Um 1900 wurde das Haus abgerissen und die nördliche Seite des Platzes neu bebaut. ",
+            "description": "Date: after 1698\t   \nDemolished: ca. 1900\n\nThe Sonnenberg family coat of arms was displayed on the gable of their large town house - a golden sun against a blue sky. The family had purchased the property in 1698. The house was demolished around 1900 and the north side of the grounds were redeveloped.",
             "creator": "",
-            "destruction": "Abriss: um 1900",
-            "user": "Familie Sonnenberg",
-            "date": "nach 1698"
+            "destruction": "   Demolished: ca. 1900",
+            "user": "Sonnenberg Family",
+            "date": "after 1698"
         },
         {
             "name": "",
@@ -2593,25 +2593,25 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31916
+                        "instanceID": 32436
                     },
-                    "thumbTitle": "Deichtor um 1700",
-                    "thumbInfo": "Lithografie David Martin Kanning, 1850",
+                    "thumbTitle": "Deichtor ca. 1700",
+                    "thumbInfo": "Lithography by David Martin Kanning, 1850",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32548
+                        "instanceID": 32764
                     },
-                    "thumbTitle": "Inschrift",
-                    "thumbInfo": "Nordseite Museum",
+                    "thumbTitle": "Inscription stone",
+                    "thumbInfo": "North side of the museum ",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: 1673   \nAbriss: 1828\n\nDas Deichtor war eines der Stadttore, das in der Nacht geschlossen wurde. Am Bau von 1673 war eine Inschriftentafel angebracht. Sie mahnte, die Freiheit zu bewahren, welche die Vorfahren errangen. 1828 wurde das alte Deichtor durch einen Neubau ersetzt.\n\n",
+            "description": "Date: 1673 \t   \nDemolished: 1828\n\nThe Deichtor gate was one of the city gates that was closed at night. An inscription plaque was installed on the building, which was constructed in 1673. It urged citizens to protect the freedom which their forefathers had won. In 1828, the old Deichtor gate was replaced by a new building.\n\n",
             "creator": "",
-            "destruction": "Abriss: 1828",
+            "destruction": "Demolished: 1828",
             "user": "",
             "date": ""
         },
@@ -2630,47 +2630,47 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 32732
+                        "instanceID": 32288
                     },
-                    "thumbTitle": "Hinterhof",
-                    "thumbInfo": "Foto aus Wilhelm Melhop, 1909",
+                    "thumbTitle": "Rear courtyard",
+                    "thumbInfo": "Photo by Wilhelm Melhop, 1909",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31920
+                        "instanceID": 32772
                     },
-                    "thumbTitle": "Hausdetail",
-                    "thumbInfo": "Mit dem Stadtwappen ",
+                    "thumbTitle": "Detail",
+                    "thumbInfo": "With the coat of arms",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31144
+                        "instanceID": 32188
                     },
-                    "thumbTitle": "Stadtwappen ",
-                    "thumbInfo": "Innenhof Museum ",
+                    "thumbTitle": "City coat of arms",
+                    "thumbInfo": "Inner courtyard of the museum ",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32080
+                        "instanceID": 32300
                     },
-                    "thumbTitle": "Rückseite",
-                    "thumbInfo": "Foto Georg Koppmann",
+                    "thumbTitle": "Rear side",
+                    "thumbInfo": "Photo by Georg Koppmann",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31400
+                        "instanceID": 32196
                     },
-                    "thumbTitle": "Abbruch ",
-                    "thumbInfo": "um 1930",
+                    "thumbTitle": "Demolition",
+                    "thumbInfo": "ca. 1930",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: 17.Jh. / 1768  \nAbriss: um 1930 \n\nIm Innenhof eines Fachwerkhauses war über dem Tor das Hamburger Stadtwappen angebracht. Das Haus gehörte zum Schauenburger Hof, der 1768 vom dänischen König in den Besitz der Stadt übergegangen war. Abgerissen zur Sanierung der Altstadt südlich der Steinstraße.",
+            "description": "Date: 17th century / 1768\nDemolished: ca. 1930 \n\nThe Hamburg city coat of arms was displayed above the gate in the inner courtyard of a half-timbered house. The house belonged to the Schauenburg Hof courtyard. In 1768, ownership was transferred from the King of Denmark to the City of Hamburg. Demolished for the redevelopment of the old city south of Steinstraße street.",
             "creator": "",
             "destruction": "",
             "user": "",
@@ -2691,33 +2691,33 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 32168
+                        "instanceID": 32400
                     },
-                    "thumbTitle": "Wohnhaus",
-                    "thumbInfo": "Fotografie 1913",
+                    "thumbTitle": "Residential building",
+                    "thumbInfo": "Photography, 1913",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 32192
+                        "instanceID": 32424
                     },
                     "thumbTitle": "Portal",
-                    "thumbInfo": "Erdgeschoss Museum ",
+                    "thumbInfo": "Ground floor of the museum",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31736
+                        "instanceID": 32784
                     },
-                    "thumbTitle": "Stuckdecke",
-                    "thumbInfo": "Foto Knackstedt & Co, 1911",
+                    "thumbTitle": "Stucco ceiling",
+                    "thumbInfo": "Photo Knackstedt & Co, 1911",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: Ende 18. Jh.   \nAbriss: 1913\n\nDas Portal des Hauses gelangte nach dem Abriss in die Sammlung des Museums und wurde im Erdgeschoss eingebaut. In dem Haus befand sich seit den 1870er Jahren eine Buchdruckerei.",
+            "description": "Date: End of 18th century\t \nDemolished: 1913\n\nAfter the demolition of the building, the portal of the house entered the museum collection and was installed on the ground floor. A printing shop had been operating in the house since the 1870s.",
             "creator": "",
-            "destruction": "Abriss: 1913",
+            "destruction": " Demolished: 1913",
             "user": "",
             "date": "Ende 18. Jh. "
         },
@@ -2736,25 +2736,25 @@
             "thumbnails": [
                 {
                     "thumb": {
-                        "instanceID": 31524
+                        "instanceID": 32608
                     },
-                    "thumbTitle": "Wohnhaus",
-                    "thumbInfo": "Fotografie 1913",
+                    "thumbTitle": "Residential building",
+                    "thumbInfo": "Photography, 1913",
                     "mode": 1
                 },
                 {
                     "thumb": {
-                        "instanceID": 31868
+                        "instanceID": 32916
                     },
                     "thumbTitle": "Portal",
-                    "thumbInfo": "Erdgeschoss Museum ",
+                    "thumbInfo": "Ground floor of the museum",
                     "mode": 1
                 }
             ],
             "titleInfo": "",
-            "description": "Datierung: Ende 18. Jh.    \nAbriss: 1913\n\nIn der Straße Große Drehbahn gab es nicht nur Wohnhäuser. Auch ein Konzerthaus und das Logenhaus der Hamburger Freimaurer befanden sich dort. Das Portal des Hauses Nr. 44 gleicht dem Portal der Nr. 43.",
+            "description": "Date: End of 18th century\nDemolished: 1913\n\nThere were not only residential buildings in Große Drehbahn street. A concert hall and the lodge house of the Hamburg Freemasons were also located there. The portal of house number 44 resembles the portal of number 43.",
             "creator": "",
-            "destruction": "Abriss: 1913",
+            "destruction": " Demolished: 1913",
             "user": "",
             "date": "Ende 18. Jh."
         }

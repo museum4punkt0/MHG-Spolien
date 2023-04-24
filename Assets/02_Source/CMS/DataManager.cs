@@ -31,6 +31,7 @@ namespace jn
         private static SpolienData _dataInstance;
         public static SpolienData dataInstance
         {
+
             get{
                 if(_dataInstance == null)
                 {

@@ -79,8 +79,7 @@ Für ein Build auf iOS muss über die Build-Settings das Build-Target auf iOS ge
 [Mehr Informationen](https://docs.unity3d.com/Manual/iphone-BuildProcess.html)
 ## Bekannte Probleme
 
-- Splash Screen wechselt die Sprache nicht
-- Größe der gebuildeten App ist über 2GB, installation auf Android Geräten derzeit nur über Patch-and-Run möglich
+- Splash Screen wechselt die Sprache nicht.
 
 ## Credits 
 
