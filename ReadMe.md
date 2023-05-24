@@ -31,7 +31,9 @@ Beim ersten Öffnen des Projektes werden Fehler auftreten, da externe Tools sowi
 
 - [PagedRect](https://assetstore.unity.com/packages/tools/gui/pagedrect-paging-galleries-and-menus-for-unity-ui-54552) (Installation über den Unity Asset Store / Package Manager) 
 
-- [MHG Asset Pack](https://gitlab.jn.de/jn-public/mhg_spolien-additionaldata) [(Installation über Custom Package)](https://docs.unity3d.com/Manual/AssetPackagesImport.html) 
+- [MHG Asset Pack](Assets.unitypackage) [(Installation über Custom Package)](https://docs.unity3d.com/Manual/AssetPackagesImport.html) 
+
+- [Fallback MHG Asset Pack](https://transfer.jn.de/sharing/D1CRBtAZZ) (Das Unity Asset Pack wird über dieses Repo zur Verfügung gestellt. Sollte dies nicht funktionieren kann das Asset Pack hier heruntergeladen werden.)
 
  
 
