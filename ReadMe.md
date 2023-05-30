@@ -37,7 +37,11 @@ Beim ersten Öffnen des Projektes werden Fehler auftreten, da externe Tools sowi
 
  
 
-Nach einem Neustart des Unity-Editors ist das Projekt vollständig und bereit für die Nutzung. 
+Nach einem Neustart des Unity-Editors ist das Projekt vollständig und bereit für die Nutzung.
+
+Note: Die Materialien des Modells "MHG2.fbx" werden in Unity nicht korrekt geladen. Um das Problem zu beheben müssen die Materialien nur eruneut auf das 3D Objekt angewendet werden.
+Dafür kann in den Import-Settings des Models beispielsweise der Parameter "Search" unter "on demand Remap" umgestellt werden und angewendet werden.
+Dadurch sollten die Materialien wieder neu importiert werden.
 
  
 
